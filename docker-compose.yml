@@ -12,6 +12,11 @@ services:
       - 5432:5432
     volumes:
       - db:/var/lib/postgresql/data
-
+  python:
+    build: .
+    depends_on:
+      - db
+    volumes:
+      - ./:/app
 volumes:
   db:
