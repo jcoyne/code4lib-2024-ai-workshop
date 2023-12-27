@@ -1,4 +1,9 @@
-import psycopg2
 import csv
+from db import db
 
-# Write code to load data from mydata.csv 
+with db() as conn:
+    cursor = conn.cursor()
+    # Write code to load data from mydata.csv
+    # with open("mydata.csv") as infile:
+    #   ...
+    #   conn.commit()
