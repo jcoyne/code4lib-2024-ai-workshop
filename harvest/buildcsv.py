@@ -20,6 +20,6 @@ with open('data.csv', 'w', newline='') as out:
           description += line
         if line == '---\n':
           delimeter_count += 1    
-    writer.writerow([title.rstrip(), description.rstrip()])
+    writer.writerow([title.strip(' "\n'), description.strip()])
         
       
