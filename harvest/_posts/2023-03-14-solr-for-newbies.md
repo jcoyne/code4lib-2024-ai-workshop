@@ -1,8 +1,27 @@
-{
-  "sha": "27f5b02150fb62727b3b69d78f482083cff2d7fa",
-  "node_id": "B_kwDOIJfwrtoAKDI3ZjViMDIxNTBmYjYyNzI3YjNiNjlkNzhmNDgyMDgzY2ZmMmQ3ZmE",
-  "size": 2151,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/27f5b02150fb62727b3b69d78f482083cff2d7fa",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHdvcmtzaG9wCmNhdGVn\nb3JpZXM6IHdvcmtzaG9wcwpmdWxsOiBmYWxzZQpsZWFybmluZy1vdXRjb21l\nczogVGhlIGlkZWEgaXMgZm9yIHlvdSB0byBsZWFybiB0aGUgY29uY2VwdHMs\nIGZlYXR1cmVzLCBhbmQgaG93IHRoZXkgd29yayBbb2YgU29scl0uIElmIHlv\ndSBjaG9vc2UsIHdl4oCZbGwgc2hvdyB5b3UgaG93IHRvIGluc3RhbGwgU29s\nciBvbiB5b3VyIG1hY2hpbmUgdG8gZXhwZXJpbWVudCB3aXRoIHRoZSBjb25j\nZXB0cyBhcyB3ZSBnby4gQnV0IGlmIHlvdSBwcmVmZXIgbm90IHRvIGluc3Rh\nbGwgU29sciAob3IgdXBkYXRpbmcgY29uZmlndXJhdGlvbiBmaWxlcyBpcyBu\nb3QgeW91ciB0aGluZykgeW91IGNhbiBzdGlsbCBmb2xsb3cgYWxvbmcgYW5k\nIGxlYXJuIHdpdGggdXMuCmF0dGVuZGVlLXJlcXVpcmVtZW50czogCm1heC1h\ndHRlbmRlZXM6IDI1CnRpbWU6IGFtCnN0YXJ0VGltZTogOTowMGFtCmVuZFRp\nbWU6IDEyOjAwcG0KbG9jYXRpb246IHJhYmlub3dpdHoKcm9vbTogQTE3CnNw\nZWFrZXJzOgotIGhlY3Rvci1jb3JyZWEKc3BlYWtlci10ZXh0OiBIZWN0b3Ig\nQ29ycmVhCnRpdGxlOiBTb2xyIGZvciBuZXdiaWVzCi0tLQpUaGlzIGlzIGFu\nIGludHJvZHVjdG9yeSB3b3Jrc2hvcCB0byBTb2xyLCB0aGUgZmFzdCBhbmQg\nb3BlbiBzb3VyY2Ugc2VhcmNoIHBsYXRmb3JtIHRoYXQgcG93ZXJzIGEgbG90\nIG9mIGxpYnJhcnkgcHJvZHVjdHMuIFRoaXMgd29ya3Nob3AgaXMgZ2VhcmVk\nIHRvIGFueW9uZSB0aGF0IGhhcyBuZXZlciB1c2VkIFNvbHIsIG9yIHVzZXMg\naXQgYnV0IGhhcyBub3QgZXhwbG9yZWQgc29tZSBvZiB0aGUgZmVhdHVyZXMg\ndGhhdCBTb2xyIG9mZmVycyBvdXQgb2YgdGhlIGJveCwgb3IgbG9va2VkIHVu\nZGVyIHRoZSBob29kIHRvIHNlZSBob3cgaXQgY2FuIGJlIGNvbmZpZ3VyZWQu\nICBXZeKAmWxsIHN0YXJ0IHRoZSB3b3Jrc2hvcCB3aXRoIGEgcXVpY2sgcmV2\naWV3IG9uIGhvdyBTb2xyIHN0b3JlcyBkYXRhIGFuZCB0aGUgcHJvY2VzcyB0\naGF0IGl0IGdvZXMgdGhyb3VnaCB3aGVuIGEgc2VhcmNoIGlzIHN1Ym1pdHRl\nZC4gIFdl4oCZbGwgdGhlbiBnbyB0aHJvdWdoIGEgdG91ciBvZiB0aGUgbWFp\nbiBmZWF0dXJlcyBpbiBTb2xyOgoqIEluZGV4aW5nIHlvdXIgZGF0YTogd2hl\ncmUgYWxsIG9mIGl0IHN0YXJ0cwoqIFNvbHLigJlzIGRvY3VtZW50LWJhc2Vk\nIGRhdGEgbW9kZWwgYW5kIHdoYXQgdGhhdCBtZWFucyB0byB5b3UKKiBIb3cg\ndG8gY29uZmlndXJlIGZpZWxkcyBmb3IgZGlmZmVyZW50IG5lZWRzIChldmVy\nIHdvbmRlciB3aGF0IHRoZSDigJxfdOKAnSBtZWFucyBpbiBhIFNvbHIgZmll\nbGQgYW5kIGhvdyBpdOKAmXMgZGlmZmVyZW50IGZyb20gYSDigJxfc+KAnSBm\naWVsZD8pCiogV2hhdCBhcmUgU2VhcmNoIFJlcXVlc3QgSGFuZGxlcnMgYW5k\nIFF1ZXJ5IHBhcnNlcnMgKGV2ZXIgYmVlbiBwdXp6bGVkIGJ5IGRpc21heCB2\ncyBlZGlzbWF4PykKKiBXaGF04oCZcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVu\nIHRoZSDigJxx4oCdIGFuZCDigJxmceKAnSBwYXJhbWV0ZXJzIHdoZW4geW91\nIHNlYXJjaAoqIEhvdyB0byBkZWJ1ZyBxdWVyaWVzIGFuZCBmaWd1cmUgb3V0\nIHdoeSB0aGUgcmVzdWx0aW5nIGRvY3VtZW50cyBhcmUgYmVpbmcgcGlja2Vk\nIChvciBub3QpCiogSG93IHRvIHR3ZWFrIHRoZSByYW5raW5nIG9mIHJlc3Vs\ndHMKKiBIb3cgdG8gdXNlIGZhY2V0cywgc3lub255bXMsIGFuZCBoaXQgaGln\naGxpZ2h0aW5nICBXaGlsZSBwcmFjdGljYWwsIHRoaXMgd29ya3Nob3AgZG9l\ncyBub3QgcmVxdWlyZSB5b3UgdG8gYmUgYSBjb2Rlci4gVGhlIGlkZWEgaXMg\nZm9yIHlvdSB0byBsZWFybiB0aGUgY29uY2VwdHMsIGZlYXR1cmVzLCBhbmQg\naG93IHRoZXkgd29yay4gSWYgeW91IGNob29zZSwgd2XigJlsbCBzaG93IHlv\ndSBob3cgdG8gaW5zdGFsbCBTb2xyIG9uIHlvdXIgbWFjaGluZSB0byBleHBl\ncmltZW50IHdpdGggdGhlIGNvbmNlcHRzIGFzIHdlIGdvLiBCdXQgaWYgeW91\nIHByZWZlciBub3QgdG8gaW5zdGFsbCBTb2xyIChvciB1cGRhdGluZyBjb25m\naWd1cmF0aW9uIGZpbGVzIGlzIG5vdCB5b3VyIHRoaW5nKSB5b3UgY2FuIHN0\naWxsIGZvbGxvdyBhbG9uZyBhbmQgbGVhcm4gd2l0aCB1cy4K\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: workshop
+categories: workshops
+full: false
+learning-outcomes: The idea is for you to learn the concepts, features, and how they work [of Solr]. If you choose, we’ll show you how to install Solr on your machine to experiment with the concepts as we go. But if you prefer not to install Solr (or updating configuration files is not your thing) you can still follow along and learn with us.
+attendee-requirements: 
+max-attendees: 25
+time: am
+startTime: 9:00am
+endTime: 12:00pm
+location: rabinowitz
+room: A17
+speakers:
+- hector-correa
+speaker-text: Hector Correa
+title: Solr for newbies
+---
+This is an introductory workshop to Solr, the fast and open source search platform that powers a lot of library products. This workshop is geared to anyone that has never used Solr, or uses it but has not explored some of the features that Solr offers out of the box, or looked under the hood to see how it can be configured.  We’ll start the workshop with a quick review on how Solr stores data and the process that it goes through when a search is submitted.  We’ll then go through a tour of the main features in Solr:
+* Indexing your data: where all of it starts
+* Solr’s document-based data model and what that means to you
+* How to configure fields for different needs (ever wonder what the “_t” means in a Solr field and how it’s different from a “_s” field?)
+* What are Search Request Handlers and Query parsers (ever been puzzled by dismax vs edismax?)
+* What’s the difference between the “q” and “fq” parameters when you search
+* How to debug queries and figure out why the resulting documents are being picked (or not)
+* How to tweak the ranking of results
+* How to use facets, synonyms, and hit highlighting  While practical, this workshop does not require you to be a coder. The idea is for you to learn the concepts, features, and how they work. If you choose, we’ll show you how to install Solr on your machine to experiment with the concepts as we go. But if you prefer not to install Solr (or updating configuration files is not your thing) you can still follow along and learn with us.

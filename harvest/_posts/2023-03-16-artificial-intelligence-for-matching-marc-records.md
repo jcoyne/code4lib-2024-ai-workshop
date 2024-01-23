@@ -1,8 +1,19 @@
-{
-  "sha": "096fa1d40286b9ac6d436d1551df0c39eafe90ba",
-  "node_id": "B_kwDOIJfwrtoAKDA5NmZhMWQ0MDI4NmI5YWM2ZDQzNmQxNTUxZGYwYzM5ZWFmZTkwYmE",
-  "size": 1088,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/096fa1d40286b9ac6d436d1551df0c39eafe90ba",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogMTE6MjUgQU0Kc3RhcnRUaW1lOiAyMDIzLTAzLTE2\nVDExOjI1Cmxlbmd0aDogMjAKZGF5OiAyCmdyb3VwOiA1CnNwb3Q6IDMKbG9j\nYXRpb246IGZyaXN0CnJvb206IG1wcgpzcGVha2VyczoKLSByYWlkZW4tdmFu\nLWJyb25raG9yc3QKLSBjaGFybGllLWNvbGxldHQKc3BlYWtlci10ZXh0OiBS\nYWlkZW4gdmFuIEJyb25raG9yc3QsIENoYXJsaWUgQ29sbGV0dAp0aXRsZTog\nIkFydGlmaWNpYWwgSW50ZWxsaWdlbmNlIGZvciBtYXRjaGluZyBNQVJDIHJl\nY29yZHMiCi0tLQpDYW4gQUkgYmUgdXNlZCBmb3IgbWF0Y2hpbmcgTUFSQyBy\nZWNvcmRzPyBXZSBtYXRjaCBiaWJsaW9ncmFwaGljIHJlY29yZHMgZnJvbSBk\naWZmZXJlbnQgaW5zdGl0dXRpb25zIGZvciBkZWR1cGxpY2F0aW9uLiBNb3N0\nIG9mIHRoZSByZWNvcmRzIHdlIHByb2Nlc3MgaGF2ZSBPQ0xDIG51bWJlcnMs\nIGJ1dCByZWNvcmRzIGxhY2tpbmcgdGhlbSBjYW7igJl0IGJlIGRlZHVwbGlj\nYXRlZC4gV2UgaGF2ZSBubyBhdXRvbWF0ZWQgcHJvY2VzcyBmb3IgYXVkaXRp\nbmcgd2hldGhlciBPQ0xDIG51bWJlcnMgd2VyZSBjb3JyZWN0bHkgYXNzaWdu\nZWQgd2hlbiBjYXRhbG9nZWQuIEFmdGVyIHllYXJzIG9mIHJlbHlpbmcgb24g\nT0NMQyBudW1iZXJzLCB3ZSBiZWdhbiBleHBsb3JpbmcgYWRkaXRpb25hbCBt\nZXRob2RzIGZvciBtYXRjaGluZyBNQVJDIHJlY29yZHMuIFdl4oCZdmUgZXhw\nZXJpbWVudGVkIHdpdGggZnV6enkgbWF0Y2hpbmcgYW5kIG5hdHVyYWwgbGFu\nZ3VhZ2UgcHJvY2Vzc2luZyB0ZWNobmlxdWVzIGluIGNvbmp1bmN0aW9uIHdp\ndGggYSB2YXJpZXR5IG9mIG1hY2hpbmUgbGVhcm5pbmcgbW9kZWxzIChsb2dp\nc3RpYyByZWdyZXNzaW9uLCByYW5kb20gZm9yZXN0cywgZGVjaXNpb24gdHJl\nZXMsIGFuZCBuZXVyYWwgbmV0d29ya3MpLiBUaGlzIHRhbGsgd2lsbCBkaXNj\ndXNzIG91ciBleHBsb3JhdGlvbiBvZiBBSSBhbmQgb3VyIGN1cnJlbnQgbW9k\nZWwsIHNoYXJlIG91ciBvYnN0YWNsZXMsIGFuZCBvdXRsaW5lIG91ciBuZXh0\nIHN0ZXBzLgo=\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 11:25 AM
+startTime: 2023-03-16T11:25
+length: 20
+day: 2
+group: 5
+spot: 3
+location: frist
+room: mpr
+speakers:
+- raiden-van-bronkhorst
+- charlie-collett
+speaker-text: Raiden van Bronkhorst, Charlie Collett
+title: "Artificial Intelligence for matching MARC records"
+---
+Can AI be used for matching MARC records? We match bibliographic records from different institutions for deduplication. Most of the records we process have OCLC numbers, but records lacking them can’t be deduplicated. We have no automated process for auditing whether OCLC numbers were correctly assigned when cataloged. After years of relying on OCLC numbers, we began exploring additional methods for matching MARC records. We’ve experimented with fuzzy matching and natural language processing techniques in conjunction with a variety of machine learning models (logistic regression, random forests, decision trees, and neural networks). This talk will discuss our exploration of AI and our current model, share our obstacles, and outline our next steps.

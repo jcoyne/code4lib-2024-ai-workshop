@@ -1,8 +1,23 @@
-{
-  "sha": "d29399dd2ff04932176cf601116c12a27b50e2a3",
-  "node_id": "B_kwDOIJfwrtoAKGQyOTM5OWRkMmZmMDQ5MzIxNzZjZjYwMTExNmMxMmEyN2I1MGUyYTM",
-  "size": 1314,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/d29399dd2ff04932176cf601116c12a27b50e2a3",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHBvc3RlcgpjYXRlZ29y\naWVzOiBwb3N0ZXJzCnRpbWU6IDM6MzAgUE0Kc3RhcnRUaW1lOiAyMDIzLTAz\nLTE2VDE1OjMwCmxlbmd0aDogMzAKZGF5OiAyCmxvY2F0aW9uOiBGcmlzdCBM\nb2JieQpzcGVha2VyLXRleHQ6IERhbmllbGxlIFJlYXkgYW5kIENhbmRhY2Ug\nUmVpbGx5LCBEcmV3IFVuaXZlcnNpdHkKdGl0bGU6ICJEb2luZyBpdCBmb3Ig\ndGhlIFBob3RvZ3JhbW1ldHJ5OiAzRCBtb2RlbGluZyBpbiB0aGUgY2xhc3Ny\nb29tIgotLS0KVGhpcyBwb3N0ZXIgd2lsbCBwcm92aWRlIGFuIG92ZXJ2aWV3\nIG9mIGEgcGhvdG9ncmFtbWV0cnkgYXNzaWdubWVudCBkZXZlbG9wZWQgYXMg\ncGFydCBvZiBhbgpJbnRyb2R1Y3Rpb24gdG8gRGlnaXRhbCBIdW1hbml0aWVz\nIGNsYXNzLiBUaGlzIHNlc3Npb24gd2FzIGEgcGFydG5lcnNoaXAgYmV0d2Vl\nbiBTcGVjaWFsCkNvbGxlY3Rpb25zIGFuZCBEaWdpdGFsIEluaXRpYXRpdmVz\nIGxpYnJhcmlhbnMgYW5kIGFsbG93ZWQgc3R1ZGVudHMgdG8gZXhwZXJpbWVu\ndCB3aXRoIDNEIG1vZGVsaW5nCmFydGlmYWN0cyBob3VzZWQgaW4gc3BlY2lh\nbCBjb2xsZWN0aW9ucy4gU3R1ZGVudHMgdXNlZCB0aGVpciBwaG9uZXMgYW5k\nIDNEIFplcGh5ciB0byBwaG90b2dyYXBoCmFuZCBwcm9jZXNzIHRoZWlyIG1v\nZGVscyB3aGljaCB3ZXJlIHRoZW4gdXBsb2FkZWQgdG8gU2tldGNoZmFiLiBT\ndHVkZW50cyByZWNlaXZlZCBoYW5kcy1vbgpleHBlcmllbmNlIHdvcmtpbmcg\nd2l0aCB0aGUgYXJ0aWZhY3RzIGFuZCB0cmFuc2ZlcmFibGUgZGlnaXRhbCBz\na2lsbHMgdGhhdCBhcmUgcGFydCBvZgpwcm9mZXNzaW9uYWwgY3VsdHVyYWwg\naGVyaXRhZ2UgaW5zdGl0dXRpb25z4oCZcyBkaWdpdGFsIHByYWN0aWNlcy4g\nU3R1ZGVudHMgYWxzbyBoYWQgdGhlIG9wcG9ydHVuaXR5CnRvIHBhcnRuZXIg\nd2l0aCBzcGVjaWFsIGNvbGxlY3Rpb25zIGNvbGxhYm9yYXRvcnMgc3VjaCBh\ncyBUaGUgQnlyb24gU29jaWV0eSBvZiBBbWVyaWNhIHRvIGVudmlzaW9uCndh\neXMgb2YgbWFraW5nIHRoZWlyIHJlYWxpYSBjb2xsZWN0aW9ucyBtb3JlIHB1\nYmxpYy1mYWNpbmcgYW5kIGFjY2Vzc2libGUuIFRoaXMgYWN0aXZpdHkgd2Fz\nIHBhcnQKb2YgdGhlIGNvdXJzZeKAmXMgaW1hZ2UgYW5kIGFyY2hpdmVzIHVu\naXQgYW5kIGFsc28gaGVscGVkIG1ha2UgZXhwbGljaXQgdGhlbWVzIGFuZCB0\naGVvcmllcyBleHBsb3JlZAp3aXRoaW4gdGhlIGNsYXNzIHJlbGF0ZWQgdG8g\nY2xvc2UgbG9va2luZywgdGhlIHVuY2FubnksIGFuZCBkaWdpdGFsIHByZXNl\ncnZhdGlvbi4K\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: poster
+categories: posters
+time: 3:30 PM
+startTime: 2023-03-16T15:30
+length: 30
+day: 2
+location: Frist Lobby
+speaker-text: Danielle Reay and Candace Reilly, Drew University
+title: "Doing it for the Photogrammetry: 3D modeling in the classroom"
+---
+This poster will provide an overview of a photogrammetry assignment developed as part of an
+Introduction to Digital Humanities class. This session was a partnership between Special
+Collections and Digital Initiatives librarians and allowed students to experiment with 3D modeling
+artifacts housed in special collections. Students used their phones and 3D Zephyr to photograph
+and process their models which were then uploaded to Sketchfab. Students received hands-on
+experience working with the artifacts and transferable digital skills that are part of
+professional cultural heritage institutions’s digital practices. Students also had the opportunity
+to partner with special collections collaborators such as The Byron Society of America to envision
+ways of making their realia collections more public-facing and accessible. This activity was part
+of the course’s image and archives unit and also helped make explicit themes and theories explored
+within the class related to close looking, the uncanny, and digital preservation.

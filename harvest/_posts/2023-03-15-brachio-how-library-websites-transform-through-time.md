@@ -1,8 +1,23 @@
-{
-  "sha": "24de6f05b60ac159a6c6f50e1bd8fe47caea5d89",
-  "node_id": "B_kwDOIJfwrtoAKDI0ZGU2ZjA1YjYwYWMxNTlhNmM2ZjUwZTFiZDhmZTQ3Y2FlYTVkODk",
-  "size": 2133,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/24de6f05b60ac159a6c6f50e1bd8fe47caea5d89",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogMTE6MDUgQU0Kc3RhcnRUaW1lOiAyMDIzLTAzLTE1\nVDExOjQ1Cmxlbmd0aDogMTAKZGF5OiAxCmdyb3VwOiAxCnNwb3Q6IDYKbG9j\nYXRpb246IGZyaXN0CnJvb206IG1wcgpzcGVha2VyczoKLSBhbGxhbi1iZXJy\neQpzcGVha2VyLXRleHQ6IEFsbGFuIEJlcnJ5CnRpdGxlOiAiQnJhY2hpbzog\naG93IGxpYnJhcnkgd2Vic2l0ZXMgdHJhbnNmb3JtIHRocm91Z2ggdGltZSIK\nLS0tCkhvdyBoYXZlIGxpYnJhcnkgd2Vic2l0ZXMgY2hhbmdlZCBvdmVyIHRp\nbWU/ICBXaGF0IGRpc3Rpbmd1aXNoZXMgdGhlbSBmcm9tIHRoZWlyIHBlZXJz\nLCBhbmQgZnJvbSB0aGVpciBwYXN0PyAgV2hhdCBkYXRhIG1pZ2h0IGd1aWRl\nIHdlYm1hc3RlcnMgZm9yIG1haW50ZW5hbmNlIGRlY2lzaW9ucz8gIEluIHRo\naXMgcHJvamVjdCwgaGlzdG9yaWNhbCB3ZWIgY29kZSBpcyBjb2xsZWN0ZWQg\nYW5kIGV4YW1pbmVkIHRvIGhpZ2hsaWdodCBmZWF0dXJlcyBhbmQgdHJlbmRz\nIGluIGxpYnJhcnkgd2Vic2l0ZXMsIGJhY2sgdG8gdGhlIGVhcmx5IGRheXMg\nb2YgdGhlIHdvcmxkIHdpZGUgd2ViLiAgVGhlIGNvcm5lcnN0b25lIG9mIHRo\naXMgYW5hbHlzaXMgaXMgYSBkYXRhc2V0IG9mIGFib3V0IDEwMDAgYWNhZGVt\naWMgd2ViIFVSTHM6IGhvbWVwYWdlcywgY29udGVudCBwYWdlcywgYW5kIHNl\nYXJjaCBlbmdpbmVzLiAgVGhpcyBpbmNsdWRlcyBhbGwgbWVtYmVycyBvZiB0\naGUgQXNzb2NpYXRpb24gb2YgUmVzZWFyY2ggTGlicmFyaWVzIChBUkwpIGFu\nZCBzZXZlcmFsIG90aGVyIHByb21pbmVudCB1bml2ZXJzaXR5IGxpYnJhcmll\ncywgY29tcGFyZWQgd2l0aCBob21lcGFnZXMgZnJvbSBlYWNoIGxpYnJhcnkn\ncyBob3N0IGluc3RpdHV0aW9uIGFuZCB0aG9zZSBvZiBhIGhhbmRmdWwgb2Yg\ncHJvbWluZW50IG11c2V1bXMgYW5kIHB1YmxpYyBsaWJyYXJpZXMuICBFYWNo\nIFVSTCBpcyByZXF1ZXN0ZWQgZnJvbSB0aGUgSW50ZXJuZXQgQXJjaGl2ZSdz\nIFdheWJhY2sgTWFjaGluZSwgaW4gaW5jcmVtZW50cyBiYWNrIHRvIDE5OTUu\nICBIVE1MLCBDU1MsIEphdmFTY3JpcHQsIGFuZCBzY3JlZW5zaG90cyBhcmUg\nY29sbGVjdGVkLCBxdWFudGlmaWVkLCBhbmQgZXZhbHVhdGVkIGFnYWluc3Qg\ndmFyaW91cyBtZXRyaWNzLCBpbmNsdWRpbmcgZm9yIGNvbXBsZXhpdHkgYW5k\nIGFjY2Vzc2liaWxpdHksIGFuZCBwYXJzZWQgZm9yIGhpbnRzIG9mIHRlY2hu\nb2xvZ2llcyB1c2VkLiAgVGhlc2UgcGFnZSBkYXRhIGFyZSBjb2xsZWN0ZWQg\naW50byBhIHN0YW5kYXJkaXplZCBzbmFwc2hvdCBvZiBlYWNoIHdlYnBhZ2Ug\nZm9yIGNyb3NzLWFuYWx5c2lzLCBhdWdtZW50ZWQgd2l0aCBkYXRhIGZyb20g\ndGhlIEFSTCBhbmQgdGhlIGZlZGVyYWwgSW50ZWdyYXRlZCBQb3N0c2Vjb25k\nYXJ5IEVkdWNhdGlvbiBEYXRhIFN5c3RlbSAoSVBFRFMpLiAgV2l0aCB0aGlz\nIGRhdGFzZXQgSSBhbSB3b3JraW5nIHRvIHN5c3RlbWF0aWNhbGx5IGhpZ2hs\naWdodCBjaGFuZ2VzIGFuZCB0cmVuZHMgaW4gbGlicmFyeSB3ZWJzaXRlcywg\ndG8gaGVscCB3ZWJtYXN0ZXJzIHBlcmZvcm0gY29tcGFyYXRpdmUgcmVzZWFy\nY2ggYW5kIHRvIGhpZ2hsaWdodCBkaWZmZXJlbmNlcyBpbiBxdWFsaXR5IGFu\nZCBlcXVpdHkuICBJdCB3aWxsIGVuYWJsZSBhbnN3ZXJzIHRvIHByb3ZvY2F0\naXZlIHF1ZXN0aW9ucyBsaWtlOgoqIGhvdyBvZnRlbiBhcmUgbGlicmFyeSB3\nZWJzaXRlcyByZWJ1aWx0PwoqIHdoYXQgd2ViIHRlY2hub2xvZ2llcyBhbmQg\nZmVhdHVyZXMgaGF2ZSBiZWVuIG1vc3QgcG9wdWxhciBhbW9uZyBsaWJyYXJp\nZXM/CiogaG93IGRvIGxpYnJhcnkgd2Vic2l0ZXMgZGlmZmVyIGJldHdlZW4g\ndGhlIEl2eSBMZWFndWUgYW5kIHNtYWxsZXIsIHJlZ2lvbmFsIGluc3RpdHV0\naW9ucz8KCkluIHRpbWUsIEkgaG9wZSB0byBwcm92aWRlIGEgYnJvd3NlYWJs\nZSBjYXRhbG9nIG9mIGxpYnJhcnkgd2Vic2l0ZXMsIGZvciB3ZWJtYXN0ZXJz\nIHRvIG1ha2UgbW9yZSBpbmZvcm1lZCBkZWNpc2lvbnMsIGFuZCB0byBlbmFi\nbGUgZnVydGhlciByZXNlYXJjaCBpbnRvIHRoZSBoaXN0b3J5IG9mIGxpYnJh\ncmllcyBvbiB0aGUgd2ViLiAK\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 11:05 AM
+startTime: 2023-03-15T11:45
+length: 10
+day: 1
+group: 1
+spot: 6
+location: frist
+room: mpr
+speakers:
+- allan-berry
+speaker-text: Allan Berry
+title: "Brachio: how library websites transform through time"
+---
+How have library websites changed over time?  What distinguishes them from their peers, and from their past?  What data might guide webmasters for maintenance decisions?  In this project, historical web code is collected and examined to highlight features and trends in library websites, back to the early days of the world wide web.  The cornerstone of this analysis is a dataset of about 1000 academic web URLs: homepages, content pages, and search engines.  This includes all members of the Association of Research Libraries (ARL) and several other prominent university libraries, compared with homepages from each library's host institution and those of a handful of prominent museums and public libraries.  Each URL is requested from the Internet Archive's Wayback Machine, in increments back to 1995.  HTML, CSS, JavaScript, and screenshots are collected, quantified, and evaluated against various metrics, including for complexity and accessibility, and parsed for hints of technologies used.  These page data are collected into a standardized snapshot of each webpage for cross-analysis, augmented with data from the ARL and the federal Integrated Postsecondary Education Data System (IPEDS).  With this dataset I am working to systematically highlight changes and trends in library websites, to help webmasters perform comparative research and to highlight differences in quality and equity.  It will enable answers to provocative questions like:
+* how often are library websites rebuilt?
+* what web technologies and features have been most popular among libraries?
+* how do library websites differ between the Ivy League and smaller, regional institutions?
+
+In time, I hope to provide a browseable catalog of library websites, for webmasters to make more informed decisions, and to enable further research into the history of libraries on the web. 

@@ -1,8 +1,18 @@
-{
-  "sha": "7f87d8ff13014d02f569c188c3a73053a812cac3",
-  "node_id": "B_kwDOIJfwrtoAKDdmODdkOGZmMTMwMTRkMDJmNTY5YzE4OGMzYTczMDUzYTgxMmNhYzM",
-  "size": 1426,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/7f87d8ff13014d02f569c188c3a73053a812cac3",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogMTo1NSBQTQpzdGFydFRpbWU6IDIwMjMtMDMtMTZU\nMTM6NTUKbGVuZ3RoOiAxMApkYXk6IDIKZ3JvdXA6IDYKc3BvdDogMwpsb2Nh\ndGlvbjogZnJpc3QKcm9vbTogbXByCnNwZWFrZXJzOgotIGJvaHl1bi1raW0K\nc3BlYWtlci10ZXh0OiBCb2h5dW4gS2ltCnRpdGxlOiAiQ2F1Z2h0IGJldHdl\nZW4gQ2xhcml0eSBhbmQgRmxleGliaWxpdHk6IEhvdyB0byBCZXR0ZXIgUGxh\nbiBEZXZlbG9wbWVudCBhbmQgSVQgV29yayIKLS0tCklmIHlvdXIgSVQgdGVh\nbSBjb25zdGFudGx5IHJlY2VpdmVzIG1vcmUgd29yayB0aGFuIHdoYXQgaXQg\nY2FuIGNvbXBsZXRlIGdpdmVuIGF2YWlsYWJsZSByZXNvdXJjZXMsIGhvdyBk\nbyB5b3UgcGxhbiBhbmQgZXhlY3V0ZSB0aGUgd29yaz8gTWFueSBJVCB0ZWFt\ncyBmYWNlIHRoaXMgY2hhbGxlbmdlIGFuZCBmaW5kIGl0IGRpZmZpY3VsdCB0\nbyBjb21lIHVwIHdpdGggYSBzYXRpc2ZhY3Rvcnkgc29sdXRpb24gYW5kIHBy\nb2Nlc3Nlcy4gSWYgYSB0ZWFtIHBsYW5zIG1vcmUgd29yayB0aGFuIGl0IGNh\nbiBoYW5kbGUsIHRlYW0gbWVtYmVycyB3aWxsIGV4cGVyaWVuY2UgYnVybm91\ndCBhbmQgdGhlIHF1YWxpdHkgb2YgdGhlIHdvcmsgaXMgbGlrZWx5IHRvIHN1\nZmZlci4gQnV0IHNpbXBseSB0YWNrbGluZyB3b3JrIGFzIGNhcGFjaXR5IGZy\nZWVzIHVwIGFuZCBhdm9pZGluZyBwbGFubmluZyB3aWxsIGFsc28gcnVuIHRo\nZSByaXNrIG9mIHNjb3BlIGNyZWVwIGFuZCBwb29yIHJlc291cmNlIG1hbmFn\nZW1lbnQuICBBIGNlcnRhaW4gZGVncmVlIG9mIHBsYW5uaW5nIGluY2x1ZGlu\nZyBhIHJvdWdoIHRpbWVsaW5lIGFuZCBhIHNldCBvZiBkZWxpdmVyYWJsZXMg\nc2VlbXMgZXNzZW50aWFsIHRvIGJlIGFibGUgdG8gcHJvdmlkZSB0aGUgdGVh\nbSB3aXRoIGEgZ29hbCB0byBhaW0gZm9yIGFuZCB0byBldmFsdWF0ZSBob3cg\nd2VsbCBvciBwb29ybHkgdGhlIHBsYW5uZWQgd29yayB3YXMgZXhlY3V0ZWQg\ndXBvbiBjb21wbGV0aW9uLiBCdXQgdGhpcyBpcyBlYXNpZXIgc2FpZCB0aGFu\nIGRvbmUsIHdoZW4gdGhlIHRlYW0gaGFzIGEgbGFyZ2UgbnVtYmVyIG9mIHBy\nb2R1Y3RzIHRvIG1hbmFnZSBhbmQgbWFueSBwcm9qZWN0cyBpbiBxdWV1ZS4g\nSSB3aWxsIGhpZ2hsaWdodCBrZXkgY2hhbGxlbmdlcyB3ZSBlbmNvdW50ZXIg\nd2hlbiB3ZSB0cnkgdG8gYmV0dGVyIHBsYW4gZGV2ZWxvcG1lbnQgYW5kIGxp\nYnJhcnkgdGVjaG5vbG9neSB3b3JrIGFuZCBkaXNjdXNzIHNvbWUgbWVhc3Vy\nZXMgYW5kIHByb2Nlc3NlcyB0aGF0IGNhbiBoZWxwIGJhbGFuY2luZyBvdXIg\nY29uZmxpY3RpbmcgZGVzaXJlcyBmb3IgY2xhcml0eSBhbmQgZmxleGliaWxp\ndHkgY29tbW9ubHkgZm91bmQgaW4gSVQgdGVhbXMuCg==\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 1:55 PM
+startTime: 2023-03-16T13:55
+length: 10
+day: 2
+group: 6
+spot: 3
+location: frist
+room: mpr
+speakers:
+- bohyun-kim
+speaker-text: Bohyun Kim
+title: "Caught between Clarity and Flexibility: How to Better Plan Development and IT Work"
+---
+If your IT team constantly receives more work than what it can complete given available resources, how do you plan and execute the work? Many IT teams face this challenge and find it difficult to come up with a satisfactory solution and processes. If a team plans more work than it can handle, team members will experience burnout and the quality of the work is likely to suffer. But simply tackling work as capacity frees up and avoiding planning will also run the risk of scope creep and poor resource management.  A certain degree of planning including a rough timeline and a set of deliverables seems essential to be able to provide the team with a goal to aim for and to evaluate how well or poorly the planned work was executed upon completion. But this is easier said than done, when the team has a large number of products to manage and many projects in queue. I will highlight key challenges we encounter when we try to better plan development and library technology work and discuss some measures and processes that can help balancing our conflicting desires for clarity and flexibility commonly found in IT teams.

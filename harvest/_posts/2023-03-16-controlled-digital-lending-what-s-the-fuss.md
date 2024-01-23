@@ -1,8 +1,18 @@
-{
-  "sha": "394721a8fd860ef4eca345c8c0d0d4c17802de07",
-  "node_id": "B_kwDOIJfwrtoAKDM5NDcyMWE4ZmQ4NjBlZjRlY2EzNDVjOGMwZDBkNGMxNzgwMmRlMDc",
-  "size": 1093,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/394721a8fd860ef4eca345c8c0d0d4c17802de07",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogNDo0MCBQTQpzdGFydFRpbWU6IDIwMjMtMDMtMTZU\nMTY6NDAKbGVuZ3RoOiAxNQpkYXk6IDIKZ3JvdXA6IDcKc3BvdDogNApsb2Nh\ndGlvbjogZnJpc3QKcm9vbTogbXByCnNwZWFrZXJzOgotIHBldGVyLW11cnJh\neQpzcGVha2VyLXRleHQ6IFBldGVyIE11cnJheQp0aXRsZTogIkNvbnRyb2xs\nZWQgRGlnaXRhbCBMZW5kaW5nLi4uV2hhdCdzIHRoZSBGdXNzPyIKLS0tCkNv\nbnRyb2xsZWQgRGlnaXRhbCBMZW5kaW5nLCBvciBDREwsIGlzIHRoZSByZXBs\naWNhdGlvbiBvZiB0aGUgcGh5c2ljYWwgYWN0IG9mIGNoZWNraW5nIG91dCBh\nIGJvb2sgYnJvdWdodCB0byB0aGUgZGlnaXRhbCBzcGFjZS4gT25lIGJvb2ss\nIG9uZSBsZW5k4oCUbm8gbWF0dGVyIGlmIHRoZSBib29rIGlzIGEgcGh5c2lj\nYWwgb25lIG9yIGEgZGlnaXRhbCBvbmUuIFVzaW5nIGRpZ2l0YWwgcmlnaHRz\nIG1hbmFnZW1lbnQgdG8gZW5mb3JjZSB0aGUgb25lLWJvb2svb25lLWxlbmQg\ncG9saWN5LCBDREwgZXh0ZW5kcyB0aGUgcmVhY2ggb2YgaXRlbXMgdGhhdCB0\naGUgbGlicmFyeSBoYXMgcHVyY2hhc2VkIHRvIHBhdHJvbnMgb3V0c2lkZSBv\nZiB0aGUgZm91ciB3YWxscyBvZiB0aGUgYnVpbGRpbmcuICBCZWhpbmQgdGhp\ncyBzaW1wbGUgaWRlYSBpcyBjb21wbGV4IHdlYiBvZiBwb2xpY3kgYW5kIHRl\nY2huaWNhbCBkZWNpc2lvbnMuIFRvIHNheSBub3RoaW5nIGFib3V0IHRoZSBy\naXNrIG9mIGJlaW5nIHN1ZWQuIFRoaXMgc2Vzc2lvbiBleHBsb3JlcyB0aGUg\ncG9saWN5LCB0ZWNobm9sb2d5LCBhbmQgeWVzIGEgbGl0dGxlIG9mIHRoZSBs\nZWdhbCBzcGFjZSBzdXJyb3VuZGluZyBDREwuIEF0dGVuZGVlcyB3aWxsIGxl\nYXJuIGFib3V0IENETCBwcm9qZWN0cyBpbiBsaWJyYXJpZXMsIFByb2plY3Qg\nUmVTaGFyZSdzIGVmZm9ydCB0byBhZGQgYSBDREwgYXBwIHRvIGl0cyBwbGF0\nZm9ybSwgYW5kIHRoZSBlZmZvcnRzIG9mIHRoZSBOSVNPIHdvcmtpbmcgZ3Jv\ndXAgb24gSW50ZXJvcGVyYWJsZSBTeXN0ZW0gb2YgQ29udHJvbGxlZCBEaWdp\ndGFsIExlbmRpbmcuCg==\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 4:40 PM
+startTime: 2023-03-16T16:40
+length: 15
+day: 2
+group: 7
+spot: 4
+location: frist
+room: mpr
+speakers:
+- peter-murray
+speaker-text: Peter Murray
+title: "Controlled Digital Lending...What's the Fuss?"
+---
+Controlled Digital Lending, or CDL, is the replication of the physical act of checking out a book brought to the digital space. One book, one lend—no matter if the book is a physical one or a digital one. Using digital rights management to enforce the one-book/one-lend policy, CDL extends the reach of items that the library has purchased to patrons outside of the four walls of the building.  Behind this simple idea is complex web of policy and technical decisions. To say nothing about the risk of being sued. This session explores the policy, technology, and yes a little of the legal space surrounding CDL. Attendees will learn about CDL projects in libraries, Project ReShare's effort to add a CDL app to its platform, and the efforts of the NISO working group on Interoperable System of Controlled Digital Lending.

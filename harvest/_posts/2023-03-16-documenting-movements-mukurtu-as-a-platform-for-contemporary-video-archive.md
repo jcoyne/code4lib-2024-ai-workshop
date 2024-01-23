@@ -1,8 +1,19 @@
-{
-  "sha": "5be9145a4757a0f4a95b9f5a47bef3142f466918",
-  "node_id": "B_kwDOIJfwrtoAKDViZTkxNDVhNDc1N2EwZjRhOTViOWY1YTQ3YmVmMzE0MmY0NjY5MTg",
-  "size": 1215,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/5be9145a4757a0f4a95b9f5a47bef3142f466918",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogOTo0NSBBTQpzdGFydFRpbWU6IDIwMjMtMDMtMTZU\nOTo0NQpsZW5ndGg6IDE1CmRheTogMgpncm91cDogNApzcG90OiAzCmxvY2F0\naW9uOiBmcmlzdApyb29tOiBtcHIKc3BlYWtlcnM6Ci0gbWFyZ2FyZXQtaGVs\nbGVyCi0gZ3JlZXItbWFydGluCnNwZWFrZXItdGV4dDogTWFyZ2FyZXQgSGVs\nbGVyLCBHcmVlciBNYXJ0aW4KdGl0bGU6ICJEb2N1bWVudGluZyBNb3ZlbWVu\ndHM6IE11a3VydHUgYXMgYSBwbGF0Zm9ybSBmb3IgY29udGVtcG9yYXJ5IHZp\nZGVvIGFyY2hpdmUgIgotLS0KTXVrdXJ0dSB3YXMgZGVzaWduZWQgZm9yIElu\nZGlnZW5vdXMgY29tbXVuaXRpZXMgdG8gZGV0ZXJtaW5lIGFuZCBlbmFjdCBj\ndWx0dXJhbCBwcm90b2NvbHMgaW4gYSBkaWdpdGFsIHNwYWNlIGJ5IG1hbmFn\naW5nIHRoZSBhY2Nlc3MgYW5kIHVzZSBvZiBjdWx0dXJhbCBtYXRlcmlhbHMg\nYW5kIGtub3dsZWRnZS4gV2hhdCBhYm91dCBmb3IgcG9saXRpY2FsIGFjdGlv\nbiB0aGF0IEluZGlnZW5vdXMgY29tbXVuaXRpZXMgYXJlIGVuZ2FnZWQgaW4g\nYW5kIGRvY3VtZW50aW5nIHJpZ2h0IG5vdz8gVGhpcyBwcmVzZW50YXRpb24g\nd2lsbCBzaG93Y2FzZSBhIHBhcnRuZXJzaGlwIGJldHdlZW4gYW4gYWNhZGVt\naWMgaW5zdGl0dXRpb24gYW5kIGFuIEluZGlnZW5vdXMgbGVnYWwgYWR2b2Nh\nY3kgb3JnYW5pemF0aW9uIHRvIGNyZWF0ZSBhIHBvcnRhbCBmb3Igc3R1ZGVu\ndHMgYW5kIHJlc2VhcmNoZXJzIHRvIHRoZWlyIHZpZGVvIGFyY2hpdmUgZmVh\ndHVyaW5nIGRvY3VtZW50YXRpb24gb2YgZW52aXJvbm1lbnRhbCBqdXN0aWNl\nIG1vdmVtZW50cy4gQ29uc2lkZXJhdGlvbnMgaW5jbHVkZSBwcml2YWN5IGFu\nZCBzdXJ2ZWlsbGFuY2UsIGVhc2Ugb2YgdXNlIGZvciBkaWZmZXJlbnQgcHVy\ncG9zZXMgYnkgc3Rha2Vob2xkZXJzIGluY2x1ZGluZyBzdHVkZW50cyBhdCB0\ncmliYWwgY29sbGVnZXMsIGFjY2Vzc2liaWxpdHksIGFuZCBjb250ZW50IGdv\ndmVybmFuY2UuIFdlIHdpbGwgc2hhcmUgdGhlIGxpbWl0YXRpb25zIGZvciB1\nc2luZyBNdWt1cnR1IGZvciBzdWNoIGEgcHJvamVjdCBhbmQgZGlmZmVyZW50\nIHRlY2huaWNhbCBtb2RlbHMgdGhhdCBwcm9qZWN0cyBjYW4gdXNlIGZvciBz\nZWxmLWhvc3Rpbmcgb3IgY2xvdWQgaG9zdGluZyB2aWRlbyBjb250ZW50LiAK\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 9:45 AM
+startTime: 2023-03-16T9:45
+length: 15
+day: 2
+group: 4
+spot: 3
+location: frist
+room: mpr
+speakers:
+- margaret-heller
+- greer-martin
+speaker-text: Margaret Heller, Greer Martin
+title: "Documenting Movements: Mukurtu as a platform for contemporary video archive "
+---
+Mukurtu was designed for Indigenous communities to determine and enact cultural protocols in a digital space by managing the access and use of cultural materials and knowledge. What about for political action that Indigenous communities are engaged in and documenting right now? This presentation will showcase a partnership between an academic institution and an Indigenous legal advocacy organization to create a portal for students and researchers to their video archive featuring documentation of environmental justice movements. Considerations include privacy and surveillance, ease of use for different purposes by stakeholders including students at tribal colleges, accessibility, and content governance. We will share the limitations for using Mukurtu for such a project and different technical models that projects can use for self-hosting or cloud hosting video content. 

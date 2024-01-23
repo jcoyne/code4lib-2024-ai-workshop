@@ -1,8 +1,23 @@
-{
-  "sha": "63c9cba1bbaddde085a43f1f590c6e77f4ecad61",
-  "node_id": "B_kwDOIJfwrtoAKDYzYzljYmExYmJhZGRkZTA4NWE0M2YxZjU5MGM2ZTc3ZjRlY2FkNjE",
-  "size": 1328,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/63c9cba1bbaddde085a43f1f590c6e77f4ecad61",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHBvc3RlcgpjYXRlZ29y\naWVzOiBwb3N0ZXJzCnRpbWU6IDM6MzAgUE0Kc3RhcnRUaW1lOiAyMDIzLTAz\nLTE2VDE1OjMwCmxlbmd0aDogMzAKZGF5OiAyCmxvY2F0aW9uOiBGcmlzdCBM\nb2JieQpzcGVha2VyLXRleHQ6IFN1bm5pIFdvbmcsIEVzdGhlciBKYWNrc29u\nLCBGcmVkZXJpYyBEdWJ5LCBLYXRocnluIFBvcGUsIFByYXR0IEluc3RpdHV0\nZSBTY2hvb2wgb2YgSW5mb3JtYXRpb24gKENvbHVtYmlhIFVuaXZlcnNpdHkg\nTGlicmFyaWVzLCBBc2sgYSBMaWJyYXJpYW4gSW50ZXJuc2hpcCksIENvbHVt\nYmlhIFVuaXZlcnNpdHkgTGlicmFyaWVzCnRpdGxlOiAiRHVwbGljYXRlcyBp\nbiB0aGUgcmVwb3NpdG9yeTogcmVtZWRpYXRpb24gYW5kIHJlY29uY2lsaWF0\naW9uIGluIHRocmVlIHN5c3RlbXMsIGluY2x1ZGluZyBEYXRhQ2l0ZSIKLS0t\nCkFjYWRlbWljIENvbW1vbnMgcHJvdmlkZXMgbG9uZy10ZXJtIG9wZW4gYWNj\nZXNzIHRvIGRpZ2l0YWwgc2Nob2xhcnNoaXBzIHByb2R1Y2VkIGJ5IENvbHVt\nYmlhClVuaXZlcnNpdHkgYWZmaWxpYXRlcy4gQ29udGVudCBtYXkgYmUgYWRk\nZWQgYnkgYXV0aG9ycyB0aHJvdWdoIGEgc2VsZi1kZXBvc2l0IGZvcm0sIGJ5\nIGxpYnJhcnkKc3RhZmYgdGhyb3VnaCB0aGUgY2F0YWxvZ2luZyBiYWNrZW5k\nIChIeWFjaW50aCksIGFuZCB2aWEgU1dPUkQgZGVwb3NpdCBmcm9tIGVudGl0\naWVzIHN1Y2ggYXMKbGlicmFyeS1ob3N0ZWQgT0pTLCBqb3VybmFsIHB1Ymxp\nc2hlcnMsIGFuZCBvdGhlcnMuIEFzIG9uZSBtaWdodCBleHBlY3QsIGFmdGVy\nIGZpZnRlZW4geWVhcnMgb2YKYWRkaXRpb25zIHRocm91Z2ggdGhlc2UgdmFy\naW91cyBjaGFubmVscywgZHVwbGljYXRpb24gaGFwcGVucyEgV2hlbiBmYWNl\nZCB3aXRoIGEgY29ycHVzIG9mIG5lYXJseQo0MCwwMDAgcmVjb3JkcyB0aGF0\nIG11c3QgYmUgcmV2aWV3ZWQsIHdpdGggZHVwbGljYXRlcyByZW1lZGlhdGVk\nIGluIHRocmVlIHNlcGFyYXRlIHN5c3RlbXMsIGhvdwpkb2VzIG9uZSBldmVu\nIHN0YXJ0PyBUaGlzIHBvc3RlciBpbGx1c3RyYXRlcyBvdXIgYXBwcm9hY2gg\ndG8gZGVmaW5pbmcgYW5kIHNjb3BpbmcgdGhpcyBwcm9ibGVtLCBhcwp3ZWxs\nIGFzIHRoZSBwcm9qZWN0IHdvcmtmbG93cyBhbmQgdGVjaG5pY2FsIHNvbHV0\naW9ucyB3ZSB1dGlsaXplZCB0byByZW1lZGlhdGUgYXBwcm94aW1hdGVseSAz\nMDAKZHVwbGljYXRlIGl0ZW0gcmVjb3JkcyBhbmQgNjAwIGFzc29jaWF0ZWQg\nYXNzZXQgcmVjb3Jkcy4KClRlY2hub2xvZ2llczogRmVkb3JhLCBTb2xyLCBS\nYWlscywgUHl0aG9uLCBEYXRhQ2l0ZQo=\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: poster
+categories: posters
+time: 3:30 PM
+startTime: 2023-03-16T15:30
+length: 30
+day: 2
+location: Frist Lobby
+speaker-text: Sunni Wong, Esther Jackson, Frederic Duby, Kathryn Pope, Pratt Institute School of Information (Columbia University Libraries, Ask a Librarian Internship), Columbia University Libraries
+title: "Duplicates in the repository: remediation and reconciliation in three systems, including DataCite"
+---
+Academic Commons provides long-term open access to digital scholarships produced by Columbia
+University affiliates. Content may be added by authors through a self-deposit form, by library
+staff through the cataloging backend (Hyacinth), and via SWORD deposit from entities such as
+library-hosted OJS, journal publishers, and others. As one might expect, after fifteen years of
+additions through these various channels, duplication happens! When faced with a corpus of nearly
+40,000 records that must be reviewed, with duplicates remediated in three separate systems, how
+does one even start? This poster illustrates our approach to defining and scoping this problem, as
+well as the project workflows and technical solutions we utilized to remediate approximately 300
+duplicate item records and 600 associated asset records.
+
+Technologies: Fedora, Solr, Rails, Python, DataCite

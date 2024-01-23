@@ -1,8 +1,18 @@
-{
-  "sha": "774a772d221a1c040a3a6581d81d68ff1997b078",
-  "node_id": "B_kwDOIJfwrtoAKDc3NGE3NzJkMjIxYTFjMDQwYTNhNjU4MWQ4MWQ2OGZmMTk5N2IwNzg",
-  "size": 1010,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/774a772d221a1c040a3a6581d81d68ff1997b078",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogMjoyMCBQTQpzdGFydFRpbWU6IDIwMjMtMDMtMTVU\nMTQ6MjAKbGVuZ3RoOiAxNQpkYXk6IDEKZ3JvdXA6IDIKc3BvdDogNApsb2Nh\ndGlvbjogZnJpc3QKcm9vbTogbXByCnNwZWFrZXJzOgotIGthdGUtdG9waGFt\nCnNwZWFrZXItdGV4dDogS2F0ZSBUb3BoYW0KdGl0bGU6ICJEYXlzIG9mIEZ1\ndHVyZSBQYXN0OiBFeGFtaW5nIFJhY2UgdGhyb3VnaCBDb21pY3MgTWV0YWRh\ndGEiCi0tLQpUaGlzIHBhbmVsIHVzZXMgdGhlIENvbWljcyBhcyBEYXRhIE5v\ncnRoIEFtZXJpY2EgKENhRE5BKSBkYXRhc2V0IGF0IE1pY2hpZ2FuIFN0YXRl\nIFVuaXZlcnNpdHkgdG8gZGlzY3VzcyBwYXR0ZXJucyBvZiByYWNpYWwgZGVw\naWN0aW9uIGluIE5vcnRoIEFtZXJpY2FuIGNvbWljcyBmcm9tIDE4OTAtMjAx\nOC4gQWZ0ZXIgdGhyZWUgYnJpZWYgY2FzZSBzdHVkaWVzLCB3ZSBkZW1vbnN0\ncmF0ZSBob3cgQ2FETkEgdmlzdWFsaXphdGlvbnMgaGlnaGxpZ2h0IHJlcHJl\nc2VudGF0aW9ucyBvZiByYWNlIGluIE5vcnRoIEFtZXJpY2FuIGNvbWljcywg\nYWxvbmdzaWRlIGhvdyBtZXRhZGF0YSBjYW4gYmUgdXNlZCB0byBjb2RpZnks\nIGNvcnJlY3QsIG9yIGRpc3J1cHQgYXV0aG9yaWFsIHJlcHJlc2VudGF0aW9u\nIGluIGxpbmtlZCBvcGVuIGRhdGEuICAgVGhpcyBwYW5lbCBkcmF3cyBvbiBt\nZXRhZGF0YSBmcm9tIHRoZSBNaWNoaWdhbiBTdGF0ZSBVbml2ZXJzaXR5IENv\nbWljIEFydCBjb2xsZWN0aW9uIHRvIGV4cGxvcmUgdGhlIHdheXMgd2UgY29k\naWZ5IGFuZCBkZXNjcmliZSBpZGVudGl0eS4gV2UgY2FsbCBhdHRlbnRpb24g\ndG8gdGhlIGNvbnN0cnVjdGVkIG5hdHVyZSBvZiByYWNlIGluIE5vcnRoIEFt\nZXJpY2EgYW5kIHRoZSBjb250aW51aW5nIHdvcmsgbmVlZGVkIHRvIGltYWdp\nbmUgcmFjZSBiZXlvbmQgdGhlIGNvbmZpbmVzIG9mIHRoZSBlc3RhYmxpc2hl\nZCBjdWx0dXJhbCBsZWdhY3kuIAo=\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 2:20 PM
+startTime: 2023-03-15T14:20
+length: 15
+day: 1
+group: 2
+spot: 4
+location: frist
+room: mpr
+speakers:
+- kate-topham
+speaker-text: Kate Topham
+title: "Days of Future Past: Examing Race through Comics Metadata"
+---
+This panel uses the Comics as Data North America (CaDNA) dataset at Michigan State University to discuss patterns of racial depiction in North American comics from 1890-2018. After three brief case studies, we demonstrate how CaDNA visualizations highlight representations of race in North American comics, alongside how metadata can be used to codify, correct, or disrupt authorial representation in linked open data.   This panel draws on metadata from the Michigan State University Comic Art collection to explore the ways we codify and describe identity. We call attention to the constructed nature of race in North America and the continuing work needed to imagine race beyond the confines of the established cultural legacy. 

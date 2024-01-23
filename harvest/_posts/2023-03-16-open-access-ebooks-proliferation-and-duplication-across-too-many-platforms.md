@@ -1,8 +1,18 @@
-{
-  "sha": "43b8e00f73f2776eb769b3ca509ca3a4356d581f",
-  "node_id": "B_kwDOIJfwrtoAKDQzYjhlMDBmNzNmMjc3NmViNzY5YjNjYTUwOWNhM2E0MzU2ZDU4MWY",
-  "size": 1044,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/43b8e00f73f2776eb769b3ca509ca3a4356d581f",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogNDoxMCBQTQpzdGFydFRpbWU6IDIwMjMtMDMtMTZU\nMTY6MTAKbGVuZ3RoOiAxNQpkYXk6IDIKZ3JvdXA6IDcKc3BvdDogMgpsb2Nh\ndGlvbjogZnJpc3QKcm9vbTogbXByCnNwZWFrZXJzOgotIG5hbmN5LWxpbgpz\ncGVha2VyLXRleHQ6IE5hbmN5IExpbgp0aXRsZTogIk9wZW4gQWNjZXNzIEVi\nb29rczogUHJvbGlmZXJhdGlvbiBhbmQgZHVwbGljYXRpb24gYWNyb3NzIHRv\nbyBtYW55IHBsYXRmb3JtcyIKLS0tCkFzIHRoZSBudW1iZXIgb2YgT3BlbiBB\nY2Nlc3MgRWJvb2tzIGdyb3dzLCBsaWJyYXJpZXMgc2VlIGEgcHJvbGlmZXJh\ndGlvbiBvZiB0aGUgc2FtZSB0aXRsZXMgaW4gZG96ZW5zIG9mIHBsYXRmb3Jt\ncy4gVGhpcyBkdXBsaWNhdGlvbiBvZiB0aXRsZXMgY3JlYXRlcyBjaGFsbGVu\nZ2VzIGluY2x1ZGluZyBwcmVzZW50YXRpb24gb2YgdG9vIG1hbnkgbGlua3Mg\ndG8gdXNlcnMsIGluYWJpbGl0eSB0byBnYXRoZXIgd2hvbGlzdGljIHVzZXIg\nc3RhdGlzdGljcyBmb3IgZnVuZGVycyBhbmQgaW50ZXJuYWwgYW5hbHlzaXMg\nKENPVU5URVIgYW5kIHByb3ByaWV0YXJ5IHN0YXRzKSwgbGFjayBvZiB1bml2\nZXJzYWwgSURzLCBhcyB3ZWxsIGFzIGRpZmZpY3VsdHkgaW4gcHJlc2VudGlu\nZyB1c2VycyB3aXRoIGxpbmtzIHRvIHRoZWlyIGRlc2lyZWQgZm9ybWF0IC0g\nUERGIG9yIEVQVUIuIFdlIGFuYWx5emVkIG92ZXIgNzAsMDAwIE9BIHRpdGxl\ncyBhY3RpdmF0ZWQgaW4gb3VyIGNhdGFsb2cgZnJvbSBPQXBlbiwgS25vd2xl\nZGdlIFVubGF0Y2hlZCwgSlNUT1IsIFByb2plY3QgTXVzZSwgRWJvb2sgQ2Vu\ndHJhbCwgU3ByaW5nZXJMaW5rLCBldGMuIFdlIHJlcG9ydGVkIG9uIHRoZXNl\nIGNoYWxsZW5nZXMgYW5kIHdvcmtlZCB3aXRoIERpcmVjdG9yeSBvZiBPcGVu\nIEFjY2VzcyBFYm9va3MgYW5kIE9BcGVuIG9uIGhvdyB0byBiZXN0IGV4cGFu\nZCBzZXJ2aWNlcyB0byBoZWxwIGxpYnJhcmllcyBtaXRpZ2F0ZSB0aGVzZSBp\nc3N1ZXMuICAK\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 4:10 PM
+startTime: 2023-03-16T16:10
+length: 15
+day: 2
+group: 7
+spot: 2
+location: frist
+room: mpr
+speakers:
+- nancy-lin
+speaker-text: Nancy Lin
+title: "Open Access Ebooks: Proliferation and duplication across too many platforms"
+---
+As the number of Open Access Ebooks grows, libraries see a proliferation of the same titles in dozens of platforms. This duplication of titles creates challenges including presentation of too many links to users, inability to gather wholistic user statistics for funders and internal analysis (COUNTER and proprietary stats), lack of universal IDs, as well as difficulty in presenting users with links to their desired format - PDF or EPUB. We analyzed over 70,000 OA titles activated in our catalog from OApen, Knowledge Unlatched, JSTOR, Project Muse, Ebook Central, SpringerLink, etc. We reported on these challenges and worked with Directory of Open Access Ebooks and OApen on how to best expand services to help libraries mitigate these issues.  

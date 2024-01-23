@@ -1,8 +1,20 @@
-{
-  "sha": "597f26ddc0cd04abac4cc91e5a1cc3afd74e9d57",
-  "node_id": "B_kwDOIJfwrtoAKDU5N2YyNmRkYzBjZDA0YWJhYzRjYzkxZTVhMWNjM2FmZDc0ZTlkNTc",
-  "size": 1243,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/597f26ddc0cd04abac4cc91e5a1cc3afd74e9d57",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHdvcmtzaG9wCmNhdGVn\nb3JpZXM6IHdvcmtzaG9wcwpmdWxsOiBmYWxzZQpsZWFybmluZy1vdXRjb21l\nczogUGFydGljcGFudHMgd2lsbCBsZWFybiBob3cgdG8gY3JlYXRlIGRhdGEg\nc2V0cyBmcm9tIGNvbGxlY3Rpb25zIG9mIG5hcnJhdGl2ZSB0ZXh0LCBhbmQg\ndGhlbiB0aGV5IHdpbGwgbGVhcm4gaG93IHRvIGFuYWx5emUgKCJyZWFkIikg\ndGhlIGRhdGEgc2V0cy4KYXR0ZW5kZWUtcmVxdWlyZW1lbnRzOiAKbWF4LWF0\ndGVuZGVlczogMTIKdGltZTogcG0Kc3RhcnRUaW1lOiAxOjMwcG0KZW5kVGlt\nZTogNDozMHBtCmxvY2F0aW9uOiByYWJpbm93aXR6CnJvb206IEE5OApzcGVh\na2VyczoKLSBlcmljLWxlYXNlLW1vcmdhbgotIGVzdGhlci1qYWNrc29uCnNw\nZWFrZXItdGV4dDogRXJpYyBMZWFzZSBNb3JnYW4KdGl0bGU6ICJNb2Rlcm4g\nQWxjaGVteTogSGFuZHMtT24gd2l0aCB0aGUgRGlzdGFudCBSZWFkZXIiCi0t\nLQpJbiB0aGlzIGhhbmRzLW9uIHdvcmtzaG9wIHBhcnRpY2lwYW50cyB3aWxs\nIGZpcnN0IGxlYXJuIGhvdyB0byB1c2UgYSBzeXN0ZW0gY2FsbGVkIHRoZSBE\naXN0YW50IFJlYWRlciB0byB0cmFuc2Zvcm0gc2V0cyBvZiB1bnN0cnVjdHVy\nZWQgZGF0YSAobGlrZSBqb3VybmFsIGFydGljbGVzKSBpbnRvIHN0cnVjdHVy\nZWQgZGF0YSBhZmZlY3Rpb25hbGx5IGNhbGxlZCAic3R1ZHkgY2FycmVscyIu\nIFRoZXNlIGRhdGEgc2V0cyBhcmUgYW1lbmFibGUgdG8gYW5hbHlzaXMgYnkg\nYm90aCBwZW9wbGUgYXMgd2VsbCBhcyBjb21wdXRlcnMuIFNlY29uZCwgcGFy\ndGljaXBhbnRzIHdpbGwgbGVhcm4gaG93IHRvIHVzZSBhIFB5dGhvbi1iYXNl\nZCBjb21tYW5kLWxpbmUgdG9vbCAodGhlIFJlYWRlciBUb29sYm94KSB0byBh\ncHBseSB0ZXh0IG1pbmluZyBhbmQgbmF0dXJhbCBsYW5ndWFnZSBwcm9jZXNz\naW5nIHRhc2tzIGFnYWluc3QgdGhlIHN0cnVjdHVyZWQgZGF0YS4gVGhlc2Ug\ncHJvY2Vzc2VzcyBpbmNsdWRlIHRoaW5ncyBzdWNoIGFzIGZlYXR1cmUgZXh0\ncmFjdGlvbiwgY29uY29yZGFuY2luZywgdG9waWMgbW9kZWxpbmcsIGZ1bGwg\ndGV4dCBpbmRleGluZywgc2VtYW50aWMgaW5kZXhpbmcsIG5ldHdvcmsgYW5h\nbHlzaXMsIGV0Yy4gSW4gdGhlIGVuZCwgcGFydGljaXBhbnRzIHdpbGwgbGVh\ncm4gb2YgYW4gYWRkaXRpb25hbCB3YXkgdG8gdHVybiBkYXRhIGludG8gaW5m\nb3JtYXRpb24gLS0gbW9kZXJuIGFsY2hlbXkuCg==\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: workshop
+categories: workshops
+full: false
+learning-outcomes: Particpants will learn how to create data sets from collections of narrative text, and then they will learn how to analyze ("read") the data sets.
+attendee-requirements: 
+max-attendees: 12
+time: pm
+startTime: 1:30pm
+endTime: 4:30pm
+location: rabinowitz
+room: A98
+speakers:
+- eric-lease-morgan
+- esther-jackson
+speaker-text: Eric Lease Morgan
+title: "Modern Alchemy: Hands-On with the Distant Reader"
+---
+In this hands-on workshop participants will first learn how to use a system called the Distant Reader to transform sets of unstructured data (like journal articles) into structured data affectionally called "study carrels". These data sets are amenable to analysis by both people as well as computers. Second, participants will learn how to use a Python-based command-line tool (the Reader Toolbox) to apply text mining and natural language processing tasks against the structured data. These processess include things such as feature extraction, concordancing, topic modeling, full text indexing, semantic indexing, network analysis, etc. In the end, participants will learn of an additional way to turn data into information -- modern alchemy.

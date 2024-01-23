@@ -1,8 +1,18 @@
-{
-  "sha": "6d93bbd3891d022e46a2fca262d232dc187e4b93",
-  "node_id": "B_kwDOIJfwrtoAKDZkOTNiYmQzODkxZDAyMmU0NmEyZmNhMjYyZDIzMmRjMTg3ZTRiOTM",
-  "size": 1132,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/6d93bbd3891d022e46a2fca262d232dc187e4b93",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogMTo0NSBQTQpzdGFydFRpbWU6IDIwMjMtMDMtMTZU\nMTo0NQpsZW5ndGg6IDEwCmRheTogMgpncm91cDogNgpzcG90OiAyCmxvY2F0\naW9uOiBmcmlzdApyb29tOiBtcHIKc3BlYWtlcnM6Ci0gZGF2aWQtY2lyZWxs\nYQpzcGVha2VyLXRleHQ6IERhdmlkIENpcmVsbGEKdGl0bGU6ICJUaGVyZeKA\nmXMgZ29pbmcgdG8gYmUgc29tZSBjaGFuZ2VzOiBEZXZlbG9waW5nIHN1cHBv\ncnQsIHN1cHBvcnRpbmcgZGV2ZWxvcGVycywgYW5kIHN1cHBvcnRpbmcgZGV2\nZWxvcG1lbnQuICIKLS0tCldoZW4gZmFjZWQgd2l0aCBhIHdpZGUgcmFuZ2Ug\nb2YgdXBncmFkZS1yZWxhdGVkIGNoYW5nZXMgdG8gb3VyIGRpZ2l0YWwgcHJl\nc2VydmF0aW9uIHN5c3RlbSwgdGhlIGxpYnJhcnnigJlzIERpZ2l0YWwgUHJl\nc2VydmF0aW9uIFVuaXQgd2FzIGNoYXJnZWQgd2l0aCBzdXBwb3J0aW5nIHN0\nYWtlaG9sZGVycyB3aXRoIHZhcnlpbmcgbmVlZHMgdGhyb3VnaCB0aGUgdHJh\nbnNpdGlvbi4gV2hhdCBmcm9tIHRoZSBvdXRzZXQgc2VlbWVkIHRvIGJlIGEg\nc3RyYWlnaHQtZm9yd2FyZCB0YXNrIG9mIGNyZWF0aW5nIGRvY3VtZW50YXRp\nb24gYW5kIGluZm9ybWluZyB1c2VycywgcXVpY2tseSBleHBhbmRlZCB0byBp\nbmNsdWRlIGV4dGVuc2l2ZSB0ZXN0aW5nLCBwcm92aWRpbmcgc3VwcG9ydCB0\nbyB0aGUgZGV2ZWxvcGVycyBvZiB2YXJpb3VzIGludGVncmF0aW9ucywgYW5k\nIGRldmVsb3BpbmcgbmV3IHVzZXItZmFjaW5nIHNvZnR3YXJlIG91cnNlbHZl\ncy4gVGhpcyBwcmVzZW50YXRpb24gd2lsbCBwcm92aWRlIGEgbnVtYmVyIG9m\nIGxlc3NvbnMtbGVhcm5lZCBhbG9uZyB0aGUgcGF0aCBmcm9tIGdldHRpbmcg\ndXAtdG8tc3BlZWQgd2l0aCBhIGxhcmdlIG51bWJlciBvZiBzeXN0ZW0gY2hh\nbmdlcywgZmluZGluZyBvdXIgZWRnZS1jYXNlcyBhcyBlYXJseSBhcyBwb3Nz\naWJsZSwgd29ya2luZyB3aXRoIGludGVybmFsIGFuZCBleHRlcm5hbCBkZXZl\nbG9wZXJzLCB0aGUgZGV2ZWxvcG1lbnQgb2Ygb3VyIHBhY2thZ2luZyBhcHBs\naWNhdGlvbiBhbmQgdGhlIHRlY2hub2xvZ3kgY2hvaWNlcyB0aGF0IGVuYWJs\nZWQgaXQuCg==\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 1:45 PM
+startTime: 2023-03-16T1:45
+length: 10
+day: 2
+group: 6
+spot: 2
+location: frist
+room: mpr
+speakers:
+- david-cirella
+speaker-text: David Cirella
+title: "There’s going to be some changes: Developing support, supporting developers, and supporting development. "
+---
+When faced with a wide range of upgrade-related changes to our digital preservation system, the library’s Digital Preservation Unit was charged with supporting stakeholders with varying needs through the transition. What from the outset seemed to be a straight-forward task of creating documentation and informing users, quickly expanded to include extensive testing, providing support to the developers of various integrations, and developing new user-facing software ourselves. This presentation will provide a number of lessons-learned along the path from getting up-to-speed with a large number of system changes, finding our edge-cases as early as possible, working with internal and external developers, the development of our packaging application and the technology choices that enabled it.

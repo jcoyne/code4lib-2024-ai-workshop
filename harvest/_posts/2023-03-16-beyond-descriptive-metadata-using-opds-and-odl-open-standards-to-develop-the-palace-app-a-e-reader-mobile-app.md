@@ -1,8 +1,19 @@
-{
-  "sha": "fa2e40859a22c7ee5aac4c8fa9c9be053f5a9390",
-  "node_id": "B_kwDOIJfwrtoAKGZhMmU0MDg1OWEyMmM3ZWU1YWFjNGM4ZmE5YzliZTA1M2Y1YTkzOTA",
-  "size": 1094,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/fa2e40859a22c7ee5aac4c8fa9c9be053f5a9390",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogNDowMCBQTQpzdGFydFRpbWU6IDIwMjMtMDMtMTZU\nMTY6MDAKbGVuZ3RoOiAxMApkYXk6IDIKZ3JvdXA6IDcKc3BvdDogMQpsb2Nh\ndGlvbjogZnJpc3QKcm9vbTogbXByCnNwZWFrZXJzOgotIGphbWVzLWVuZ2xp\nc2gKLSBiZW4tYXJtaW50b3IKc3BlYWtlci10ZXh0OiBKYW1lcyBFbmdsaXNo\nLCBCZW4gQXJtaW50b3IKdGl0bGU6ICJCZXlvbmQgZGVzY3JpcHRpdmUgbWV0\nYWRhdGE6IFVzaW5nIE9QRFMgYW5kIE9ETCBvcGVuIHN0YW5kYXJkcyB0byBk\nZXZlbG9wIHRoZSBQYWxhY2UgQXBwLCBhIGUtcmVhZGVyIG1vYmlsZSBhcHAu\nIgotLS0KSW4gYnVpbGRpbmcgbGlicmFyeS1kZXZlbG9wZWQgZS1yZWFkZXIg\nbW9iaWxlIGFwcHMgKFNpbXBseUUgYW5kIFBhbGFjZSBBcHApIGl0IGJlY2Ft\nZSBjbGVhciB0aGF0IG9sZCBzdGFuZGFyZHMgZm9yIG1ldGFkYXRhIGV4Y2hh\nbmdlIHN1Y2ggYXMgTUFSQyBhbmQgS0JBUlQgd2VyZSBub3QgZW5vdWdoLiBX\nZSBuZWVkZWQgdG8gZXhwYW5kIGFuZCB1c2UgbmV3IHN0YW5kYXJkcyBzdWNo\nIGFzIE9QRFMgYW5kIE9ETCB0byBzaGFyZSBpbmZvcm1hdGlvbiBhYm91dCBo\nb3cgdG8gYWNxdWlyZSBhbiBlYm9vayBmaWxlIChsaW5rL2Rvd25sb2FkIGFj\ndHVhbCBFUFVCIGFuZCBQREYpIHdpdGhpbiBzZWN1cmUgRFJNIGZyYW1ld29y\na3Mgd2hlcmUgbmVlZGVkLCBjb21tdW5pY2F0ZSB0ZXJtcyBvZiBsb2FucyBv\nciBhY2Nlc3MsIGluY2x1ZGUgYWNjdXJhdGUgaW5zdGl0dXRpb25hbCBob2xk\naW5ncywgZXRjLiBUaGlzIHByZXNlbnRhdGlvbiB3aWxsIGludHJvZHVjZSBv\ndXIgdXNlIG9mIE9QRFMgYW5kIE9ETCBmb3IgZGV2ZWxvcGluZyB0aGUgUGFs\nYWNlIEFwcCBmb3IgTmV3IFlvcmsgVW5pdmVyc2l0eSBhbmQgQ29sdW1iaWEg\nVW5pdmVyc2l0eSBhcyB3ZWxsIGFzIGh1bmRyZWRzIG9mIHB1YmxpYyBhbmQg\nc3RhdGUgbGlicmFyaWVzLiBXZSB3aWxsIGFsc28gdG91Y2ggdXBvbiB0aGUg\naW1wb3J0YW5jZSBvZiB1c2luZyBvcGVuIHN0YW5kYXJkcyBpbiB0aGUgZWJv\nb2sgZWNvc3lzdGVtLgo=\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 4:00 PM
+startTime: 2023-03-16T16:00
+length: 10
+day: 2
+group: 7
+spot: 1
+location: frist
+room: mpr
+speakers:
+- james-english
+- ben-armintor
+speaker-text: James English, Ben Armintor
+title: "Beyond descriptive metadata: Using OPDS and ODL open standards to develop the Palace App, a e-reader mobile app."
+---
+In building library-developed e-reader mobile apps (SimplyE and Palace App) it became clear that old standards for metadata exchange such as MARC and KBART were not enough. We needed to expand and use new standards such as OPDS and ODL to share information about how to acquire an ebook file (link/download actual EPUB and PDF) within secure DRM frameworks where needed, communicate terms of loans or access, include accurate institutional holdings, etc. This presentation will introduce our use of OPDS and ODL for developing the Palace App for New York University and Columbia University as well as hundreds of public and state libraries. We will also touch upon the importance of using open standards in the ebook ecosystem.

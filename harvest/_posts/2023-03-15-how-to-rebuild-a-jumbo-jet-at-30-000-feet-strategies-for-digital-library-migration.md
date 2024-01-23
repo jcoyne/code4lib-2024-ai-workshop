@@ -1,8 +1,19 @@
-{
-  "sha": "f6b8556820e6eb892e330dd8a62a1a49c57ce005",
-  "node_id": "B_kwDOIJfwrtoAKGY2Yjg1NTY4MjBlNmViODkyZTMzMGRkOGE2MmExYTQ5YzU3Y2UwMDU",
-  "size": 1641,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/f6b8556820e6eb892e330dd8a62a1a49c57ce005",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogNDozMCBQTQpzdGFydFRpbWU6IDIwMjMtMDMtMTVU\nMTY6MzAKbGVuZ3RoOiAxNQpkYXk6IDEKZ3JvdXA6IDMKc3BvdDogMgpsb2Nh\ndGlvbjogZnJpc3QKcm9vbTogbXByCnNwZWFrZXJzOgotIG1pa2UtZ2lhcmxv\nCi0ganVzdGluLWxpdHRtYW4Kc3BlYWtlci10ZXh0OiBNaWtlIEdpYXJsbywg\nSnVzdGluIExpdHRtYW4KdGl0bGU6ICJIb3cgdG8gUmVidWlsZCBhIEp1bWJv\nIEpldCBhdCAzMCwwMDAgRmVldDogU3RyYXRlZ2llcyBmb3IgRGlnaXRhbCBM\naWJyYXJ5IE1pZ3JhdGlvbiIKLS0tCkluIHN1cHBvcnQgb2YgcmVzZWFyY2gs\nIHRlYWNoaW5nIGFuZCBsZWFybmluZywgdGhlIFN0YW5mb3JkIERpZ2l0YWwg\nUmVwb3NpdG9yeSAoU0RSKSBpcyBhIG5ldHdvcmsgb2Ygc3lzdGVtcyBhbmQg\nc2VydmljZXMgdGhhdCBob3VzZSB0aGUgZGlnaXRhbCBjb2xsZWN0aW9ucyBv\nZiBTdGFuZm9yZCBVbml2ZXJzaXR5IExpYnJhcmllcyAoU1VMKS4gQ29sbGVj\ndGlvbnMgaW4gU0RSIGluY2x1ZGUgR29vZ2xlLXNjYW5uZWQgYm9va3MsIHN0\ndWRlbnQgZGlzc2VydGF0aW9ucyBhbmQgdGhlc2VzLCBVbml2ZXJzaXR5IEFy\nY2hpdmVzLCBBbGxlbiBHaW5zYmVyZydzIHBhcGVycywgUGFya2VyIExpYnJh\ncnksIGFuZCB0aGUgRnVnaXRpdmUgVS5TLiBBZ2VuY2llcyBXZWIgQXJjaGl2\nZSwgdG8gbmFtZSBhIGhhbmRmdWwuIEFzIG9mIGxhdGUgMjAyMiwgU0RSIGhv\nbGRzIG92ZXIgNSBtaWxsaW9uIGRpZ2l0YWwgb2JqZWN0cyBjb21wb3NlZCBv\nZiBtb3JlIHRoYW4gNTMwIG1pbGxpb24gY29udGVudCBmaWxlcy4gU0RSIGlz\nIGV4dHJlbWVseSBoZXRlcm9nZW5lb3VzIGFsb25nIHNldmVyYWwgZmFjZXRz\nLCBpbmNsdWRpbmcgY29udGVudCB0eXBlcyAoZS5nLiwgYm9va3MsIGltYWdl\ncywgd2ViIGFyY2hpdmVzLCBHSVMgZGF0YXNldHMpIGFuZCBmaWxlIHR5cGVz\nLiAgRm9yIHRoZSBwYXN0IDQgeWVhcnMsIFNVTCBoYXMgYmVlbiB3b3JraW5n\nIHRvd2FyZHMgbWlncmF0aW5nIFNEUiB0byBhIG5ldyBkYXRhc3RvcmUgYW5k\nIGRhdGEgbW9kZWwuIFdlIHN1Y2Nlc3NmdWxseSBjb21wbGV0ZWQgdGhlIG1p\nZ3JhdGlvbiB0aGlzIHllYXIuIEluIHRoaXMgcHJlc2VudGF0aW9uLCB3ZSB3\naWxsIGRlc2NyaWJlIHRoZSBtb3RpdmF0aW9ucyBmb3IgdGhpcyB3b3JrIGFu\nZCB0aGUgc3RyYXRlZ2llcyB1c2VkIHRvIGFjY29tcGxpc2ggdGhlIG1pZ3Jh\ndGlvbi4gVGhlc2Ugc3RyYXRlZ2llcyBtYXkgYmUgcmVwdXJwb3NlYWJsZSBp\nbiBvdGhlciBwcm9kdWN0aW9uIHN5c3RlbSBtaWdyYXRpb25zOiBhZG9wdGlu\nZyBhIHZhbGlkYXRhYmxlIGRhdGEgbW9kZWwsIGFic3RyYWN0aW5nIHRoZSBk\nYXRhc3RvcmUgYmVoaW5kIGFuIEFQSSwgc2VwYXJhdGluZyBjb25jZXJucywg\ndGVzdGluZyBtZXRhZGF0YSBtYXBwaW5ncyBhZ2FpbnN0IHByb2R1Y3Rpb24s\nIHdyaXRpbmcgcmVwb3J0cyB0byB1bmRlcnN0YW5kIGNvbXBsZXggZGF0YSwg\ndGVtcGxhdGluZyB1bml0IHRlc3RzLCBwZXJmb3JtaW5nIGEgcm9sbGluZyBt\naWdyYXRpb24sIGFuZCBpbmNvcnBvcmF0aW5nIG1pZ3JhdGlvbiBpbnRvIG9u\nZ29pbmcgcHJvamVjdCB3b3JrLiAK\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 4:30 PM
+startTime: 2023-03-15T16:30
+length: 15
+day: 1
+group: 3
+spot: 2
+location: frist
+room: mpr
+speakers:
+- mike-giarlo
+- justin-littman
+speaker-text: Mike Giarlo, Justin Littman
+title: "How to Rebuild a Jumbo Jet at 30,000 Feet: Strategies for Digital Library Migration"
+---
+In support of research, teaching and learning, the Stanford Digital Repository (SDR) is a network of systems and services that house the digital collections of Stanford University Libraries (SUL). Collections in SDR include Google-scanned books, student dissertations and theses, University Archives, Allen Ginsberg's papers, Parker Library, and the Fugitive U.S. Agencies Web Archive, to name a handful. As of late 2022, SDR holds over 5 million digital objects composed of more than 530 million content files. SDR is extremely heterogeneous along several facets, including content types (e.g., books, images, web archives, GIS datasets) and file types.  For the past 4 years, SUL has been working towards migrating SDR to a new datastore and data model. We successfully completed the migration this year. In this presentation, we will describe the motivations for this work and the strategies used to accomplish the migration. These strategies may be repurposeable in other production system migrations: adopting a validatable data model, abstracting the datastore behind an API, separating concerns, testing metadata mappings against production, writing reports to understand complex data, templating unit tests, performing a rolling migration, and incorporating migration into ongoing project work. 

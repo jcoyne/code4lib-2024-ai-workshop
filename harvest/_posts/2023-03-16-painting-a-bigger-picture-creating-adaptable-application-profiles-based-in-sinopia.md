@@ -1,8 +1,25 @@
-{
-  "sha": "cec11d11d193d5d62e130193feac0f3de051ca86",
-  "node_id": "B_kwDOIJfwrtoAKGNlYzExZDExZDE5M2Q1ZDYyZTEzMDE5M2ZlYWMwZjNkZTA1MWNhODY",
-  "size": 1569,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/cec11d11d193d5d62e130193feac0f3de051ca86",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHBvc3RlcgpjYXRlZ29y\naWVzOiBwb3N0ZXJzCnRpbWU6IDM6MzAgUE0Kc3RhcnRUaW1lOiAyMDIzLTAz\nLTE2VDE1OjMwCmxlbmd0aDogMzAKZGF5OiAyCmxvY2F0aW9uOiBGcmlzdCBM\nb2JieQpzcGVha2VyLXRleHQ6IEJlbmphbWluIFJpZXNlbmJlcmcsIEN5cHJl\nc3MgUGF5bmUgLCBVbml2ZXJzaXR5IG9mIFdhc2hpbmd0b24gCnRpdGxlOiAi\nUGFpbnRpbmcgQSBCaWdnZXIgUGljdHVyZTogQ3JlYXRpbmcgQWRhcHRhYmxl\nIEFwcGxpY2F0aW9uIFByb2ZpbGVzIGJhc2VkIGluIFNpbm9waWEiCi0tLQpM\nRDRQ4oCZcyBTaW5vcGlhIExpbmtlZCBEYXRhIEVudmlyb25tZW50IGhhcyBi\nZWNvbWUgYSB2YWx1YWJsZSByZXNvdXJjZSBmb3IgY3JlYXRpbmcgUkRBL1JE\nRiBlbmNvZGVkCm1ldGFkYXRhLCBidXQganVzdCBhcyBzaW5vcGlhcyB3ZXJl\nIHByZWN1cnNvcnMgdG8gZnVsbHktZmxlZGdlZCBmcmVzY29lcywgdGhlIFNp\nbm9waWEgRW52aXJvbm1lbnQKaXMgb25seSBhbiBpbnRyb2R1Y3Rpb24gdG8g\nd2hhdCBpcyBwb3NzaWJsZSBmb3IgbGlua2VkIGRhdGEgaW4gbGlicmFyeSBz\nY2llbmNlLiBUaGUgVW5pdmVyc2l0eSBvZgpXYXNoaW5ndG9uIExpYnJhcnni\ngJlzwqBMaW5rZWQgRGF0YSB0ZWFtIGhhcyBiZWVuIGRldmVsb3BpbmcgYSB3\nb3JrZmxvdyB0byBjcmVhdGUgU2lub3BpYSByZXNvdXJjZQp0ZW1wbGF0ZXMg\nb3V0c2lkZSBvZiB0aGUgU2lub3BpYSBpbnRlcmZhY2UgdXNpbmcgWE1MIGFu\nZCBQeXRob24uIFRoZSBTaW5vcGlhIE1BUHMgcHJvamVjdCBzdG9yZXMKdGhl\nIGRhdGEgbmVjZXNzYXJ5IHRvIGNyZWF0ZSB0aGVzZSByZXNvdXJjZSB0ZW1w\nbGF0ZXMgaW4gYSBHaXRIdWIgcmVwb3NpdG9yeSwgY3JlYXRpbmcgYSBzaW5n\nbGUKc291cmNlIHRoYXQgY2FuIGJlIHVzZWQgdG8gcHJvZHVjZSBtdWx0aXBs\nZSBkZXJpdmF0aXZlcyBpbmNsdWRpbmcgU2lub3BpYSByZXNvdXJjZSB0ZW1w\nbGF0ZXMsCmh1bWFuLXJlYWRhYmxlIEhUTUwgdGVtcGxhdGVzLCBhbmQgcG90\nZW50aWFsbHkgb3RoZXIgcmVwcmVzZW50YXRpb25zLCBzdWNoIGFzIERDIFRh\nYnVsYXIKQXBwbGljYXRpb24gUHJvZmlsZXMgaW4gdGhlIGZvcm0gb2YgQ1NW\nIGZpbGVzLiBCeSB1c2luZyBhIHdvcmtmbG93IG91dHNpZGUgb2YgU2lub3Bp\nYSwgcHJvcGVydHkKdGVtcGxhdGVzIGNhbiBiZSByZWZlcmVuY2VkIGFuZCBy\nZXVzZWQgYWNyb3NzIG11bHRpcGxlIGFwcGxpY2F0aW9uIHByb2ZpbGVzLCBt\nZWFuaW5nIGEgc2luZ2xlIGxpbmUKb2YgY29kZSBjYW4gY3JlYXRlIGEgd2hv\nbGUgbmV3IHJlc291cmNlIHRlbXBsYXRlLiBUaGlzIHByb2plY3QgaXMgYW4g\nZXhwbG9yYXRpb24gaW4gZGVzaWduaW5nCnBsYXRmb3JtLWFnbm9zdGljIG1l\ndGFkYXRhIGFwcGxpY2F0aW9uIHByb2ZpbGVzIHRoYXQgY2FuIGJlIGVhc2ls\neSBhZGFwdGVkIGFuZCB1c2VkIHRvIGNyZWF0ZQp0ZW1wbGF0ZXMgaW4gYSB2\nYXJpZXR5IG9mIGZvcm1hdHMgdG8gc3VwcG9ydCB0aGUgcHJvZHVjdGlvbiBv\nZiByZXNvdXJjZSBkZXNjcmlwdGlvbnMgaW4gUkRBL1JERi4gwqAK\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: poster
+categories: posters
+time: 3:30 PM
+startTime: 2023-03-16T15:30
+length: 30
+day: 2
+location: Frist Lobby
+speaker-text: Benjamin Riesenberg, Cypress Payne , University of Washington 
+title: "Painting A Bigger Picture: Creating Adaptable Application Profiles based in Sinopia"
+---
+LD4P’s Sinopia Linked Data Environment has become a valuable resource for creating RDA/RDF encoded
+metadata, but just as sinopias were precursors to fully-fledged frescoes, the Sinopia Environment
+is only an introduction to what is possible for linked data in library science. The University of
+Washington Library’s Linked Data team has been developing a workflow to create Sinopia resource
+templates outside of the Sinopia interface using XML and Python. The Sinopia MAPs project stores
+the data necessary to create these resource templates in a GitHub repository, creating a single
+source that can be used to produce multiple derivatives including Sinopia resource templates,
+human-readable HTML templates, and potentially other representations, such as DC Tabular
+Application Profiles in the form of CSV files. By using a workflow outside of Sinopia, property
+templates can be referenced and reused across multiple application profiles, meaning a single line
+of code can create a whole new resource template. This project is an exploration in designing
+platform-agnostic metadata application profiles that can be easily adapted and used to create
+templates in a variety of formats to support the production of resource descriptions in RDA/RDF.  

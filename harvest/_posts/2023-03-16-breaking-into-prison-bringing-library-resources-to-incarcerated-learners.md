@@ -1,8 +1,18 @@
-{
-  "sha": "cf65c13747aba0b2ecbc68e812c7e44b9f0a8649",
-  "node_id": "B_kwDOIJfwrtoAKGNmNjVjMTM3NDdhYmEwYjJlY2JjNjhlODEyYzdlNDRiOWYwYTg2NDk",
-  "size": 1403,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/cf65c13747aba0b2ecbc68e812c7e44b9f0a8649",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogOToxNSBBTQpzdGFydFRpbWU6IDIwMjMtMDMtMTZU\nOToxNQpsZW5ndGg6IDIwCmRheTogMgpncm91cDogNApzcG90OiAxCmxvY2F0\naW9uOiBmcmlzdApyb29tOiBtcHIKc3BlYWtlcnM6Ci0gcnlhbi1tY2NhcnRo\neQpzcGVha2VyLXRleHQ6IFJ5YW4gTWNDYXJ0aHkKdGl0bGU6ICJCcmVha2lu\nZyBpbnRvIFByaXNvbjogQnJpbmdpbmcgTGlicmFyeSBSZXNvdXJjZXMgdG8g\nSW5jYXJjZXJhdGVkIExlYXJuZXJzIgotLS0KTW9yZSB0aGFuIG9uZSBodW5k\ncmVkIHRob3VzYW5kIGNvbGxlZ2Ugc3R1ZGVudHMgaW4gdGhlIFVTIGFyZSBj\ndXJyZW50bHkgaW5jYXJjZXJhdGVkLCBhbmQgdGhhdCBudW1iZXIgY291bGQg\nbW9yZSB0aGFuIGRvdWJsZSBieSB0aGUgZW5kIG9mIG5leHQgeWVhci4gU29t\nZSBvZiB0aGVzZSBzdHVkZW50cyBoYXZlIG5ldmVyIHZpc2l0ZWQgYSBsaWJy\nYXJ5LCBhbmQgc29tZSB3aWxsIG5ldmVyIGJlIGFibGUgdG8uIENhbiB0ZWNo\nbm9sb2d5IGhlbHAgZ2V0IHRoZXNlIHN0dWRlbnRzIGFjY2VzcyB0byBhY2Fk\nZW1pYyBsaWJyYXJ5IHJlc291cmNlcywgYW5kIGlmIHNvLCBob3c/ICAgU3R1\nZGVudHMsIHRlYWNoZXJzLCBhbmQgYWRtaW5pc3RyYXRvcnMgaW4gY2FyY2Vy\nYWwgc2V0dGluZ3MgaGF2ZSB1bmlxdWUgbmVlZHMuIFRob3NlIG5lZWRzIGNh\nbiBpbmNsdWRlIGJvdGggcmVzb3VyY2UgY29uc3RyYWludHMgbGlrZSBkYXRl\nZCBoYXJkd2FyZSBvciBsYWNrIG9mIGludGVybmV0IGFjY2VzcyBhbmQgc2Vj\ndXJpdHkgY29uc3RyYWludHMgbGlrZSBwb3RlbnRpYWxseSBkYW5nZXJvdXMg\nY29udGVudCBvciBhY2Nlc3MgdG8gY29tbXVuaWNhdGlvbiB0b29scy4gVGhp\ncyB0YWxrIHdpbGwgc2hhcmUgdGhlIHdvcmsgb2YgdGhlIEpTVE9SIEFjY2Vz\ncyBpbiBQcmlzb25zIEluaXRpYXRpdmUsIHdoaWNoIGFpbXMgdG8gcHJvdmlk\nZSBmcmVlIEpTVE9SIGFjY2VzcyB0byBpbmNhcmNlcmF0ZWQgbGVhcm5lcnMu\nIEnigJlsbCBhZGRyZXNzIHRoZSB3YXlzIHdlIHdvcmsgdGhyb3VnaCBhbmQg\nYXJvdW5kIHRoZSByZXN0cmljdGlvbnMgb2YgY2FyY2VyYWwgaW5zdGl0dXRp\nb25zLiBXaGlsZSBJ4oCZbGwgc2hhcmUgc29tZSBvZiB0aGUgdG9vbHMgYW5k\nIHRlY2hub2xvZ2llcyB3ZeKAmXJlIHVzaW5nIHRvIGRvIHRoYXQgZnJvbSBL\ndWJlcm5ldGVzIGluIHRoZSBjbG91ZCB0byBFbGFzdGljc2VhcmNoIG9uIGEg\ndGh1bWJkcml2ZSwgSeKAmWxsIGZvY3VzIG1vcmUgb24gdGhlIHdheXMgdGhh\ndCBubyBzaW5nbGUgc2V0IG9mIHRvb2xzIGNhbiBtZWV0IHRoZSBzdHJhbmdl\nIGNvbmdsb21lcmF0aW9uIG9mIG5lZWRzIHdl4oCZcmUgdHJ5aW5nIHRvIGFk\nZHJlc3MuIAo=\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 9:15 AM
+startTime: 2023-03-16T9:15
+length: 20
+day: 2
+group: 4
+spot: 1
+location: frist
+room: mpr
+speakers:
+- ryan-mccarthy
+speaker-text: Ryan McCarthy
+title: "Breaking into Prison: Bringing Library Resources to Incarcerated Learners"
+---
+More than one hundred thousand college students in the US are currently incarcerated, and that number could more than double by the end of next year. Some of these students have never visited a library, and some will never be able to. Can technology help get these students access to academic library resources, and if so, how?   Students, teachers, and administrators in carceral settings have unique needs. Those needs can include both resource constraints like dated hardware or lack of internet access and security constraints like potentially dangerous content or access to communication tools. This talk will share the work of the JSTOR Access in Prisons Initiative, which aims to provide free JSTOR access to incarcerated learners. I’ll address the ways we work through and around the restrictions of carceral institutions. While I’ll share some of the tools and technologies we’re using to do that from Kubernetes in the cloud to Elasticsearch on a thumbdrive, I’ll focus more on the ways that no single set of tools can meet the strange conglomeration of needs we’re trying to address. 

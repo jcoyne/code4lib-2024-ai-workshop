@@ -1,8 +1,18 @@
-{
-  "sha": "84670261aeb98a0882aeb52d0ff395cbd9f8dda6",
-  "node_id": "B_kwDOIJfwrtoAKDg0NjcwMjYxYWViOThhMDg4MmFlYjUyZDBmZjM5NWNiZDlmOGRkYTY",
-  "size": 1625,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/84670261aeb98a0882aeb52d0ff395cbd9f8dda6",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogNDo0NSBQTQpzdGFydFRpbWU6IDIwMjMtMDMtMTVU\nMTY6NDUKbGVuZ3RoOiAxNQpkYXk6IDEKZ3JvdXA6IDMKc3BvdDogMwpsb2Nh\ndGlvbjogZnJpc3QKcm9vbTogbXByCnNwZWFrZXJzOgotIGRhbi1maWVsZApz\ncGVha2VyLXRleHQ6IERhbiBGaWVsZAp0aXRsZTogIldvcnN0IENhc2UgU2Nl\nbmFyaW8gVHVybnMgT3V0IEJldHRlciBUaGFuIEV4cGVjdGVkIC0gVGhlIE5h\ndGlvbmFsIExpYnJhcnkgb2YgV2FsZXPigJkgRmVkb3JhIE1pZ3JhdGlvbiBT\ndG9yeSIKLS0tCkFzIHdpdGggbWFueSBpbnN0aXR1dGlvbnMgdXNpbmcgb2xk\nZXIgdmVyc2lvbnMgb2YgRmVkb3JhLCB0aGUgTmF0aW9uYWwgTGlicmFyeSBv\nZiBXYWxlcyBoYXMgbG9uZyBiZWVuIHBsYWd1ZWQgd2l0aCB0aGUgY2hhbGxl\nbmdlIG9mIHVwZ3JhZGluZyBhbiBvdXRkYXRlZCBhbmQgdW5zdXBwb3J0ZWQg\nRmVkb3JhIDMgcmVwb3NpdG9yeS4gQWZ0ZXIgdW5zdWNjZXNzZnVsbHkgYXR0\nZW1wdGluZyB0byBtaWdyYXRlIHRvIEZlZG9yYSA0LCB0aGUgbmVlZCBmb3Ig\nc2VjdXJpbmcgYSBsb25nLXRlcm0gcHJlc2VydmF0aW9uIHN0cmF0ZWd5IHRv\nIHByb3RlY3QgdGhlIDUuNSBtaWxsaW9uIG9iamVjdHMgaW4gdGhlIHJlcG9z\naXRvcnkgd2FzIGNyaXRpY2FsLiBJbiBlYXJseSAyMDIyLCB0aGUgTGlicmFy\neSBzb3VnaHQgdG8gY29udHJhY3QgdGhlIEZlZG9yYSBQcm9ncmFtIFRlYW0g\ndG8gZmFjaWxpdGF0ZSBhIG1pZ3JhdGlvbiB0byBGZWRvcmEgNi4gV2l0aCBw\ncm9taXNpbmcgbmV3cyBvZiBGZWRvcmEgNi54IG9mZmVyaW5nIHVwZGF0ZWQg\ncHJlc2VydmF0aW9uIHN0YW5kYXJkcywgdHJhbnNwYXJlbnQgZGF0YSBhbmQg\nYWNjZXNzaWJsZSBtaWdyYXRpb24gcGF0aHMsIGl0IHdhcyBpbXBlcmF0aXZl\nIHRvIGJlZ2luIGEgbWlncmF0aW9uIHRvIHByZXNlcnZlIHRoaXMgY29udGVu\ndC4gIFdpdGggZGVlcGVyIGludmVzdGlnYXRpb24gaW50byB0aGUgdG9vbHMg\nYXZhaWxhYmxlIGFzIGEgcmVzdWx0IG9mIHRoZSBJTUxTIEZlZG9yYSBNaWdy\nYXRpb24gUGF0aHMgJiBUb29scyBQcm9qZWN0IEdyYW50LCB0aGUgTGlicmFy\neSB0ZWFtIHJlYWxpemVkIHRoYXQgdGhlIGNvbW11bml0eS1kZXZlbG9wZWQg\ndG9vbHMgYW5kIGRvY3VtZW50YXRpb24gd2VyZSBjb21wcmVoZW5zaXZlIGVu\nb3VnaCB0byBleGVjdXNlIHRoZSB0YXNrIGluLWhvdXNlOyBzYXZpbmcgY29z\ndHMgYW5kIHByb3ZpZGluZyB1c2VyIGV4cGVyaWVuY2UgYmFjayB0byB0aGUg\nY29tbXVuaXR5LiAgVGhpcyBwcmVzZW50YXRpb24gd2lsbCBkaXNjdXNzIHRo\nZSBMaWJyYXJ54oCZcyBtaWdyYXRpb24gcGF0aHdheSAtIGZyb20gdGhlIGRl\nY2lzaW9uIG1ha2luZyBwcm9jZXNzIHRvIG1vdmUgdG8gRmVkb3JhIDYueCwg\ndG8gcGxhbm5pbmcgdGhlIG1pZ3JhdGlvbiBhbmQgZmluYWxseSBleGVjdXRp\nbmcgdGhlIHdvcmsuIFdlIHdpbGwgc2hhcmUgbGVzc29ucyBsZWFybmVkLCBj\naGFsbGVuZ2VzIGFuZCBzdWNjZXNzZXMgZW5jb3VudGVyZWQgZHVyaW5nIHRo\nZSBtaWdyYXRpb24gYW5kIGZpbmFsbHkgcGxhbnMgZm9yIHRoZSByb2FkIGFo\nZWFkLgo=\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 4:45 PM
+startTime: 2023-03-15T16:45
+length: 15
+day: 1
+group: 3
+spot: 3
+location: frist
+room: mpr
+speakers:
+- dan-field
+speaker-text: Dan Field
+title: "Worst Case Scenario Turns Out Better Than Expected - The National Library of Wales’ Fedora Migration Story"
+---
+As with many institutions using older versions of Fedora, the National Library of Wales has long been plagued with the challenge of upgrading an outdated and unsupported Fedora 3 repository. After unsuccessfully attempting to migrate to Fedora 4, the need for securing a long-term preservation strategy to protect the 5.5 million objects in the repository was critical. In early 2022, the Library sought to contract the Fedora Program Team to facilitate a migration to Fedora 6. With promising news of Fedora 6.x offering updated preservation standards, transparent data and accessible migration paths, it was imperative to begin a migration to preserve this content.  With deeper investigation into the tools available as a result of the IMLS Fedora Migration Paths & Tools Project Grant, the Library team realized that the community-developed tools and documentation were comprehensive enough to execuse the task in-house; saving costs and providing user experience back to the community.  This presentation will discuss the Library’s migration pathway - from the decision making process to move to Fedora 6.x, to planning the migration and finally executing the work. We will share lessons learned, challenges and successes encountered during the migration and finally plans for the road ahead.

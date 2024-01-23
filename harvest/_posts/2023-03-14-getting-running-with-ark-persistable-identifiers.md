@@ -1,8 +1,29 @@
-{
-  "sha": "69f416051391fcd742041003ea958661155e4dbb",
-  "node_id": "B_kwDOIJfwrtoAKDY5ZjQxNjA1MTM5MWZjZDc0MjA0MTAwM2VhOTU4NjYxMTU1ZTRkYmI",
-  "size": 1157,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/69f416051391fcd742041003ea958661155e4dbb",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHdvcmtzaG9wCmNhdGVn\nb3JpZXM6IHdvcmtzaG9wcwpmdWxsOiBmYWxzZQpsZWFybmluZy1vdXRjb21l\nczogCmF0dGVuZGVlLXJlcXVpcmVtZW50czogCm1heC1hdHRlbmRlZXM6IDM1\nCnRpbWU6IHBtCnN0YXJ0VGltZTogMTozMHBtCmVuZFRpbWU6IDQ6MzBwbQps\nb2NhdGlvbjogcmFiaW5vd2l0egpyb29tOiBBODcKc3BlYWtlcnM6Ci0gam9o\nbi1rdW56ZQotIGRvbm55LXdpbnN0b24Kc3BlYWtlci10ZXh0OiBKb2huIEt1\nbnplCnRpdGxlOiBHZXR0aW5nIHJ1bm5pbmcgd2l0aCBBUksgcGVyc2lzdGFi\nbGUgaWRlbnRpZmllcnMKLS0tCkluIHRoaXMgMy1ob3VyIHdvcmtzaG9wIHdl\nIHdpbGwgaW50cm9kdWNlIHlvdSB0byBBUktzIChBcmNoaXZhbCBSZXNvdXJj\nZSBLZXlzKSwgd2hpY2ggY2FuIHNlcnZlIGFzIHBlcnNpc3RlbnQgaWRlbnRp\nZmllcnMsIG9yIHN0YWJsZSwgdHJ1c3RlZCByZWZlcmVuY2VzIGZvciBpbmZv\ncm1hdGlvbiBvYmplY3RzIChlZywgd2ViIGFkZHJlc3NlcyB0aGF0IGRvbuKA\nmXQgcmV0dXJuIDQwNCBQYWdlIE5vdCBGb3VuZCBlcnJvcnMpLiBGb3IgbW9y\nZSB0aGFuIHR3byBkZWNhZGVzLCA4LjIgYmlsbGlvbiBBUktzIGhhdmUgYmVl\nbiBjcmVhdGVkIGJ5IG92ZXIgMTAwMCBvcmdhbml6YXRpb25zIOKAlCBsaWJy\nYXJpZXMsIGRhdGEgY2VudGVycywgYXJjaGl2ZXMsIG11c2V1bXMsIHB1Ymxp\nc2hlcnMsIGdvdmVybm1lbnQgYWdlbmNpZXMsIGFuZCB2ZW5kb3JzLiAgV2Ug\nd2lsbCBjb3ZlcjoKKiBXaHkgQVJLcyAtLSBub24tcGF5d2FsbGVkLCBkZWNl\nbnRyYWxpemVkLCBmbGV4aWJsZQoqIFVzZSBjYXNlcyAtLSBTbWl0aHNvbmlh\nbiwgRnJlbmNoIE5hdGlvbmFsIExpYnJhcnksIEludGVybmV0IEFyY2hpdmUK\nKiBNZXRhZGF0YSBmb3IgZWFybHkgYW5kIG9uZ29pbmcgb2JqZWN0IGRldmVs\nb3BtZW50CiogSG93IHRvIGdldCBzdGFydGVkIC0tIG9uZSBmb3JtCiogTWlu\ndGluZyBhbmQgYXNzaWduaW5nIEFSSyBpZGVudGlmaWVycwoqIFJlc29sdmVy\ncywgcmVzb2x1dGlvbiwgcmVkaXJlY3Rpb24KKiBPYmplY3QgdHlwZXMgLS0g\nZGlnaXRhbCwgcGh5c2ljYWwsIGNvbmNlcHR1YWwKKiBQZXJzaXN0ZW5jZSBj\nb25zaWRlcmF0aW9ucwoqIEF2YWlsYWJsZSB0b29scwo=\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: workshop
+categories: workshops
+full: false
+learning-outcomes: 
+attendee-requirements: 
+max-attendees: 35
+time: pm
+startTime: 1:30pm
+endTime: 4:30pm
+location: rabinowitz
+room: A87
+speakers:
+- john-kunze
+- donny-winston
+speaker-text: John Kunze
+title: Getting running with ARK persistable identifiers
+---
+In this 3-hour workshop we will introduce you to ARKs (Archival Resource Keys), which can serve as persistent identifiers, or stable, trusted references for information objects (eg, web addresses that don’t return 404 Page Not Found errors). For more than two decades, 8.2 billion ARKs have been created by over 1000 organizations — libraries, data centers, archives, museums, publishers, government agencies, and vendors.  We will cover:
+* Why ARKs -- non-paywalled, decentralized, flexible
+* Use cases -- Smithsonian, French National Library, Internet Archive
+* Metadata for early and ongoing object development
+* How to get started -- one form
+* Minting and assigning ARK identifiers
+* Resolvers, resolution, redirection
+* Object types -- digital, physical, conceptual
+* Persistence considerations
+* Available tools

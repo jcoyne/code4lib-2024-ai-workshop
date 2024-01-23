@@ -1,8 +1,19 @@
-{
-  "sha": "1206594a073ac238dc192c8a312d52b2600b0ef8",
-  "node_id": "B_kwDOIJfwrtoAKDEyMDY1OTRhMDczYWMyMzhkYzE5MmM4YTMxMmQ1MmIyNjAwYjBlZjg",
-  "size": 922,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/1206594a073ac238dc192c8a312d52b2600b0ef8",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHBvc3RlcgpjYXRlZ29y\naWVzOiBwb3N0ZXJzCnRpbWU6IDM6MzAgUE0Kc3RhcnRUaW1lOiAyMDIzLTAz\nLTE2VDE1OjMwCmxlbmd0aDogMzAKZGF5OiAyCmxvY2F0aW9uOiBGcmlzdCBM\nb2JieQpzcGVha2VyLXRleHQ6IEJldGggR2VybWFuLCBQcmluY2V0b24gVW5p\ndmVyc2l0eSBMaWJyYXJ5CnRpdGxlOiAiRm9zdGVyLCBDb25uZWN0LCBTdXBw\nb3J0OiBBIDIteWVhciByZWZsZWN0aW9uIGFzIFNlbmlvciBQcm9ncmFtIE9m\nZmljZXIgZm9yIHRoZSBPcGVuIExpYnJhcnkgRm91bmRhdGlvbiAiCi0tLQpU\naGUgT3BlbiBMaWJyYXJ5IEZvdW5kYXRpb24gaXMgYSBub24tcHJvZml0IG9y\nZ2FuaXphdGlvbiB0aGF0IHNlZWtzIHRvIGVuYWJsZSBhbmQgc3VwcG9ydApj\nb2xsYWJvcmF0aW9uIGFtb25nIGxpYnJhcnkgd29ya2VycywgdGVjaG5vbG9n\naXN0cywgYW5kIHNlcnZpY2UgcHJvdmlkZXJzIGluIG9yZGVyIHRvIHNoYXJl\nCmV4cGVydGlzZSBhbmQgcmVzb3VyY2VzIGZvciB0aGUgY3JlYXRpb24gb2Yg\naW5ub3ZhdGl2ZSBzb2Z0d2FyZSBhbmQgcmVzb3VyY2VzIHRoYXQgc3VwcG9y\ndApsaWJyYXJpZXMuIFRoaXMgcG9zdGVyIHdpbGwgcmVmbGVjdCBvbiBteSB0\nd28teWVhciB0ZXJtIGFzIHRoZSBTZW5pb3IgUHJvZ3JhbSBPZmZpY2VyIGZv\nciB0aGUgT3BlbgpMaWJyYXJ5IEZvdW5kYXRpb24uIEl0IHdpbGwgaGlnaGxp\nZ2h0IGNvbW1vbiB0aGVtZXMgYWNyb3NzIEZvdW5kYXRpb24gcHJvamVjdCBj\nb21tdW5pdGllcywgcHJvdmlkZQphIGxvb2sgaW5zaWRlIG9wZW4gc291cmNl\nIGdvdmVybmFuY2UsIGFuZCBkaXNjdXNzIHRoZSBiZW5lZml0cyBvZiB2b2x1\nbnRlZXIgb3Bwb3J0dW5pdGllcyBzdWNoIGFzCnRoaXMgb25lIHdpdGhpbiBv\ncGVuIHNvdXJjZSBwcm9qZWN0cy4gCg==\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: poster
+categories: posters
+time: 3:30 PM
+startTime: 2023-03-16T15:30
+length: 30
+day: 2
+location: Frist Lobby
+speaker-text: Beth German, Princeton University Library
+title: "Foster, Connect, Support: A 2-year reflection as Senior Program Officer for the Open Library Foundation "
+---
+The Open Library Foundation is a non-profit organization that seeks to enable and support
+collaboration among library workers, technologists, and service providers in order to share
+expertise and resources for the creation of innovative software and resources that support
+libraries. This poster will reflect on my two-year term as the Senior Program Officer for the Open
+Library Foundation. It will highlight common themes across Foundation project communities, provide
+a look inside open source governance, and discuss the benefits of volunteer opportunities such as
+this one within open source projects. 

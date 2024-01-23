@@ -1,8 +1,22 @@
-{
-  "sha": "e231e52988c0506bdba711a85bee35fc07db7546",
-  "node_id": "B_kwDOIJfwrtoAKGUyMzFlNTI5ODhjMDUwNmJkYmE3MTFhODViZWUzNWZjMDdkYjc1NDY",
-  "size": 1176,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/e231e52988c0506bdba711a85bee35fc07db7546",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHBvc3RlcgpjYXRlZ29y\naWVzOiBwb3N0ZXJzCnRpbWU6IDM6MzAgUE0Kc3RhcnRUaW1lOiAyMDIzLTAz\nLTE2VDE1OjMwCmxlbmd0aDogMzAKZGF5OiAyCmxvY2F0aW9uOiBGcmlzdCBM\nb2JieQpzcGVha2VyLXRleHQ6IEpvYW5uYSBTY2hyb2VkZXIsIFVuaXZlcnNp\ndHkgb2YgVmlyZ2luaWEsIERyZXhlbCBVbml2ZXJzaXR5CnRpdGxlOiAiT3Jn\nYW5pemluZyBBbGdvcml0aG1zIgotLS0KVGhlIGFwcGxpY2F0aW9uIG9mIG1h\nY2hpbmUgbGVhcm5pbmcgYWxnb3JpdGhtcyBpbiBsaWJyYXJpZXMgYW5kIGlu\nZm9ybWF0aW9uIG9yZ2FuaXphdGlvbnMgaXMgYQp0b3BpYyBvZiBncm93aW5n\nIGltcG9ydGFuY2UgdG8gdGhlIGluZm9ybWF0aW9uIHNjaWVuY2UgY29tbXVu\naXR5LiBUaGUgaW52ZXJzZSwgdGhvdWdoLCBpcyBtdWNoCmxlc3MgZGlzY3Vz\nc2VkLiBUaGlzIHBvc3RlciBleHBsb3JlcyBjdXJyZW50IGFwcGxpY2F0aW9u\ncyBvZiBiZXN0IHByYWN0aWNlcyBpbiBpbmZvcm1hdGlvbgpvcmdhbml6YXRp\nb24gdG8gYWxnb3JpdGhtIGVudmlyb25tZW50cy4gQXMgdGhlIG51bWJlciBv\nZiBsb3ctdGVjaG5pY2FsIHVzZXJzIG9mIGFsZ29yaXRobXMgYW5kCnRoZWly\nIGFzc29jaWF0ZWQgb3V0cHV0IGNvbnRpbnVlcyB0byBncm93LCBhZGhlcmVu\nY2UgdG8gc3RhbmRhcmRzIG9mIGluZm9ybWF0aW9uIG9yZ2FuaXphdGlvbiBp\ncwpiZWNvbWluZyBpbmNyZWFzaW5nbHkgaW1wb3J0YW50LiBDdXJyZW50IHN0\nYW5kYXJkcywgc3VjaCBhcyBnZW5lcm91cyB0b29scyBhbmQgRkFJUiBkYXRh\nCnByaW5jaXBsZXMsIGFyZSBkaXNjdXNzZWQgdG8gZXZhbHVhdGUgY3VycmVu\ndCBhbGdvcml0aG0gZW52aXJvbm1lbnRzLiBHaXRIdWIgYW5kIEh1Z2dpbmcg\nRmFjZQpzZXJ2ZSBhcyBwcmltYXJ5IGV4YW1wbGVzIHRvIHNob3cgaG93IGN1\ncnJlbnQgcGxhdGZvcm1zIG1lZXQgYW5kIGZhbGwgc2hvcnQgb2YgdGhlc2Ug\nc3RhbmRhcmRzLiBJCmZpbmQgc2V2ZXJhbCBvcHBvcnR1bml0aWVzIGZvciBp\nbXByb3ZlbWVudCBpbiB0aGUgb3JnYW5pemF0aW9uIG9mIGluZm9ybWF0aW9u\nIG9uIHRoZXNlIHBsYXRmb3JtcywKaW5jbHVkaW5nIGxldmVyYWdpbmcgY29u\ndHJpYnV0aW9ucyBmcm9tIGV4aXN0aW5nIG9wZW4tc291cmNlIGNvbW11bml0\naWVzLiAK\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: poster
+categories: posters
+time: 3:30 PM
+startTime: 2023-03-16T15:30
+length: 30
+day: 2
+location: Frist Lobby
+speaker-text: Joanna Schroeder, University of Virginia, Drexel University
+title: "Organizing Algorithms"
+---
+The application of machine learning algorithms in libraries and information organizations is a
+topic of growing importance to the information science community. The inverse, though, is much
+less discussed. This poster explores current applications of best practices in information
+organization to algorithm environments. As the number of low-technical users of algorithms and
+their associated output continues to grow, adherence to standards of information organization is
+becoming increasingly important. Current standards, such as generous tools and FAIR data
+principles, are discussed to evaluate current algorithm environments. GitHub and Hugging Face
+serve as primary examples to show how current platforms meet and fall short of these standards. I
+find several opportunities for improvement in the organization of information on these platforms,
+including leveraging contributions from existing open-source communities. 

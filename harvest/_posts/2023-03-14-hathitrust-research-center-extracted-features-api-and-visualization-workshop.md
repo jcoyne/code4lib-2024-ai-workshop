@@ -1,8 +1,20 @@
-{
-  "sha": "9dc1064861e2ebe6db78dde9afdd9bed93365916",
-  "node_id": "B_kwDOIJfwrtoAKDlkYzEwNjQ4NjFlMmViZTZkYjc4ZGRlOWFmZGQ5YmVkOTMzNjU5MTY",
-  "size": 1518,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/9dc1064861e2ebe6db78dde9afdd9bed93365916",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHdvcmtzaG9wCmNhdGVn\nb3JpZXM6IHdvcmtzaG9wcwpmdWxsOiBmYWxzZQpsZWFybmluZy1vdXRjb21l\nczogCmF0dGVuZGVlLXJlcXVpcmVtZW50czogCm1heC1hdHRlbmRlZXM6IDUw\nCnRpbWU6IHBtCnN0YXJ0VGltZTogMTozMHBtCmVuZFRpbWU6IDQ6MzBwbQps\nb2NhdGlvbjogcmFiaW5vd2l0egpyb29tOiBBMDEKc3BlYWtlcnM6Ci0gamFu\nZXQtc3dhdHNjaGVubwotIHJ5YW4tZHVibmljZWsKc3BlYWtlci10ZXh0OiBK\nYW5ldCBTd2F0c2NoZW5vLCBSeWFuIER1Ym5pY2VrCnRpdGxlOiBIYXRoaVRy\ndXN0IFJlc2VhcmNoIENlbnRlciBFeHRyYWN0ZWQgRmVhdHVyZXMgQVBJIGFu\nZCBWaXN1YWxpemF0aW9uIFdvcmtzaG9wCi0tLQpUaGUgSGF0aGlUcnVzdCBS\nZXNlYXJjaCBDZW50ZXIgKEhUUkMpIEV4dHJhY3RlZCBGZWF0dXJlcyBpcyBh\nIGRlcml2ZWQgZGF0YXNldCBjb25zaXN0aW5nIG9mIHZvbHVtZSBtZXRhZGF0\nYSBhbmQgd29yZC1sZXZlbCBzdGF0aXN0aWNhbCBkYXRhIChhZ2dyZWdhdGVk\nIGF0IHRoZSBwYWdlIGxldmVsKSB0aGF0IGhhcyBiZWVuIGV4dHJhY3RlZCBm\ncm9tIGNvbnRlbnQgaW4gdGhlIEhhdGhpVHJ1c3QgRGlnaXRhbCBMaWJyYXJ5\nLiBJdCBpcyBwcmVzZW50ZWQgYXMgSlNPTi1MRCBmaWxlcyByZXByZXNlbnRp\nbmcgYSBzbmFwc2hvdCBvZiB0aGUgSGF0aGlUcnVzdCBjb3JwdXMgZnJvbSBG\nZWJydWFyeSAyMDIwLiBBcyBwYXJ0IG9mIGFuIE5FSC1mdW5kZWQgcHJvamVj\ndCwg4oCcVG9vbHMgZm9yIE9wZW4gUmVzZWFyY2ggYW5kIENvbXB1dGF0aW9u\nIHdpdGggSGF0aGlUcnVzdDogTGV2ZXJhZ2luZyBJbnRlbGxpZ2VudCBUZXh0\nIEV4dHJhY3Rpb24gKFRPUkNITElURSks4oCdIHRoZSBIVFJDIHRlYW0gaXMg\nYnVpbGRpbmcgYSBuZXcgQVBJIGFuZCBpbnRlcmFjdGl2ZSBkYXNoYm9hcmQg\ndG8gYWxsb3cgb3VyIHVzZXIgY29tbXVuaXR5IHRvIGRldmVsb3AgaXRzIG93\nbiB0b29scyBmb3IgaW50ZXJhY3Rpbmcgd2l0aCBkYXRhIGZyb20gdGhlIDE3\nLjUgbWlsbGlvbi12b2x1bWUgSGF0aGlUcnVzdCBEaWdpdGFsIExpYnJhcnku\nIFRoaXMgd29ya3Nob3Agd2lsbCBwcm92aWRlIGFuIGludHJvZHVjdGlvbiB0\nbyB0aGUgRXh0cmFjdGVkIEZlYXR1cmVzIGRhdGFzZXQgYW5kIHRoZSBuZXcg\nVE9SQ0hMSVRFIEFQSSwgYW5kIHNldCB0aGUgc3RhZ2UgZm9yIGFuIE5FSC1m\ndW5kZWQgaGFja2F0aG9uIGluIEZhbGwgMjAyMy4gVGhlcmUgd2lsbCBiZSBh\nIGhhbmRzLW9uIHBvcnRpb24gb2YgdGhlIHdvcmtzaG9wLiBCZWdpbm5lcnMg\nd2l0aCBsaXR0bGUgdG8gbm8gY29kaW5nIGV4cGVyaWVuY2UgY2FuIGZvbGxv\ndyBhbG9uZyBhcyB3ZSB1c2UgaW50ZXJhY3RpdmUgY29kZSBub3RlYm9va3Mg\ndG8gY3JlYXRlIHZpc3VhbGl6YXRpb25zIHVzaW5nIEV4dHJhY3RlZCBGZWF0\ndXJlcy4gTW9yZSBhZHZhbmNlZCB1c2VycyBjYW4gd3JpdGUgdGhlaXIgb3du\nIGNvZGUgdG8gaW50ZXJhY3Qgd2l0aCB0aGUgZGF0YS4K\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: workshop
+categories: workshops
+full: false
+learning-outcomes: 
+attendee-requirements: 
+max-attendees: 50
+time: pm
+startTime: 1:30pm
+endTime: 4:30pm
+location: rabinowitz
+room: A01
+speakers:
+- janet-swatscheno
+- ryan-dubnicek
+speaker-text: Janet Swatscheno, Ryan Dubnicek
+title: HathiTrust Research Center Extracted Features API and Visualization Workshop
+---
+The HathiTrust Research Center (HTRC) Extracted Features is a derived dataset consisting of volume metadata and word-level statistical data (aggregated at the page level) that has been extracted from content in the HathiTrust Digital Library. It is presented as JSON-LD files representing a snapshot of the HathiTrust corpus from February 2020. As part of an NEH-funded project, “Tools for Open Research and Computation with HathiTrust: Leveraging Intelligent Text Extraction (TORCHLITE),” the HTRC team is building a new API and interactive dashboard to allow our user community to develop its own tools for interacting with data from the 17.5 million-volume HathiTrust Digital Library. This workshop will provide an introduction to the Extracted Features dataset and the new TORCHLITE API, and set the stage for an NEH-funded hackathon in Fall 2023. There will be a hands-on portion of the workshop. Beginners with little to no coding experience can follow along as we use interactive code notebooks to create visualizations using Extracted Features. More advanced users can write their own code to interact with the data.

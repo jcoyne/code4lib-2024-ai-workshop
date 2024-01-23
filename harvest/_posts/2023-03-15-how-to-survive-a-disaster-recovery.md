@@ -1,8 +1,18 @@
-{
-  "sha": "68bc641e0d5203871afd5b109ba7276a002682f5",
-  "node_id": "B_kwDOIJfwrtoAKDY4YmM2NDFlMGQ1MjAzODcxYWZkNWIxMDliYTcyNzZhMDAyNjgyZjU",
-  "size": 913,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/68bc641e0d5203871afd5b109ba7276a002682f5",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogMTA6MTUgQU0Kc3RhcnRUaW1lOiAyMDIzLTAzLTE1\nVDEwOjE1Cmxlbmd0aDogMjAKZGF5OiAxCmdyb3VwOiAxCnNwb3Q6IDEKbG9j\nYXRpb246IGZyaXN0CnJvb206IG1wcgpzcGVha2VyczoKLSBtaWtlLWthc3Rl\nbGxlYwpzcGVha2VyLXRleHQ6IE1pa2UgS2FzdGVsbGVjCnRpdGxlOiAiSG93\nIHRvIFN1cnZpdmUgYSBEaXNhc3RlciBbUmVjb3ZlcnldIgotLS0KV2hhdCB3\nb3VsZCBoYXBwZW4gaWYgdGhlIHByaW1hcnkgc3RvcmFnZSBmb3IgeW91ciBh\ncmNoaXZlcyBjcmFzaGVkIGFuZCBidXJuZWQgdG9kYXk/IFlvdeKAmXJlIGEg\nZ29vZCBkaWdpdGFsIHByZXNlcnZhdGlvbiBwcmFjdGl0aW9uZXI7IHVuZG91\nYnRlZGx5IHlvdSBoYXZlIGNvcGllcyBzYWZlbHkgc3RvcmVkIGluIG90aGVy\nIGxvY2F0aW9ucy4gWW914oCZZCBiZSBmaW5lLCByaWdodD8gQnV0IGhhdmUg\neW91IGV2ZXIgaW1hZ2luZWQgdGhlIGFjdHVhbCB0aW1lIGFuZCBlZmZvcnQg\naXQgd291bGQgdGFrZSB0byByZWNvdmVyIHlvdXIgZGF0YSwgZ2V0IGFsbCB5\nb3VyIHN5c3RlbXMgaW4gc3luYywgYW5kIGdldCBiYWNrIHRvIGJ1c2luZXNz\nIGFzIHVzdWFsPyAgU2F2ZSB5b3VyIGltYWdpbmF0aW9uIGZvciBiZXR0ZXIg\ndGhpbmdzOiBteSBjb2xsZWFndWVzIGFuZCBJIGV4cGVyaWVuY2VkIGV4YWN0\nbHkgdGhpcyBzY2VuYXJpbyBhbmQgbGl2ZWQgdG8gdGVsbCB0aGUgdGFsZS4g\nSeKAmWxsIHNoYXJlIHRoZSBoaWdobGlnaHRzIChhbmQgbG93bGlnaHRzLCkg\ndGhlIGlzc3VlcyBubyBvbmUgZXhwZWN0ZWQsIGFuZCB3aGF0IHlvdSBjYW4g\nZG8gbm93IHRvIGJlIGJlc3QgcHJlcGFyZWQgaWYgYW5kIHdoZW4gZGlzYXN0\nZXIgc3RyaWtlcy4gCg==\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 10:15 AM
+startTime: 2023-03-15T10:15
+length: 20
+day: 1
+group: 1
+spot: 1
+location: frist
+room: mpr
+speakers:
+- mike-kastellec
+speaker-text: Mike Kastellec
+title: "How to Survive a Disaster [Recovery]"
+---
+What would happen if the primary storage for your archives crashed and burned today? You’re a good digital preservation practitioner; undoubtedly you have copies safely stored in other locations. You’d be fine, right? But have you ever imagined the actual time and effort it would take to recover your data, get all your systems in sync, and get back to business as usual?  Save your imagination for better things: my colleagues and I experienced exactly this scenario and lived to tell the tale. I’ll share the highlights (and lowlights,) the issues no one expected, and what you can do now to be best prepared if and when disaster strikes. 

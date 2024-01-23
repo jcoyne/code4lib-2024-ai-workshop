@@ -1,8 +1,34 @@
-{
-  "sha": "3271bd842082705444c9ae2f5fce842585a7a82a",
-  "node_id": "B_kwDOIJfwrtoAKDMyNzFiZDg0MjA4MjcwNTQ0NGM5YWUyZjVmY2U4NDI1ODVhN2E4MmE",
-  "size": 1859,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/3271bd842082705444c9ae2f5fce842585a7a82a",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnNwZWFrZXJzLXRleHQ6IERyLiBM\neWRpYSBUYW5nCnNwZWFrZXJzOgotIGx5ZGlhLXRhbmcKZGF5OiAxCmdyb3Vw\nOiBrZXktb3BlbgpzcG90OiAxCmxlbmd0aDogNDUKdHlwZToga2V5LW9wZW4K\nc3RhcnRUaW1lOiAyMDIzLTAzLTE1VDA5OjE1CmNhdGVnb3JpZXM6IGtleW5v\ndGVzCnRpdGxlOiBEci4gTHlkaWEgVGFuZyBLZXlub3RlCnNsaWRlczoKeW91\ndHViZV9rZXk6Ci0tLQoKRHIuIEx5ZGlhIFRhbmcgaXMgYW4gT3V0cmVhY2gg\nYW5kIEVuZ2FnZW1lbnQgQ29vcmRpbmF0b3IgZm9yIExZUkFTSVMuIFByZXZp\nb3VzbHksIHNoZQpoZWxkIGFyY2hpdmlzdCBwb3NpdGlvbnMgYXQgTWljaGln\nYW4gU3RhdGUgVW5pdmVyc2l0eSwgdGhlIExpYnJhcnkgb2YgQ29uZ3Jlc3Ms\nIGFuZCBudW1lcm91cwpncmFkdWF0ZSBwb3NpdGlvbnMgYXQgdGhlIFVuaXZl\ncnNpdHkgb2YgSWxsaW5vaXMsIHdoZXJlIHNoZSByZWNlaXZlZCBoZXIgTUxJ\nUyBhbmQgRG9jdG9yIG9mIE11c2ljYWwKQXJ0cyBkZWdyZWUuIFBhc3Npb25h\ndGUgYWJvdXQgYWNjZXNzaWJpbGl0eSBhbmQgZGlzYWJpbGl0eSByZXByZXNl\nbnRhdGlvbiBpbiBhcmNoaXZlcywgc2hlIHNlcnZlZApvbiB0aGUgVGFzayBG\nb3JjZSB0byBSZXZpc2UgdGhlIEJlc3QgUHJhY3RpY2VzIG9uIEFjY2Vzc2li\nbGUgQXJjaGl2ZXMgZm9yIFBlb3BsZSB3aXRoIERpc2FiaWxpdGllcwphbmQg\nc3BlYXJoZWFkZWQgZm91bmRpbmcgdGhlIFNvY2lldHkgb2YgQW1lcmljYW4g\nQXJjaGl2aXN0c+KAmSAoU0FBKSBBY2Nlc3NpYmlsaXR5ICYgRGlzYWJpbGl0\neQpTZWN0aW9uIChBRFMpLiBTaGUgaXMgdGhlIDIwMjAgcmVjaXBpZW50IG9m\nIFNBQeKAmXMgW01hcmsgQS4gR3JlZW5lIEVtZXJnaW5nIExlYWRlcgpBd2Fy\nZF0oaHR0cHM6Ly93d3cyLmFyY2hpdmlzdHMub3JnL25ld3MvMjAyMC9tYXJr\nLWEtZ3JlZW5lLWVtZXJnaW5nLWxlYWRlci1hd2FyZC1seWRpYS10YW5nKSBh\nbmQKd2FzIHJlY29nbml6ZWQgaW4gdGhyZWUgU0FBIENvdW5jaWwgcmVzb2x1\ndGlvbnMgYXMgYSBjby1mb3VuZGVyIG9mIHRoZSBBcmNoaXZhbCBXb3JrZXJz\nIEVtZXJnZW5jeQpGdW5kLCBmb3Igc3BlYXJoZWFkaW5nIHRoZSBBY2Nlc3Np\nYmlsaXR5ICYgRGlzYWJpbGl0eSBTZWN0aW9u4oCZcyDigJxBcmNoaXZpc3Rz\nIGF0IEhvbWXigJ0gZG9jdW1lbnQsIGFuZApmb3IgdGhlIOKAnEd1aWRlbGlu\nZXMgZm9yIEFjY2Vzc2libGUgQXJjaGl2ZXMgZm9yIFBlb3BsZSB3aXRoIERp\nc2FiaWxpdGllcy7igJ0gSW4gYWRkaXRpb24gdG8gaGVyCnByb2Zlc3Npb25h\nbCBzZXJ2aWNlIHdpdGggU0FBLCBzaGUgaGFzIGNvbnRyaWJ1dGVkIHRvIGFj\nY2Vzc2liaWxpdHkgaW5pdGlhdGl2ZXMgd2l0aGluIERMRiBEaWdpdGFsCkFj\nY2Vzc2liaWxpdHkgV29ya2luZyBHcm91cCBhbmQgdGhlIEFyY2hpdmVzU3Bh\nY2Ugb3BlbiBzb3VyY2Ugc29mdHdhcmUgY29tbXVuaXR5IGJ5IGxlYWRpbmcg\ndGhlClN0YWZmIEludGVyZmFjZSBFbmhhbmNlbWVudCBXb3JraW5nIEdyb3Vw\nLCBEZXZlbG9wbWVudCBQcmlvcml0aXphdGlvbiBzdWJ0ZWFtLCBmb3VuZGlu\nZyB0aGUKVXNhYmlsaXR5IHN1YnRlYW0sIGFuZCBjaGFpcmluZyB0aGUgVXNl\ncnMgQWR2aXNvcnkgQ291bmNpbC4gU2hlIGhhcyB3cml0dGVuIGFib3V0IGFj\nY2Vzc2libGUKcGh5c2ljYWwgYXJjaGl2YWwgc3BhY2VzLCBoaXJpbmcgYW5k\nIGFkdmFuY2VtZW50IHByYWN0aWNlcywgYW5kIGlzIGN1cnJlbnRseSBjby1l\nZGl0aW5nIGEgYm9vawp3aXRoIERyLiBHcmFjZW4gQnJpbG1leWVyLCBQcmVz\nZXJ2aW5nIERpc2FiaWxpdHk6IERpc2FiaWxpdHkgYW5kIHRoZSBBcmNoaXZh\nbCBQcm9mZXNzaW9uLgo=\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+speakers-text: Dr. Lydia Tang
+speakers:
+- lydia-tang
+day: 1
+group: key-open
+spot: 1
+length: 45
+type: key-open
+startTime: 2023-03-15T09:15
+categories: keynotes
+title: Dr. Lydia Tang Keynote
+slides:
+youtube_key:
+---
+
+Dr. Lydia Tang is an Outreach and Engagement Coordinator for LYRASIS. Previously, she
+held archivist positions at Michigan State University, the Library of Congress, and numerous
+graduate positions at the University of Illinois, where she received her MLIS and Doctor of Musical
+Arts degree. Passionate about accessibility and disability representation in archives, she served
+on the Task Force to Revise the Best Practices on Accessible Archives for People with Disabilities
+and spearheaded founding the Society of American Archivists’ (SAA) Accessibility & Disability
+Section (ADS). She is the 2020 recipient of SAA’s [Mark A. Greene Emerging Leader
+Award](https://www2.archivists.org/news/2020/mark-a-greene-emerging-leader-award-lydia-tang) and
+was recognized in three SAA Council resolutions as a co-founder of the Archival Workers Emergency
+Fund, for spearheading the Accessibility & Disability Section’s “Archivists at Home” document, and
+for the “Guidelines for Accessible Archives for People with Disabilities.” In addition to her
+professional service with SAA, she has contributed to accessibility initiatives within DLF Digital
+Accessibility Working Group and the ArchivesSpace open source software community by leading the
+Staff Interface Enhancement Working Group, Development Prioritization subteam, founding the
+Usability subteam, and chairing the Users Advisory Council. She has written about accessible
+physical archival spaces, hiring and advancement practices, and is currently co-editing a book
+with Dr. Gracen Brilmeyer, Preserving Disability: Disability and the Archival Profession.

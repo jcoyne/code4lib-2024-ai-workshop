@@ -1,8 +1,18 @@
-{
-  "sha": "15e03e7512db90a071a7e80d0d630f2661b132d5",
-  "node_id": "B_kwDOIJfwrtoAKDE1ZTAzZTc1MTJkYjkwYTA3MWE3ZTgwZDBkNjMwZjI2NjFiMTMyZDU",
-  "size": 1548,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/15e03e7512db90a071a7e80d0d630f2661b132d5",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogNDoxNSBQTQpzdGFydFRpbWU6IDIwMjMtMDMtMTVU\nMTY6MTUKbGVuZ3RoOiAxNQpkYXk6IDEKZ3JvdXA6IDMKc3BvdDogMQpsb2Nh\ndGlvbjogZnJpc3QKcm9vbTogbXByCnNwZWFrZXJzOgotIGx1Y2FzLW1hawpz\ncGVha2VyLXRleHQ6IEx1Y2FzIE1hawp0aXRsZTogIkF1dG9tYXRpbmcgRkFT\nVCBTdWJqZWN0IEhlYWRpbmcgTWFpbnRlbmFuY2UgaW4gRGlnaXRhbCBSZXBv\nc2l0b3JpZXMiCi0tLQpEaWdpdGFsIHJlcG9zaXRvcnkgbWV0YWRhdGEgcmVx\ndWlyZXMgb25nb2luZyBtYWludGVuYW5jZSBiZXlvbmQgdGhlIGluaXRpYWwg\nY3JlYXRpb24gcGhhc2UgdG8gZW5zdXJlIGl0cyBxdWFsaXR5IGluIHRoZSBs\nb25nIHJ1bi4gVGhpcyBpcyBwYXJ0aWN1bGFybHkgdHJ1ZSBmb3Igc3ViamVj\ndCBoZWFkaW5ncyBiZWNhdXNlIHRoZXkgY2hhbmdlIG92ZXIgdGltZSBkdWUg\ndG8gZXZvbHZpbmcgdXNhZ2UgYW5kLCBtb3JlIHJlY2VudGx5LCB0byBhZGRy\nZXNzIGRpdmVyc2l0eSwgZXF1aXR5LCBhbmQgaW5jbHVzaW9uIChERUkpIGlz\nc3Vlcy4gU2luY2UgbW9zdCByZXBvc2l0b3JpZXMgdXNlIG5vbi1NQVJDIG1l\ndGFkYXRhIHN0YW5kYXJkcywgc3ViamVjdCBtYWludGVuYW5jZSBtYXkgbmVj\nZXNzaXRhdGUgbWFudWFsIGNoZWNraW5nIG9mIGNoYW5nZSBsb2dzIHB1Ymxp\nc2hlZCBieSB2b2NhYnVsYXJ5IG1haW50ZW5hbmNlIGFnZW5jaWVzIHJhdGhl\nciB0aGFuIHJlbHlpbmcgb24gc2VydmljZXMgZnJvbSBNQVJDLWJhc2VkIGF1\ndGhvcml0eSBwcm9jZXNzaW5nIHZlbmRvcnMuIFRoZXNlIHBlcmlvZGljIGNo\nZWNrcyBhbmQgc3Vic2VxdWVudCBtYWludGVuYW5jZSB3b3JrcyBhcmUgdGVk\naW91cyBhbmQgdGltZS1jb25zdW1pbmcuIFJlY2VudCBERUkgcmVsYXRlZCBj\naGFuZ2VzIHRvIHN1YmplY3QgaGVhZGluZ3MgZ2F2ZSBNaWNoaWdhbiBTdGF0\nZSBVbml2ZXJzaXR5IExpYnJhaXJlcyAoTVNVTCkgcmVwb3NpdG9yeSB0ZWFt\nIGFuIG9wcG9ydHVuaXR5IHRvIGFkZHJlc3Mgc3ViamVjdCBtYWludGVuYW5j\nZSBpbiBhIG1vcmUgc3lzdGVtYXRpYyB3YXkgYW5kIGRldmVsb3AgYW4gYXV0\nb21hdGVkIEZBU1Qgc3ViamVjdCBtYWludGVuYW5jZSB3b3JrZmxvdy4gSGFy\nbmVzc2luZyBVUklzIHN0b3JlZCBpbiBNT0RTIHJlY29yZHMsIHRoaXMgd29y\na2Zsb3cgdXRpbGl6ZXMgT0FJLVBNSCwgT0NMQyBGQVNUIExpbmtlZCBEYXRh\nIEFQSSwgYW5kIFhTTFQgdG8gaWRlbnRpZnkgb2Jzb2xldGUgYW5kIGNoYW5n\nZWQgRkFTVCBzdWJqZWN0IGhlYWRpbmdzIHVzZWQgaW4gdGhlIHJlcG9zaXRv\ncnkgYW5kIHVwZGF0ZSByZWxldmFudCBNT0RTIHJlY29yZHMgd2l0aCB0aGUg\nbmV3IGhlYWRpbmdzIGFjY29yZGluZ2x5LiBUaGlzIHByZXNlbnRhdGlvbiB3\naWxsIGRpc2N1c3MgdGhlIG1lY2hhbmljcyBvZiB0aGUgcHJvY2Vzcywgc3Rl\ncHMgdGFrZW4gdG8gZW5zdXJlIGl0cyBhY2N1cmFjeSwgYW5kIHNvbWUgdW5p\nbnRlbmRlZCBiZW5lZml0cy4K\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 4:15 PM
+startTime: 2023-03-15T16:15
+length: 15
+day: 1
+group: 3
+spot: 1
+location: frist
+room: mpr
+speakers:
+- lucas-mak
+speaker-text: Lucas Mak
+title: "Automating FAST Subject Heading Maintenance in Digital Repositories"
+---
+Digital repository metadata requires ongoing maintenance beyond the initial creation phase to ensure its quality in the long run. This is particularly true for subject headings because they change over time due to evolving usage and, more recently, to address diversity, equity, and inclusion (DEI) issues. Since most repositories use non-MARC metadata standards, subject maintenance may necessitate manual checking of change logs published by vocabulary maintenance agencies rather than relying on services from MARC-based authority processing vendors. These periodic checks and subsequent maintenance works are tedious and time-consuming. Recent DEI related changes to subject headings gave Michigan State University Libraires (MSUL) repository team an opportunity to address subject maintenance in a more systematic way and develop an automated FAST subject maintenance workflow. Harnessing URIs stored in MODS records, this workflow utilizes OAI-PMH, OCLC FAST Linked Data API, and XSLT to identify obsolete and changed FAST subject headings used in the repository and update relevant MODS records with the new headings accordingly. This presentation will discuss the mechanics of the process, steps taken to ensure its accuracy, and some unintended benefits.

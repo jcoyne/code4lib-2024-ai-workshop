@@ -1,8 +1,18 @@
-{
-  "sha": "30d8c2a718167f06b14ee774e2fe97d1e8f79b58",
-  "node_id": "B_kwDOIJfwrtoAKDMwZDhjMmE3MTgxNjdmMDZiMTRlZTc3NGUyZmU5N2QxZThmNzliNTg",
-  "size": 1666,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/30d8c2a718167f06b14ee774e2fe97d1e8f79b58",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogMTE6NDUgQU0Kc3RhcnRUaW1lOiAyMDIzLTAzLTE2\nVDExOjQ1Cmxlbmd0aDogMTUKZGF5OiAyCmdyb3VwOiA1CnNwb3Q6IDQKbG9j\nYXRpb246IGZyaXN0CnJvb206IG1wcgpzcGVha2VyczoKLSBlbWlseS1seW5l\nbWEKc3BlYWtlci10ZXh0OiBFbWlseSBMeW5lbWEKdGl0bGU6ICJBTVBsaWZ5\naW5nIEFWOiBsZXZlcmFnaW5nIGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIHRv\nIGNyZWF0ZSBtZXRhZGF0YSBmb3IgYXVkaW92aXN1YWwgY29sbGVjdGlvbnMi\nCi0tLQpJbiAyMDE1LCBJbmRpYW5hIFVuaXZlcnNpdHkgKElVKSB1bmRlcnRv\nb2sgYSBtYXNzaXZlIHByb2plY3QgdG8gZGlnaXRpemUgYXVkaW8sIHZpZGVv\nLCBhbmQgZmlsbSBhc3NldHMgdGhhdCByZXN1bHRlZCBpbiBvdmVyIDM1MCww\nMDAgZGlnaXRpemVkIGl0ZW1zLCBpbmNsdWRpbmcgY29sbGVjdGlvbnMgZnJv\nbSB0aGUgTW92aW5nIEltYWdlIEFyY2hpdmUsIHRoZSBCbGFjayBGaWxtIENl\nbnRlciAmIEFyY2hpdmUsIHRoZSBBcmNoaXZlcyBvZiBUcmFkaXRpb25hbCBN\ndXNpYywgYW5kIG1hbnkgb3RoZXIgY2FtcHVzIHVuaXRzLiBTaWduaWZpY2Fu\ndCBwb3J0aW9ucyBvZiB0aGlzIGNvbnRlbnQgbGFjayBkZXNjcmlwdGl2ZSBt\nZXRhZGF0YSBhbmQgY29udGFpbiB1bmtub3duIGNvbnRlbnQuIFNpbmNlIDIw\nMTgsIHRoZSBJVSBMaWJyYXJpZXMgaGF2ZSBiZWVuIHdvcmtpbmcgd2l0aCBw\nYXJ0bmVycyBhdCBBVlAsIHRoZSBVbml2ZXJzaXR5IG9mIFRleGFzIGF0IEF1\nc3RpbiwgYW5kIE5ldyBZb3JrIFB1YmxpYyBMaWJyYXJ5LCBzdXBwb3J0ZWQg\nYnkgdGhlIEFuZHJldyBXLiBNZWxsb24gRm91bmRhdGlvbiwgdG8gZGV2ZWxv\ncCB0aGUgb3BlbiBzb3VyY2UgQXVkaW92aXN1YWwgTWV0YWRhdGEgUGxhdGZv\ncm0gKEFNUCkuIFRoZSB2aXNpb24gb2YgQU1QIGlzIHRvIGFsbG93IGFyY2hp\ndmlzdHMgYW5kIGxpYnJhcmlhbnMgdG8gY3JlYXRlIHdvcmtmbG93cyBsZXZl\ncmFnaW5nIGFydGlmaWNpYWwgaW50ZWxsaWdlbmNlIGFuZCBtYWNoaW5lIGxl\nYXJuaW5nIHNlcnZpY2VzIHRvIGhlbHAgZ2VuZXJhdGUgbWV0YWRhdGEgc3Vw\ncG9ydGluZyBpZGVudGlmaWNhdGlvbiwgZGlzY292ZXJ5LCBhbmQgcmlnaHRz\nIGRldGVybWluYXRpb24gZm9yIHRoZXNlIGNvbGxlY3Rpb25zLiBUaGVzZSB3\nb3JrZmxvd3MgaW5jbHVkZSB0b29scyB0aGF0IHBlcmZvcm0gdGFza3Mgc3Vj\naCBhcyBzcGVlY2gtdG8tdGV4dCwgbmFtZWQgZW50aXR5IHJlY29nbml0aW9u\nLCBhcHBsYXVzZSBkZXRlY3Rpb24sIGFuZCBmYWNpYWwgcmVjb2duaXRpb24u\nICBUaGlzIHRhbGsgd2lsbCBzaGFyZSBmaW5kaW5ncyBmcm9tIG91ciBldmFs\ndWF0aW9uIG9mIHRoZXNlIEFJL01MIHRvb2xzIGFuZCB0aGVpciBlZmZlY3Rp\ndmVuZXNzIGluIGNyZWF0aW5nIG1ldGFkYXRhIGZvciBhdWRpb3Zpc3VhbCBj\nb2xsZWN0aW9ucyBhdCBJVS4gV2XigJlsbCBhbHNvIGNvdmVyIHRoZSBjb250\nZXh0IGZvciB0aGUgbGFyZ2VyIEFNUCBwcm9qZWN0LCBwcm92aWRlIGEgYnJp\nZWYgZGVtbywgcmV2aWV3IHRoZSBvcGVuIHNvdXJjZSB0ZWNobm9sb2d5IHN0\nYWNrLCBhbmQgZXhwbG9yZSBuZXh0IHN0ZXBzIGZvciB0aGUgcHJvamVjdC4g\nCg==\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 11:45 AM
+startTime: 2023-03-16T11:45
+length: 15
+day: 2
+group: 5
+spot: 4
+location: frist
+room: mpr
+speakers:
+- emily-lynema
+speaker-text: Emily Lynema
+title: "AMPlifying AV: leveraging artificial intelligence to create metadata for audiovisual collections"
+---
+In 2015, Indiana University (IU) undertook a massive project to digitize audio, video, and film assets that resulted in over 350,000 digitized items, including collections from the Moving Image Archive, the Black Film Center & Archive, the Archives of Traditional Music, and many other campus units. Significant portions of this content lack descriptive metadata and contain unknown content. Since 2018, the IU Libraries have been working with partners at AVP, the University of Texas at Austin, and New York Public Library, supported by the Andrew W. Mellon Foundation, to develop the open source Audiovisual Metadata Platform (AMP). The vision of AMP is to allow archivists and librarians to create workflows leveraging artificial intelligence and machine learning services to help generate metadata supporting identification, discovery, and rights determination for these collections. These workflows include tools that perform tasks such as speech-to-text, named entity recognition, applause detection, and facial recognition.  This talk will share findings from our evaluation of these AI/ML tools and their effectiveness in creating metadata for audiovisual collections at IU. We’ll also cover the context for the larger AMP project, provide a brief demo, review the open source technology stack, and explore next steps for the project. 

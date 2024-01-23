@@ -1,8 +1,19 @@
-{
-  "sha": "8203994e5fa7721a445d8c89d97bebd5799005aa",
-  "node_id": "B_kwDOIJfwrtoAKDgyMDM5OTRlNWZhNzcyMWE0NDVkOGM4OWQ5N2JlYmQ1Nzk5MDA1YWE",
-  "size": 934,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/8203994e5fa7721a445d8c89d97bebd5799005aa",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHBvc3RlcgpjYXRlZ29y\naWVzOiBwb3N0ZXJzCnRpbWU6IDM6MzAgUE0Kc3RhcnRUaW1lOiAyMDIzLTAz\nLTE2VDE1OjMwCmxlbmd0aDogMzAKZGF5OiAyCmxvY2F0aW9uOiBGcmlzdCBM\nb2JieQpzcGVha2VyLXRleHQ6IFNldGggRXJpY2tzb24sIFVuaXZlcnNpdHkg\nb2YgQ2FsaWZvcm5pYSwgU2FudGEgQmFyYmFyYQp0aXRsZTogIk9DRkwtSW5k\nZXg6IGFuIEFQSSBmb3IgYWNjZXNzaW5nIE9DRkwgcmVwb3NpdG9yaWVzICIK\nLS0tCltPQ0ZMLWluZGV4XShodHRwczovL2dpdGh1Yi5jb20vc3Jlcmlja3Nv\nbi9vY2ZsLWluZGV4KSBpcyBhIHByb2plY3QgdG8gZGVmaW5lIGFuZCBpbXBs\nZW1lbnQgYQpsaWdodHdlaWdodCBodHRwL2dSUEMtYmFzZWQgQVBJIGZvciBp\nbmRleGluZyBhbmQgYWNjZXNzaW5nIHRoZSBjb250ZW50cyBvZiBPQ0ZMLWJh\nc2VkIHJlcG9zaXRvcmllcy4KSXQgY2FuIHNlcnZlIGNvbnRlbnQgZnJvbSBP\nQ0ZMIHN0b3JhZ2Ugcm9vdHMgb24gdGhlIGxvY2FsIGZpbGUgc3lzdGVtIG9y\nIGluIHRoZSBjbG91ZC4gVGhlIGluZGV4CmlzIGltcGxlbWVudGVkIGFzIGEg\nc3FsaXRlMyBkYXRhYmFzZSwgaG93ZXZlciBhZGRpdGlvbmFsIGRhdGFiYXNl\nIGJhY2tlbmRzIGFyZSBwbGFubmVkLiBUaGUgQVBJIGlzCmltcGxlbWVudGVk\nIGluIEdvIGFuZCBjbGllbnQgbGlicmFyaWVzIGZvciBhIHZhcmlldHkgb2Yg\ncHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzIGNhbiBiZSBhdXRvLWdlbmVyYXRlZAp1\nc2luZyBwcm90b2NvbCBidWZmZXIgc2VydmljZSBkZWZpbml0aW9ucy4gIFRo\naXMgcG9zdGVyIHByb3ZpZGVzIGFuIG92ZXJ2aWV3IG9mIHRoZSBjdXJyZW50\nIHByb2plY3QKc3RhdHVzLCBpbmNsdWRpbmcgaXRzIGdvYWxzLCBkZXNpZ24g\nZGVjaXNpb25zLCBhbmQgcmVjZW50IGJlbmNobWFya3MuCg==\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: poster
+categories: posters
+time: 3:30 PM
+startTime: 2023-03-16T15:30
+length: 30
+day: 2
+location: Frist Lobby
+speaker-text: Seth Erickson, University of California, Santa Barbara
+title: "OCFL-Index: an API for accessing OCFL repositories "
+---
+[OCFL-index](https://github.com/srerickson/ocfl-index) is a project to define and implement a
+lightweight http/gRPC-based API for indexing and accessing the contents of OCFL-based repositories.
+It can serve content from OCFL storage roots on the local file system or in the cloud. The index
+is implemented as a sqlite3 database, however additional database backends are planned. The API is
+implemented in Go and client libraries for a variety of programming languages can be auto-generated
+using protocol buffer service definitions.  This poster provides an overview of the current project
+status, including its goals, design decisions, and recent benchmarks.

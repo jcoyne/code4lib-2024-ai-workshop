@@ -1,8 +1,18 @@
-{
-  "sha": "01ac91101fa4073774067f741cbc78998dd66553",
-  "node_id": "B_kwDOIJfwrtoAKDAxYWM5MTEwMWZhNDA3Mzc3NDA2N2Y3NDFjYmM3ODk5OGRkNjY1NTM",
-  "size": 1552,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/01ac91101fa4073774067f741cbc78998dd66553",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogMTozMCBQTQpzdGFydFRpbWU6IDIwMjMtMDMtMTVU\nMTM6MzAKbGVuZ3RoOiAyMApkYXk6IDEKZ3JvdXA6IDIKc3BvdDogMQpsb2Nh\ndGlvbjogZnJpc3QKcm9vbTogbXByCnNwZWFrZXJzOgotIGphY2tzb24taHVh\nbmcKc3BlYWtlci10ZXh0OiBKYWNrc29uIEh1YW5nCnRpdGxlOiAiUHJvZ3Jh\nbW1hdGljYWxseSBBc3Npc3RlZCBBcHByb2FjaGVzIHRvIEltcHJvdmluZyBE\naWdpdGFsIENvbGxlY3Rpb25zIE1ldGFkYXRhIgotLS0KT3VyIGhvbWVncm93\nbiBkaWdpdGFsIGNvbGxlY3Rpb25zIGluZnJhc3RydWN0dXJlIGFuZCBjaGFu\nZ2luZyBwcmFjdGljZXMgaGF2ZSBtYWRlIGl0IGRpZmZpY3VsdCB0byBrZWVw\nIG91ciBtZXRhZGF0YSB1cC10by1kYXRlIGluIGEgc3lzdGVtYXRpYyB3YXks\nIGVzcGVjaWFsbHkgZm9yIG9sZGVyIGNvbGxlY3Rpb25zLiBXZeKAmXZlIGJl\nZW4gcGlsb3Rpbmcgd29ya2Zsb3dzIGZvciB0d28gb2Ygb3VyIGNvbGxlY3Rp\nb25zIGZyb20gdGhlIGVhcmx5IDIwMDBzLCB0byB1c2UgcHJvZ3JhbW1hdGlj\nIG1ldGhvZHMgdG8gaGVscCBpZGVudGlmeSBhcmVhcyBmb3IgYWRkaXRpb25h\nbCBodW1hbiBpbnRlcnZlbnRpb24uIFRoZSBmaXJzdCBpcyBmb3IgYSBjb2xs\nZWN0aW9uIG9mIG1hdGVyaWFscyBwcmltYXJpbHkgZnJvbSB0aGUgUGhpbGlw\ncGluZXMgZHVyaW5nIHRoZSBlcmEgb2YgVVMgb2NjdXBhdGlvbiwgd2hpY2gg\naXMgaGVhdmlseSB1c2VkIGluIHRoZSBQaGlsaXBwaW5lcy4gSW1wcm92aW5n\nIHRoZSBtZXRhZGF0YSB0byBpbmNyZWFzZSB1c2FiaWxpdHkgZm9yIHRoaXMg\nY29sbGVjdGlvbiBoYXMgYmVlbiBwYXJ0IG9mIG91ciBpbnN0aXR1dGlvbuKA\nmXMgd29yayBncmFwcGxpbmcgd2l0aCBpdHMgbGVnYWN5IG9mIGNvbG9uaWFs\nIGludm9sdmVtZW50IGFuZCByZXNwb25zaWJpbGl0eSB0byBwcm92aWRlIGFj\nY2VzcyBmb3IgY29tbXVuaXRpZXMgZnJvbSB3aG9tIG1hdGVyaWFscyB3ZXJl\nIHRha2VuLiBUaGUgc2Vjb25kIGlzIGZvciBhIGJpYmxpb2dyYXBoaWMgY29s\nbGVjdGlvbiBvZiAxOXRoIGNlbnR1cnkgVVMgaGlzdG9yeSwgd2hlcmUgd2Ug\na25vdyBzb21lIGl0ZW1zIGFyZSBwdWxsaW5nIG1ldGFkYXRhIGZyb20gdGhl\nIGluY29ycmVjdCBjYXRhbG9nIHJlY29yZCwgYnV0IHdlIGRvbuKAmXQgaGF2\nZSBhIGNvbXBsZXRlIGxpc3Qgb2Ygd2hhdCBpdGVtcyBzaG91bGQgYmUgaW4g\ndGhlIGNvbGxlY3Rpb24uIEJvdGggY29sbGVjdGlvbnMgaGF2ZSB0aG91c2Fu\nZHMgb2YgaXRlbXMsIGFuZCBkdWUgdG8gdGhlaXIgdG9waWMgYW5kIHRpbWUg\nb2YgcHVibGljYXRpb24sIGNvbnRhaW4gc2Vuc2l0aXZlIGNvbnRlbnQgdGhh\ndCByZXF1aXJlIGFkZGl0aW9uYWwgY2FyZSBhbmQgY29udGV4dHVhbGl6YXRp\nb24sIHdoaWNoIGlzIHdoeSB3ZSB0b29rIGFuIGFwcHJvYWNoIHRoYXQgdXNl\ncyBhdXRvbWF0aW9uIHRvIGZhY2lsaXRhdGUgcmF0aGVyIHRoYW4gcmVwbGFj\nZSBodW1hbiBpbnRlcnZlbnRpb24uCg==\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 1:30 PM
+startTime: 2023-03-15T13:30
+length: 20
+day: 1
+group: 2
+spot: 1
+location: frist
+room: mpr
+speakers:
+- jackson-huang
+speaker-text: Jackson Huang
+title: "Programmatically Assisted Approaches to Improving Digital Collections Metadata"
+---
+Our homegrown digital collections infrastructure and changing practices have made it difficult to keep our metadata up-to-date in a systematic way, especially for older collections. We’ve been piloting workflows for two of our collections from the early 2000s, to use programmatic methods to help identify areas for additional human intervention. The first is for a collection of materials primarily from the Philippines during the era of US occupation, which is heavily used in the Philippines. Improving the metadata to increase usability for this collection has been part of our institution’s work grappling with its legacy of colonial involvement and responsibility to provide access for communities from whom materials were taken. The second is for a bibliographic collection of 19th century US history, where we know some items are pulling metadata from the incorrect catalog record, but we don’t have a complete list of what items should be in the collection. Both collections have thousands of items, and due to their topic and time of publication, contain sensitive content that require additional care and contextualization, which is why we took an approach that uses automation to facilitate rather than replace human intervention.

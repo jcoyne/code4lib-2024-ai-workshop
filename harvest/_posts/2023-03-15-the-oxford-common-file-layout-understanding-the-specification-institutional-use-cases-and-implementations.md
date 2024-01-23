@@ -1,8 +1,20 @@
-{
-  "sha": "73bf17d8a45f0c4c55ed9ecf43ff9d9c3be56edc",
-  "node_id": "B_kwDOIJfwrtoAKDczYmYxN2Q4YTQ1ZjBjNGM1NWVkOWVjZjQzZmY5ZDljM2JlNTZlZGM",
-  "size": 1361,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/73bf17d8a45f0c4c55ed9ecf43ff9d9c3be56edc",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogMTE6NTAgQU0Kc3RhcnRUaW1lOiAyMDIzLTAzLTE1\nVDEwOjM1Cmxlbmd0aDogMjAKZGF5OiAxCmdyb3VwOiAxCnNwb3Q6IDIKbG9j\nYXRpb246IGZyaXN0CnJvb206IG1wcgpzcGVha2VyczoKLSB0b20td3JvYmVs\nCi0gc3RlZmFuby1jb3NzdQotIGFycmFuLWdyaWZmaXRoCnNwZWFrZXItdGV4\ndDogVG9tIFdyb2JlbCwgU3RlZmFubyBDb3NzdSwgQXJyYW4gR3JpZmZpdGgK\ndGl0bGU6ICJUaGUgT3hmb3JkIENvbW1vbiBGaWxlIExheW91dCAtIFVuZGVy\nc3RhbmRpbmcgdGhlIHNwZWNpZmljYXRpb24sIGluc3RpdHV0aW9uYWwgdXNl\nIGNhc2VzIGFuZCBpbXBsZW1lbnRhdGlvbnMiCi0tLQpUaGUgT3hmb3JkIENv\nbW1vbiBGaWxlIExheW91dCAoT0NGTCkgaXMgYW4gZW1lcmdpbmcgZGF0YSBz\ndGFuZGFyZCB0aGF0IGRlc2NyaWJlcyBhbiBhcHBsaWNhdGlvbi1pbmRlcGVu\nZGVudCBhcHByb2FjaCB0byB0aGUgc3RvcmFnZSBvZiBkaWdpdGFsIGluZm9y\nbWF0aW9uIGluIGEgc3RydWN0dXJlZCwgdHJhbnNwYXJlbnQgYW5kIHByZWRp\nY3RhYmxlIG1hbm5lci4gV2l0aCB0aGUgbW9zdCByZWNlbnQgcmVsZWFzZSwg\ndjEuMSwgT0NGTCBpbXBsZW1lbnRhdGlvbnMgYXJlIGJlY29taW5nIGluY3Jl\nYXNpbmdseSBwb3B1bGFyIHdpdGhpbiBpbnN0aXR1dGlvbnMgbG9va2luZyBm\nb3IgbG9uZy10ZXJtIHByZXNlcnZhdGlvbiBzb2x1dGlvbnMgdGhhdCBhcmUg\ncm9idXN0IGFnYWluc3QgY29ycnVwdGlvbiwgb2ZmZXIgc3RvcmFnZSBkaXZl\ncnNpdHkgYW5kIGFyZSBlYXNpbHkgdHJhbnNwb3J0YWJsZSBiZXR3ZWVuIHN0\nb3JhZ2UgdmVuZG9ycywgdGh1cyBwcm90ZWN0aW5nIHRoZWlyIGNvbnRlbnQg\naW50byB0aGUgZm9yZXNlZWFibGUgZnV0dXJlLiAgSW4gdGhpcyBwcmVzZW50\nYXRpb24gd2Ugd2lsbCBkaXNjdXNzIHRoZSBzcGVjaWZpYyBkZXNpZ24gZ29h\nbHMgYW5kIG1ldGhvZG9sb2dpZXMgaW52b2x2ZWQgaW4gZGV2ZWxvcGluZyBh\nbmQgbWFpbnRhaW5pbmcgdGhlIE9DRkwgc3BlY2lmaWNhdGlvbiBhcyB3ZWxs\nIGFzIGV4cGxvcmUgZGlmZmVyZW50IHdheXMgaW5zdGl0dXRpb25zIGFyZSBp\nbXBsZW1lbnRpbmcgT0NGTCBhcyBwYXJ0IG9mIHRoZWlyIGRpZ2l0YWwgcHJl\nc2VydmF0aW9uIHByb2dyYW1zLiBJbXBsZW1lbnRlcnMgd2lsbCBzcGVhayBh\nYm91dCB0aGVpciB1c2UgY2FzZSByZXF1aXJlbWVudHMgZm9yIHRoZWlyIGlu\nZGl2aWR1YWwgaW5zdGl0dXRpb25zIGFuZCByZWFzb25pbmcgYmVoaW5kIHNl\nbGVjdGluZyBPQ0ZMIGFzIHdlbGwgYXMgZGlzY3VzcyB0aGVpciBkZXNpcmVk\nIG91dGNvbWVzLgo=\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 11:50 AM
+startTime: 2023-03-15T10:35
+length: 20
+day: 1
+group: 1
+spot: 2
+location: frist
+room: mpr
+speakers:
+- tom-wrobel
+- stefano-cossu
+- arran-griffith
+speaker-text: Tom Wrobel, Stefano Cossu, Arran Griffith
+title: "The Oxford Common File Layout - Understanding the specification, institutional use cases and implementations"
+---
+The Oxford Common File Layout (OCFL) is an emerging data standard that describes an application-independent approach to the storage of digital information in a structured, transparent and predictable manner. With the most recent release, v1.1, OCFL implementations are becoming increasingly popular within institutions looking for long-term preservation solutions that are robust against corruption, offer storage diversity and are easily transportable between storage vendors, thus protecting their content into the foreseeable future.  In this presentation we will discuss the specific design goals and methodologies involved in developing and maintaining the OCFL specification as well as explore different ways institutions are implementing OCFL as part of their digital preservation programs. Implementers will speak about their use case requirements for their individual institutions and reasoning behind selecting OCFL as well as discuss their desired outcomes.

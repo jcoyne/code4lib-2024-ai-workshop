@@ -1,8 +1,18 @@
-{
-  "sha": "4e570c9bfc74129a9624a69a4e017e5c50f36ab2",
-  "node_id": "B_kwDOIJfwrtoAKDRlNTcwYzliZmM3NDEyOWE5NjI0YTY5YTRlMDE3ZTVjNTBmMzZhYjI",
-  "size": 1517,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/4e570c9bfc74129a9624a69a4e017e5c50f36ab2",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogMTo1MCBQTQpzdGFydFRpbWU6IDIwMjMtMDMtMTVU\nMTM6NTAKbGVuZ3RoOiAxMApkYXk6IDEKZ3JvdXA6IDIKc3BvdDogMgpsb2Nh\ndGlvbjogZnJpc3QKcm9vbTogbXByCnNwZWFrZXJzOgotIHR5bGVyLW5hdGhh\nbmllbC13YWRlCnNwZWFrZXItdGV4dDogVHlsZXIgTmF0aGFuaWVsIFdhZGUK\ndGl0bGU6ICJUZXN0LURyaXZlbiBEYXRhIE1pZ3JhdGlvbiIKLS0tCkF0IFBy\naW5jZXRvbiBVbml2ZXJzaXR5IExpYnJhcnksIHdlIGFyZSBtaWdyYXRpbmcg\ncmVzZWFyY2ggZGF0YSBjb2xsZWN0aW9ucyBmcm9tIGEgbGVnYWN5IERTcGFj\nZSBpbnN0YW5jZSB0byBvdXIgbmV3bHkgY29uc3RydWN0ZWQgUHJpbmNldG9u\nIERhdGEgQ29tbW9ucyBzdWl0ZSBvZiBhcHBsaWNhdGlvbnMuIFRoaXMgaW5j\nbHVkZXMgbWlncmF0aW5nIG1ldGFkYXRhIGZyb20gbW9kaWZpZWQgRHVibGlu\nIENvcmUgdG8gRGF0YUNpdGUuIE91ciBnb2FsIGlzIHRvIGltcHJvdmUgdGhl\nIGRpc2NvdmVyeSBhbmQgcmV1c2Ugb2Ygb3VyIG9wZW4gcmVzZWFyY2ggZGF0\nYS4gIFdlIGFyZSB1c2luZyBhIHRlY2huaXF1ZSB3ZSBsaWtlIHRvIGNhbGwg\ndGVzdC1kcml2ZW4gZGF0YSBtaWdyYXRpb24uIEJ5IGxldmVyYWdpbmcgc3Ry\nYXRlZ2llcyBmcm9tIHRlc3QtZHJpdmVuIGRldmVsb3BtZW50LCB3ZSBzdXJm\nYWNlIHRoZSBvcmlnaW5zIG9mIGluY29uc2lzdGVudCBtZXRhZGF0YSBhbmQg\nYnVpbGQgYSB2aXJ0dW91cyBjeWNsZSBiZXR3ZWVuIG1ldGFkYXRhIGNyZWF0\naW9uIGFuZCB1c2UuIFdlIGNyZWF0ZSBhcnRpZmFjdHMgd2UgY2FuIHVzZSB0\nbyBlbmdhZ2UgaW4gaXRlcmF0aXZlIGZlZWRiYWNrIGxvb3BzIHdpdGggb3Vy\nIHN0YWtlaG9sZGVycyBhbmQgd2l0aCB0aGUgYnJvYWRlciByZXNlYXJjaCBk\nYXRhIGVjb3N5c3RlbS4gIFRoaXMgaW52b2x2ZXMgaWRlbnRpZnlpbmcgcmVw\ncmVzZW50YXRpdmUgc2FtcGxlcyBmcm9tIHRoZSBjb2xsZWN0aW9uIHRoYXQg\naXMgdG8gYmUgbWlncmF0ZWQgYW5kIHdyaXRpbmcgUnNwZWMgc3lzdGVtIHRl\nc3RzIHRoYXQgc2ltdWxhdGUgYSBjYXRhbG9nZXIgdXNpbmcgb3VyIG5ld2x5\nIGRldmVsb3BlZCBEYXRhQ2l0ZSBjYXRhbG9naW5nIGludGVyZmFjZS4gV2Ug\ndGhlbiB2YWxpZGF0ZSBib3RoIHRoZSBjYXRhbG9naW5nIHByb2Nlc3MgYW5k\nIHRoZSByZXN1bHRhbnQgcmVjb3JkIHdpdGggc3Rha2Vob2xkZXJzLiBXZSBh\nbHNvIGluY29ycG9yYXRlIHRoZSByZWNvcmQgaW50byBvdGhlciBzb2Z0d2Fy\nZSBkZXZlbG9wbWVudCB2YWx1ZSBzdHJlYW1zLiAgVGhpcyBwcmVzZW50YXRp\nb24gd2lsbCBzaG93IG91ciBuZXcgY2F0YWxvZ2luZyBpbnRlcmZhY2UgYW5k\nIHNvbWUgb2YgdGhlIHRlc3RzIHdlIGFyZSB1c2luZywgYW5kIHdlIHdpbGwg\nZGlzY3VzcyBob3cgd3JpdGluZyBvdXIgdGVzdHMgZmlyc3QgaW1wcm92ZWQg\ndGhlIG92ZXJhbGwgbWlncmF0aW9uIHByb2Nlc3MuIAo=\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 1:50 PM
+startTime: 2023-03-15T13:50
+length: 10
+day: 1
+group: 2
+spot: 2
+location: frist
+room: mpr
+speakers:
+- tyler-nathaniel-wade
+speaker-text: Tyler Nathaniel Wade
+title: "Test-Driven Data Migration"
+---
+At Princeton University Library, we are migrating research data collections from a legacy DSpace instance to our newly constructed Princeton Data Commons suite of applications. This includes migrating metadata from modified Dublin Core to DataCite. Our goal is to improve the discovery and reuse of our open research data.  We are using a technique we like to call test-driven data migration. By leveraging strategies from test-driven development, we surface the origins of inconsistent metadata and build a virtuous cycle between metadata creation and use. We create artifacts we can use to engage in iterative feedback loops with our stakeholders and with the broader research data ecosystem.  This involves identifying representative samples from the collection that is to be migrated and writing Rspec system tests that simulate a cataloger using our newly developed DataCite cataloging interface. We then validate both the cataloging process and the resultant record with stakeholders. We also incorporate the record into other software development value streams.  This presentation will show our new cataloging interface and some of the tests we are using, and we will discuss how writing our tests first improved the overall migration process. 

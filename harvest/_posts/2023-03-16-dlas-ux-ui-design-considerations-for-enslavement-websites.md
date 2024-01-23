@@ -1,8 +1,18 @@
-{
-  "sha": "37c187562188986faae207d56f681f275069fa3b",
-  "node_id": "B_kwDOIJfwrtoAKDM3YzE4NzU2MjE4ODk4NmZhYWUyMDdkNTZmNjgxZjI3NTA2OWZhM2I",
-  "size": 760,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/37c187562188986faae207d56f681f275069fa3b",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHRhbGsKY2F0ZWdvcmll\nczogdGFsa3MKdGltZTogOTozNSBBTQpzdGFydFRpbWU6IDIwMjMtMDMtMTZU\nOTozNQpsZW5ndGg6IDEwCmRheTogMgpncm91cDogNApzcG90OiAyCmxvY2F0\naW9uOiBmcmlzdApyb29tOiBtcHIKc3BlYWtlcnM6Ci0gZGFubnktbmFuZXoK\nc3BlYWtlci10ZXh0OiBEYW5ueSBOYW5legp0aXRsZTogIkRMQVM6IFVYL1VJ\nIGRlc2lnbiBjb25zaWRlcmF0aW9ucyBmb3IgZW5zbGF2ZW1lbnQgd2Vic2l0\nZXMiCi0tLQpUaGUgRGlnaXRhbCBMaWJyYXJ5IG9uIEFtZXJpY2FuIFNsYXZl\ncnkgKERMQVMpIGlzIGFuIGV4cGFuZGluZyByZXNvdXJjZSBjb25zaXN0aW5n\nIG9mIG92ZXIgMzUgdGhvdXNhbmQgcHVibGljIHJlY29yZHMgb24gcmFjZSBh\nbmQgZW5zbGF2ZW1lbnQgaW4gdGhlIEFtZXJpY2FuIFNvdXRoLiAgVGhlIHBy\nZXNlbnRhdGlvbiB3aWxsIGJlZ2luIHdpdGggYSBicmllZiBpbnRyb2R1Y3Rp\nb24gdG8gdGhlIFtETEFTIHdlYnNpdGVdKGh0dHBzOi8vZGxhcy51bmNnLmVk\ndS8pLiAgVGhlIHByZXNlbnRhdGlvbiB0aGVuIGhpZ2hsaWdodHMgdGhlIGRp\nZmZlcmVudCBVWC9VSSBkZXNpZ24gY29uc2lkZXJhdGlvbnMgbWFkZSB0aHJv\ndWdob3V0IHRoZSB3ZWIgZGV2ZWxvcG1lbnQgcHJvY2Vzcy4gIFRoaXMgcHJl\nc2VudGF0aW9uIHdpbGwgb2ZmZXIgYXR0ZW5kZWVzIGJlc3QgcHJhY3RpY2Vz\nIHdoZW4gd29ya2luZyB3aXRoIGVuc2xhdmVtZW50IHJlY29yZHMuCg==\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: talk
+categories: talks
+time: 9:35 AM
+startTime: 2023-03-16T9:35
+length: 10
+day: 2
+group: 4
+spot: 2
+location: frist
+room: mpr
+speakers:
+- danny-nanez
+speaker-text: Danny Nanez
+title: "DLAS: UX/UI design considerations for enslavement websites"
+---
+The Digital Library on American Slavery (DLAS) is an expanding resource consisting of over 35 thousand public records on race and enslavement in the American South.  The presentation will begin with a brief introduction to the [DLAS website](https://dlas.uncg.edu/).  The presentation then highlights the different UX/UI design considerations made throughout the web development process.  This presentation will offer attendees best practices when working with enslavement records.

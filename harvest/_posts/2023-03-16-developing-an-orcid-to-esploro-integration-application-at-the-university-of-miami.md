@@ -1,8 +1,21 @@
-{
-  "sha": "63f0f5e8c4f13566e9c165bb2352fcc0ff0e5bf8",
-  "node_id": "B_kwDOIJfwrtoAKDYzZjBmNWU4YzRmMTM1NjZlOWMxNjViYjIzNTJmY2MwZmYwZTViZjg",
-  "size": 1174,
-  "url": "https://api.github.com/repos/code4lib/2023.code4lib.org/git/blobs/63f0f5e8c4f13566e9c165bb2352fcc0ff0e5bf8",
-  "content": "LS0tCmxheW91dDogcHJlc2VudGF0aW9uCnR5cGU6IHBvc3RlcgpjYXRlZ29y\naWVzOiBwb3N0ZXJzCnRpbWU6IDM6MzAgUE0Kc3RhcnRUaW1lOiAyMDIzLTAz\nLTE2VDE1OjMwCmxlbmd0aDogMzAKZGF5OiAyCmxvY2F0aW9uOiBGcmlzdCBM\nb2JieQpzcGVha2VyLXRleHQ6IENoYXJsZXMgQnJvd24tUm9iZXJ0cywgRWRk\naWUgUHJpZXRvLCBVbml2ZXJzaXR5IG9mIE1pYW1pCnRpdGxlOiAiRGV2ZWxv\ncGluZyBhbiBPUkNJRCB0byBFc3Bsb3JvIEludGVncmF0aW9uIEFwcGxpY2F0\naW9uIGF0IHRoZSBVbml2ZXJzaXR5IG9mIE1pYW1pICIKLS0tClRoZSBVbml2\nZXJzaXR5IG9mIE1pYW1pIExpYnJhcmllcyBpbXBsZW1lbnRlZCBFeCBMaWJy\naXMgRXNwbG9ybyBhcyBvdXIgSW5zdGl0dXRpb25hbCBSZXBvc2l0b3J5IGlu\nCjIwMjEsIGFuZCBhcyBwYXJ0IG9mIHRoaXMgaW1wbGVtZW50YXRpb24gdGhl\nIFVuaXZlcnNpdHkgb2YgTWlhbWkgKFVNKSBzdGFydGVkIGFuIGluaXRpYXRp\ndmUgdG8KaW50ZWdyYXRlIE9SQ0lEIGlEcyBmb3IgcmVzZWFyY2hlcnMgYWNy\nb3NzIHRoZSBpbnN0aXR1dGlvbi4gQmVjYXVzZSBub3QgZXZlcnlvbmUgYXQg\nVU0gaXMgYQpyZXNlYXJjaGVyIGluIEVzcGxvcm8sIHdlIG5lZWRlZCBhIHNv\nbHV0aW9uIHRoYXQgY291bGQgY29ubmVjdCBPUkNJRCBpRHMgZm9yIGV2ZXJ5\nb25lIGluZGVwZW5kZW50Cm9mIEVzcGxvcm8sIHRodXMgd2UgZGV2ZWxvcGVk\nIHRoZSDigJxPUkNJRCBJbnRlZ3JhdGlvbiBUb29s4oCdLCBhIG1pZGRsZXdh\ncmUgYXBwbGljYXRpb24gdGhhdCBjb3VsZApoYW5kbGUgYWxsIHVzZSBjYXNl\ncy4gVGhlIGFwcCBwdWxscyBPUkNJRCBkYXRhIGludG8gRXggTGlicmlzIEFs\nbWEvRXNwbG9ybyB2aWEgT0F1dGggYW5kIEFQSQpjb25uZWN0b3JzLiBUaGlz\nIHBvc3RlciB3aWxsIG91dGxpbmUgdGhlIGRldmVsb3BtZW50IHByb2Nlc3Mg\nd2UgdG9vayB0byBidWlsZCB0aGlzIGFwcCwgaW5jbHVkaW5nCnRoZSBvdmVy\nYWxsIHdvcmtmbG93OiBmb3IgZXhhbXBsZSwgRG9ja2VyIGRldmVsb3BtZW50\nIGVudmlyb25tZW50LCBBenVyZSBwaXBlbGluZXMsIFB5dGhvbgpsaWJyYXJp\nZXMsIEZsYXNrIGZyYW1ld29yaywgYW5kIHRoZSByZXN1bHRzIG9mIHVzZXIg\ndGVzdGluZyB0aGF0IGxlZCB0byBhIHJldmlzaW9uIG9mIHRoZSBpbnRlcmZh\nY2UuCg==\n",
-  "encoding": "base64"
-}
+---
+layout: presentation
+type: poster
+categories: posters
+time: 3:30 PM
+startTime: 2023-03-16T15:30
+length: 30
+day: 2
+location: Frist Lobby
+speaker-text: Charles Brown-Roberts, Eddie Prieto, University of Miami
+title: "Developing an ORCID to Esploro Integration Application at the University of Miami "
+---
+The University of Miami Libraries implemented Ex Libris Esploro as our Institutional Repository in
+2021, and as part of this implementation the University of Miami (UM) started an initiative to
+integrate ORCID iDs for researchers across the institution. Because not everyone at UM is a
+researcher in Esploro, we needed a solution that could connect ORCID iDs for everyone independent
+of Esploro, thus we developed the “ORCID Integration Tool”, a middleware application that could
+handle all use cases. The app pulls ORCID data into Ex Libris Alma/Esploro via OAuth and API
+connectors. This poster will outline the development process we took to build this app, including
+the overall workflow: for example, Docker development environment, Azure pipelines, Python
+libraries, Flask framework, and the results of user testing that led to a revision of the interface.
