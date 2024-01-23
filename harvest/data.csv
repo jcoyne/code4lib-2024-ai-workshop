@@ -1,0 +1,374 @@
+"Dr. Siobahn Day Grady Keynote
+","
+Dr. Siobahn Grady is an Assistant Professor of Library and Information Sciences and the director
+of the [Laboratory for Artificial Intelligence and Equity Research
+(LAIER)](https://www.nccu.edu/slis/laboratory-artificial-intelligence-and-equity-research-laier)
+at North Carolina Central University, the only ALA-Accredited Library School at an HBCU
+(Historically Black College or University). Dr. Grady's research is focused on using machine
+learning to identify sources of misinformation on social media, and on improving fault detection in
+autonomous vehicles. Dr. Grady is an IF/THEN Ambassador for the American Association for the
+Advancement of Science, a program which seeks to bring more women and minorities into hard
+sciences, technology, engineering and mathematics. Dr. Grady was the first woman to graduate with
+a computer science Ph.D. from N.C. A&T State University, and through her teaching, research,
+philanthropy and public speaking she is a passionate supporter of HBCUs and the students they
+serve. Code4Lib would benefit from learning about her work at LAIER and about her vision for
+minority girls' and women's futures in technology fields.
+
+More Information about Dr. Grady Can be found at [her website](https://siobahncday.com/).
+"
+"""There’s going to be some changes: Developing support, supporting developers, and supporting development. ""
+","When faced with a wide range of upgrade-related changes to our digital preservation system, the library’s Digital Preservation Unit was charged with supporting stakeholders with varying needs through the transition. What from the outset seemed to be a straight-forward task of creating documentation and informing users, quickly expanded to include extensive testing, providing support to the developers of various integrations, and developing new user-facing software ourselves. This presentation will provide a number of lessons-learned along the path from getting up-to-speed with a large number of system changes, finding our edge-cases as early as possible, working with internal and external developers, the development of our packaging application and the technology choices that enabled it.
+"
+"""Weill Cornell Institutional Data Repository for Research (WIDRR)""
+","A new National Institutes of Health (NIH) data management and sharing policy requires funded
+investigators to share appropriate research data according to FAIR principles (Findable,
+Accessible, Interoperable, Reusable), and is effective in January 2023. In response, Weill Cornell
+Medicine (WCM) Wood Library has developed a new tool named WIDRR – WCM Institutional Data
+Repository for Research - aimed at helping WCM researchers deposit their datasets in a local
+repository, so they are findable. WIDRR is used to deposit datasets for three milestones:
+1) whenever a researcher publishes a paper, 2) when a researcher’s grant ends, or 3) when a
+Principal Investigator leaves the institution. The tool is built with Django web framework and
+based on a relational PostgreSQL database. It includes a 4-step wizard walking researchers through
+the deposit process. This tool is connected to the WCM Data Catalog and allows researchers to
+create a data catalog entry as they deposit (archive) their dataset. The data catalog entry
+displays the metadata associated with the dataset, allowing each dataset to be visible by the
+whole WCM community, thereby fostering the reuse of these datasets. This poster illustrates the
+infrastructure and workflow which enable WCM researchers to meet this new policy requirement.
+"
+"""Metadata for everyone: Identifying metadata quality issues across cultures""
+","Metadata is crucial to the dissemination and communication of research. Well-formed metadata facilitates discovery and access and provides contextual, technical, and administrative information in a standard form. Yet metadata are also sites of tension between sociocultural representations, resource constraints, and standardized systems. Formal and informal interventions in metadata spaces may be interpreted as metadata quality issues, political acts to assert identity, or strategic curatorial choices to maximize discoverability and visibility.  In this context, we engaged with Crossref on the Metadata for Everyone project to understand how metadata quality, consistency, and completeness impact individuals and communities. Working from a sample of records known to have erroneous, incomplete, or otherwise imperfect metadata, this project set out to identify and classify the issues stemming from how metadata and communities press up against each other to intentionally reflect (or not) cultural meanings. Beginning with an overview of the context and our qualitative approach, this presentation will go on to provide an overview of the various metadata quality issues we identified and the typology we developed to better understand them. We conclude by discussing the implications of our findings and describing future work we intend to undertake.
+"
+"""A Dashboard Might Help Maintenance for Your Backend Service""
+","We have a complex backend API service with a team responsible for maintenance.  Different errors occur in this service and even though there is documentation, the team struggles to address the problems due to service complexity.  This is an organizational vulnerability smell.  With some team brainstorming, the idea of a dashboard surfaced – something to show the current health status of the service … and a way to associate specific current problems with the appropriate documentation and tools to address said problems.  A dashboard prototype surfaced additional desires for information demand, from “tell me about this object” to “I want stats for the last 6 months.”  An interesting bonus:  the initial implementation of the dashboard surfaced a data problem not caught at runtime or by our regularly run audits.
+"
+"""Documenting Movements: Mukurtu as a platform for contemporary video archive ""
+","Mukurtu was designed for Indigenous communities to determine and enact cultural protocols in a digital space by managing the access and use of cultural materials and knowledge. What about for political action that Indigenous communities are engaged in and documenting right now? This presentation will showcase a partnership between an academic institution and an Indigenous legal advocacy organization to create a portal for students and researchers to their video archive featuring documentation of environmental justice movements. Considerations include privacy and surveillance, ease of use for different purposes by stakeholders including students at tribal colleges, accessibility, and content governance. We will share the limitations for using Mukurtu for such a project and different technical models that projects can use for self-hosting or cloud hosting video content. 
+"
+"""Worst Case Scenario Turns Out Better Than Expected - The National Library of Wales’ Fedora Migration Story""
+","As with many institutions using older versions of Fedora, the National Library of Wales has long been plagued with the challenge of upgrading an outdated and unsupported Fedora 3 repository. After unsuccessfully attempting to migrate to Fedora 4, the need for securing a long-term preservation strategy to protect the 5.5 million objects in the repository was critical. In early 2022, the Library sought to contract the Fedora Program Team to facilitate a migration to Fedora 6. With promising news of Fedora 6.x offering updated preservation standards, transparent data and accessible migration paths, it was imperative to begin a migration to preserve this content.  With deeper investigation into the tools available as a result of the IMLS Fedora Migration Paths & Tools Project Grant, the Library team realized that the community-developed tools and documentation were comprehensive enough to execuse the task in-house; saving costs and providing user experience back to the community.  This presentation will discuss the Library’s migration pathway - from the decision making process to move to Fedora 6.x, to planning the migration and finally executing the work. We will share lessons learned, challenges and successes encountered during the migration and finally plans for the road ahead.
+"
+"""Improving Readability and Tracking of LC Classification Number Updates with Python""
+","Every month, the Library of Congress releases changes and additions to LC classification numbers
+published to classweb.org/approved/. Most recently, the Library of Congress has begun releasing
+changed classification patterns for outdated and/or harmful racial and ethnic group terms. NCSU
+Libraries has an interest in tracking and implementing these changes locally. We explored how to
+process these monthly lists using Python to filter the monthly results into a more readable
+spreadsheet for us to review and implement changes as they appear. Using regular expressions, HTTP
+requests, and Pandas, we successfully created a script that exports these lists into a multi-tab
+spreadsheet for users to track and execute all applicable changes in a more readable, easy to use
+format.
+"
+"""Duplicates in the repository: remediation and reconciliation in three systems, including DataCite""
+","Academic Commons provides long-term open access to digital scholarships produced by Columbia
+University affiliates. Content may be added by authors through a self-deposit form, by library
+staff through the cataloging backend (Hyacinth), and via SWORD deposit from entities such as
+library-hosted OJS, journal publishers, and others. As one might expect, after fifteen years of
+additions through these various channels, duplication happens! When faced with a corpus of nearly
+40,000 records that must be reviewed, with duplicates remediated in three separate systems, how
+does one even start? This poster illustrates our approach to defining and scoping this problem, as
+well as the project workflows and technical solutions we utilized to remediate approximately 300
+duplicate item records and 600 associated asset records.
+
+Technologies: Fedora, Solr, Rails, Python, DataCite
+"
+"""Days of Future Past: Examing Race through Comics Metadata""
+","This panel uses the Comics as Data North America (CaDNA) dataset at Michigan State University to discuss patterns of racial depiction in North American comics from 1890-2018. After three brief case studies, we demonstrate how CaDNA visualizations highlight representations of race in North American comics, alongside how metadata can be used to codify, correct, or disrupt authorial representation in linked open data.   This panel draws on metadata from the Michigan State University Comic Art collection to explore the ways we codify and describe identity. We call attention to the constructed nature of race in North America and the continuing work needed to imagine race beyond the confines of the established cultural legacy. 
+"
+"""The challenges and opportunities of interdisciplinary collaboration to build custom software tools at a growing archive""
+","Archives are confronted with an increasing number of data processing challenges for which there are not often user-friendly or affordable software solutions. In addition, traditional  education and training in the field of galleries, libraries, archives, and museums (GLAM) have left practicing professionals with a growing gap in the skills required to meet contemporary preservation needs. In this presentation, a programmer and an archives professional will detail their unique experience collaborating to build and utilize custom data processing tools to demonstrate the considerations, challenges, and benefits of working on interdisciplinary teams to produce custom, in-house software solutions at a GLAM institution. Emphasis is placed on the synergistic outcomes and professional development that communication and collaboration between programmers and GLAM professionals can produce.
+"
+"""DLAS: UX/UI design considerations for enslavement websites""
+","The Digital Library on American Slavery (DLAS) is an expanding resource consisting of over 35 thousand public records on race and enslavement in the American South.  The presentation will begin with a brief introduction to the [DLAS website](https://dlas.uncg.edu/).  The presentation then highlights the different UX/UI design considerations made throughout the web development process.  This presentation will offer attendees best practices when working with enslavement records.
+"
+"""Painting A Bigger Picture: Creating Adaptable Application Profiles based in Sinopia""
+","LD4P’s Sinopia Linked Data Environment has become a valuable resource for creating RDA/RDF encoded
+metadata, but just as sinopias were precursors to fully-fledged frescoes, the Sinopia Environment
+is only an introduction to what is possible for linked data in library science. The University of
+Washington Library’s Linked Data team has been developing a workflow to create Sinopia resource
+templates outside of the Sinopia interface using XML and Python. The Sinopia MAPs project stores
+the data necessary to create these resource templates in a GitHub repository, creating a single
+source that can be used to produce multiple derivatives including Sinopia resource templates,
+human-readable HTML templates, and potentially other representations, such as DC Tabular
+Application Profiles in the form of CSV files. By using a workflow outside of Sinopia, property
+templates can be referenced and reused across multiple application profiles, meaning a single line
+of code can create a whole new resource template. This project is an exploration in designing
+platform-agnostic metadata application profiles that can be easily adapted and used to create
+templates in a variety of formats to support the production of resource descriptions in RDA/RDF.  
+"
+"""Foster, Connect, Support: A 2-year reflection as Senior Program Officer for the Open Library Foundation ""
+","The Open Library Foundation is a non-profit organization that seeks to enable and support
+collaboration among library workers, technologists, and service providers in order to share
+expertise and resources for the creation of innovative software and resources that support
+libraries. This poster will reflect on my two-year term as the Senior Program Officer for the Open
+Library Foundation. It will highlight common themes across Foundation project communities, provide
+a look inside open source governance, and discuss the benefits of volunteer opportunities such as
+this one within open source projects. 
+"
+"""International Image Interoperability Framework (IIIF) infrastructure redesign at Harvard Library""
+","The Library Technology Services (LTS) team at Harvard University has completed designing, building, and implementing the next-generation image delivery infrastructure for the Harvard Library. This infrastructure is largely based on standards and technologies compatible with the International Image Interoperability Framework (IIIF). LTS maintains the IIIF infrastructure for delivering images and metadata to Harvard Library platforms such as HOLLIS (the Harvard Library catalog) and Harvard Digital Collections (public access to more than 6 million objects). The IIIF environment is also used by the Harvard Art Museums, HUIT Academic Technology (with integration into Canvas) and Vice Provost for Advances in Learning (VPAL), and is considered critical university-wide infrastructure for teaching and research.  Members of LTS will host a series of presentations and demonstrations to showcase the recent work on the IIIF implementation project. Engineers will explain the architecture principles guiding the designs and show the technical plans and system architecture diagrams. A full walkthrough of the entire asset ingest and delivery workflow will be shown with recorded demos. 
+"
+"""Assessing open source and subscription data sources for research information management and evaluation""
+","Academic libraries are increasingly called upon to capture and use publication metadata to
+demonstrate the productivity and impact of the institution's researchers. But not all data sources
+are created equal. This poster will describe a case study involving a research impact assessment
+using four metadata sources, including two open source and two subscription based solutions. It
+will compare the different data sources, assessing the benefits and drawbacks of each, and the
+impact of data source selection on the results of a research impact assessment project. 
+"
+"""Slower, but Worth It: Navigating a Systems Migration via RFCs""
+","This poster will outline takeaways and lessons learned from using a Request for Comments (RFC)
+process for collaboratively managing a large digital collections migration project. RFCs are a
+transparent, participatory approach to change management that is frequently used in open source
+software projects to encourage dialogue among community stakeholders with widely differing
+perspectives and areas of expertise. Using this structured communication method has provided an
+effective tool for our Libraries' cross-departmental project team as we work through a migration
+of more than 1.8 million digital resources, representing nearly twenty years of mass digitization
+and boutique projects, from a self-hosted CONTENTdm platform to our custom Fedora-based Digital
+Collections Repository. In this poster session, we will share tips for other teams who may be
+interested in using RFCs for encouraging collaboration to solve problems that are beyond the scope
+of any single department. We will highlight recommendations from our team's experiences with
+adapting an RFC template and review process to facilitate collaboration by software development,
+metadata, and digital collections staff. We will also provide examples of using RFCs to explore
+and define requirements and implementation objectives for intersecting systems, workflows, data
+stores, and services.
+"
+"Getting running with ARK persistable identifiers
+","In this 3-hour workshop we will introduce you to ARKs (Archival Resource Keys), which can serve as persistent identifiers, or stable, trusted references for information objects (eg, web addresses that don’t return 404 Page Not Found errors). For more than two decades, 8.2 billion ARKs have been created by over 1000 organizations — libraries, data centers, archives, museums, publishers, government agencies, and vendors.  We will cover:
+* Why ARKs -- non-paywalled, decentralized, flexible
+* Use cases -- Smithsonian, French National Library, Internet Archive
+* Metadata for early and ongoing object development
+* How to get started -- one form
+* Minting and assigning ARK identifiers
+* Resolvers, resolution, redirection
+* Object types -- digital, physical, conceptual
+* Persistence considerations
+* Available tools
+"
+"HathiTrust Research Center Extracted Features API and Visualization Workshop
+","The HathiTrust Research Center (HTRC) Extracted Features is a derived dataset consisting of volume metadata and word-level statistical data (aggregated at the page level) that has been extracted from content in the HathiTrust Digital Library. It is presented as JSON-LD files representing a snapshot of the HathiTrust corpus from February 2020. As part of an NEH-funded project, “Tools for Open Research and Computation with HathiTrust: Leveraging Intelligent Text Extraction (TORCHLITE),” the HTRC team is building a new API and interactive dashboard to allow our user community to develop its own tools for interacting with data from the 17.5 million-volume HathiTrust Digital Library. This workshop will provide an introduction to the Extracted Features dataset and the new TORCHLITE API, and set the stage for an NEH-funded hackathon in Fall 2023. There will be a hands-on portion of the workshop. Beginners with little to no coding experience can follow along as we use interactive code notebooks to create visualizations using Extracted Features. More advanced users can write their own code to interact with the data.
+"
+"""Building Effective Library Dashboards in Tableau""
+","The Collection Strategies Division of Columbia University Libraries is using Tableau to develop
+a series of dashboards and tools in order to more efficiently and effectively track important
+data across collections. These dashboards will provide deeper insight into how library collections
+are being utilized and allow staff to make data-informed decisions regarding both existing
+collections and potential acquisitions. This talk will discuss the development and design of the
+dashboards, workflow implementation, data collection and integration processes, and the various
+challenges encountered. It will also include a demonstration of sample dashboards.
+"
+"""Test-Driven Data Migration""
+","At Princeton University Library, we are migrating research data collections from a legacy DSpace instance to our newly constructed Princeton Data Commons suite of applications. This includes migrating metadata from modified Dublin Core to DataCite. Our goal is to improve the discovery and reuse of our open research data.  We are using a technique we like to call test-driven data migration. By leveraging strategies from test-driven development, we surface the origins of inconsistent metadata and build a virtuous cycle between metadata creation and use. We create artifacts we can use to engage in iterative feedback loops with our stakeholders and with the broader research data ecosystem.  This involves identifying representative samples from the collection that is to be migrated and writing Rspec system tests that simulate a cataloger using our newly developed DataCite cataloging interface. We then validate both the cataloging process and the resultant record with stakeholders. We also incorporate the record into other software development value streams.  This presentation will show our new cataloging interface and some of the tests we are using, and we will discuss how writing our tests first improved the overall migration process. 
+"
+"""Modern Alchemy: Hands-On with the Distant Reader""
+","In this hands-on workshop participants will first learn how to use a system called the Distant Reader to transform sets of unstructured data (like journal articles) into structured data affectionally called ""study carrels"". These data sets are amenable to analysis by both people as well as computers. Second, participants will learn how to use a Python-based command-line tool (the Reader Toolbox) to apply text mining and natural language processing tasks against the structured data. These processess include things such as feature extraction, concordancing, topic modeling, full text indexing, semantic indexing, network analysis, etc. In the end, participants will learn of an additional way to turn data into information -- modern alchemy.
+"
+"""AMPlifying AV: leveraging artificial intelligence to create metadata for audiovisual collections""
+","In 2015, Indiana University (IU) undertook a massive project to digitize audio, video, and film assets that resulted in over 350,000 digitized items, including collections from the Moving Image Archive, the Black Film Center & Archive, the Archives of Traditional Music, and many other campus units. Significant portions of this content lack descriptive metadata and contain unknown content. Since 2018, the IU Libraries have been working with partners at AVP, the University of Texas at Austin, and New York Public Library, supported by the Andrew W. Mellon Foundation, to develop the open source Audiovisual Metadata Platform (AMP). The vision of AMP is to allow archivists and librarians to create workflows leveraging artificial intelligence and machine learning services to help generate metadata supporting identification, discovery, and rights determination for these collections. These workflows include tools that perform tasks such as speech-to-text, named entity recognition, applause detection, and facial recognition.  This talk will share findings from our evaluation of these AI/ML tools and their effectiveness in creating metadata for audiovisual collections at IU. We’ll also cover the context for the larger AMP project, provide a brief demo, review the open source technology stack, and explore next steps for the project. 
+"
+"""Utilizing R and Python for Institutional Repository Daily Jobs""
+","In recent years, the programming languages R and Python have become very popular among data
+scientists. However, R and Python are not just for data scientists or programmers, they can also
+help librarians to perform many tasks more efficiently and possibly achieve goals that were almost
+impossible before. R and Python are scripting languages meaning they not very complicated. With
+minimal programming experience, a librarian can learn how to program in these languages and start
+to apply them to jobs. This article gives examples of utilizing R and Python to clean up metadata,
+match transcripts with scanned images, and resize images for the Colorado State University
+Institutional Repository.
+"
+"""{key: value} : algorithmic debiasing in practice""
+","Algorithmic bias is familiar to many of us by now. Like, probably, you, I’ve read papers and watched talks on it for years now. And yet, when I sat down to code an interface that relied on machine learning, I realized I had plenty of questions – but no answers. As much as I’d learned about the big picture, I had no idea how to translate my values into the next line of code. When I looked for literature, I found lots of context, but nothing like a code sample. And yet, I still had decisions to make about interaction elements like autocomplete, or image display, or data visualization. How do I get from context to code? How do I implement these values?   In this talk, I’ll describe specific situations I faced, and the concrete questions of interface design they raised for me. I’ll ask a lot of questions. Perhaps you will have some of the answers.
+"
+"""Brachio: how library websites transform through time""
+","How have library websites changed over time?  What distinguishes them from their peers, and from their past?  What data might guide webmasters for maintenance decisions?  In this project, historical web code is collected and examined to highlight features and trends in library websites, back to the early days of the world wide web.  The cornerstone of this analysis is a dataset of about 1000 academic web URLs: homepages, content pages, and search engines.  This includes all members of the Association of Research Libraries (ARL) and several other prominent university libraries, compared with homepages from each library's host institution and those of a handful of prominent museums and public libraries.  Each URL is requested from the Internet Archive's Wayback Machine, in increments back to 1995.  HTML, CSS, JavaScript, and screenshots are collected, quantified, and evaluated against various metrics, including for complexity and accessibility, and parsed for hints of technologies used.  These page data are collected into a standardized snapshot of each webpage for cross-analysis, augmented with data from the ARL and the federal Integrated Postsecondary Education Data System (IPEDS).  With this dataset I am working to systematically highlight changes and trends in library websites, to help webmasters perform comparative research and to highlight differences in quality and equity.  It will enable answers to provocative questions like:
+* how often are library websites rebuilt?
+* what web technologies and features have been most popular among libraries?
+* how do library websites differ between the Ivy League and smaller, regional institutions?
+
+In time, I hope to provide a browseable catalog of library websites, for webmasters to make more informed decisions, and to enable further research into the history of libraries on the web. 
+"
+"""Managing systems with care: What about the maintenance phase?""
+","How do we manage software with care? We live in a world where resources are scarce and new resource-intensive projects have the potential to take over a team’s workload. Balancing new projects alongside the day-to-day business of migrations, upgrades, and security fixes becomes a Herculean task.   The dedication and energy invested in the phases of the software life-cycle leading to a launch often leave little resources for the maintenance phase. This in spite of the fact that this phase is likely to be the longest and most labor-intensive over the course of a system’s life. How do libraries reconcile the excitement and dedication that goes into launching a system, with the less glamorous, but necessary maintenance of it thereafter? With administrators and patrons desiring new systems, how can we give proper care to those already in existence? What rewards do we give for the (sometimes) invisible labor that goes into sustaining these systems? In this presentation, we will talk about a generalized problem in library technology: how do we convey the value of the maintenance phase and how do we care for the systems we create?  
+"
+"""Caught between Clarity and Flexibility: How to Better Plan Development and IT Work""
+","If your IT team constantly receives more work than what it can complete given available resources, how do you plan and execute the work? Many IT teams face this challenge and find it difficult to come up with a satisfactory solution and processes. If a team plans more work than it can handle, team members will experience burnout and the quality of the work is likely to suffer. But simply tackling work as capacity frees up and avoiding planning will also run the risk of scope creep and poor resource management.  A certain degree of planning including a rough timeline and a set of deliverables seems essential to be able to provide the team with a goal to aim for and to evaluate how well or poorly the planned work was executed upon completion. But this is easier said than done, when the team has a large number of products to manage and many projects in queue. I will highlight key challenges we encounter when we try to better plan development and library technology work and discuss some measures and processes that can help balancing our conflicting desires for clarity and flexibility commonly found in IT teams.
+"
+"""Responsible AI: Building Tools and Frameworks for Transparent and Ethical AI Implementations""
+","Artificial intelligence (AI) can be used in libraries and archives as a powerful tool for enhancing metadata, improving search and discovery, recommending resources, powering library chatbots, and more. However, AI systems may incorporate surveillance technologies that threaten user privacy, and AI often reflects the biases of our society due to biased training data—for example, facial recognition technology is worse at recognizing the faces of people of color if training data is predominantly comprised of white faces. This talk discusses the early activities of the IMLS-funded Responsible AI project, which examines this tension between innovating library services and protecting library communities. The Responsible AI team will present key takeaways from an environmental scan of AI projects in libraries and archives, and our plans for an AI Harms Analysis tool that can ground AI software development and technology implementation. We’ll also discuss a call for case studies to illustrate ethical considerations and challenges during AI project or tool implementation. Attendees will learn about: the current state of AI implementation; how to think about AI transparency; and practical ideas for improving our services, while creating trust in our systems and mitigating the harms AI tools could inflict on our communities.
+"
+"""Transfer Library Data to Linked Art""
+","LUX (“light” from the Yale University’s Latin motto) is a multi-year project to find and connect
+the Yale’s Cultural Heritage Collections across Yale University Art Gallery, Yale Center for
+British Art, Yale Peabody Museum of Natural History and Yale University Library. LUX aggregates
+metadata from the catalogs of Yale’s four main collections, over 50 million records—with a single
+integrated search. How does Yale Library IT harmonize library data with archives and museum
+metadata as Linked Open Data? The poster will demo the process of converting ArchivesSpace data
+and ILS MARC data to Linked Art JSON_LD by implementing a flexible model in a Java Spring-based
+application with Postgres. The application expresses library data as Linked Art entities and
+exposes data through an Activity Stream. Transforming the library data at large scale into Linked
+Data is challenging, especially in terms of data schema design and data storage. We will share the
+lessons we learned from this project and also explore an alternative we are working on for data
+delivery to LUX.
+"
+"""Thor: For the Love of Metadata""
+","Are you tired of building one-off scripts to process your data? Does copying and pasting snippets of code to patch together yet another script make you want to scream? Well, have I got news for you! Introducing: Thor. No, not the Hemsworth with the hammer; the gem worth its weight in empowering you to build and organize reusable metadata processes.  In this presentation I'll demonstrate what Thor, the flexible command line interface toolkit, has to offer to make your next metadata project a breeze*.
+
+
+\* or at least less of a headache.
+"
+"It’s Electric! (How to boogie with a soldering iron, safely)
+","Do you know Python, C, and Ruby, but don’t know the difference between a transistor and a resistor? Have you ever wanted to create custom electronics for your library or be able to help patrons that want to? Has your library been looking for a way to engage in STEAM activities? Do you know the difference between a breadboard and a cutting board? We’ve got a session for you!   This workshop is open to 20 people as a novice workshop with no previous knowledge required.   Attendees will build a working knowledge of electricity and put it into practice by learning a tactile skill, soldering. We’ll be covering simple electronics, what is needed to design a circuit, and how to assemble and solder a simple electronic circuit board. Using Autodesk TinkerCAD circuits we will be covering basic electronics, simple circuitry, and digital breadboarding. Then we’ll also cover how circuits are turned into printed circuit boards(PCBs) using easyEDA. Both programs are free-to-use web-based programs.   Finally, we will be practicing soldering by assembling a wearable printed circuit board you can wear for the rest of the conference as a physical credential of your success. 
+"
+"Code4AI
+","Artificial intelligence (AI) is everywhere, and its applications are part of our daily lives; More and more Libraries do machine learning too!  A Computer Science instructor and a certificated TensorFlow developer will lead this three-hour workshop. Participants will first learn the fundamental knowledge of machine learning and some AI use cases and applications. The second part of the workshop will introduce TensorFlow. Participants will learn how to build a neural network, train, evaluate and optimize machine learning models, and use built models to predict new data.  No complicated algorithms or math. Just do coding! All are welcome.
+"
+"""Building a community of practice around library data""
+","Data systems are used throughout libraries to support a variety of needs, including external reporting, decision making for resource allocation and library service design, discovery and access, and traffic monitoring. As libraries increasingly rely on data systems for everyday work across divisions and departments, an increasingly broad group of library staff needs to build skills with using these systems. This presentation will share an early attempt to build a community of practice around library data among staff at a large academic library. The community is supported by a Microsoft Teams space, and biweekly meetings allow the community to meet and discuss topics of interest. Early meetings have focused on specific training topics, including Git/GitHub, SQL, and Python. The presentation will include details about establishing and maintaining the community, as well as early lessons learned.
+"
+"""Developing Scripts to Scale Out Open Access E-book Acquisitions at the Library of Congress""
+","The Digital Content Management section (DCM) of the Library of Congress (LC) has incrementally improved upon piloted workflows to identify, describe, process, preserve, and make accessible open access e-books to Library users. In 2018 and 2019, DCM staff led several pilot projects to test technical methods for obtaining e-books from various sources, transforming descriptive metadata, adding rights metadata, and processing the content for presentation on loc.gov. In 2022, DCM staff worked to meet a recent LC-objective to “Routinize processes for acquiring and making available open access & openly available e-books”. This effort focused on the routinization of acquisition of titles from the Directory of Open Access Books (DOAB), which offers over 61,000 open access titles. Scalable data processing methods were required for routinizing content acquisition and processing workflows for e-books from DOAB resulting in the development of 11 new Python scripts, which identified eligible titles for inclusion in the Library's permanent collection, sorted titles into queues by type of required processing work, and acquired content and representative images at scale, and preserving and providing access to an additional 1700 open access e-books. This presentation will highlight the workflow development and refinement, challenges, and next steps for repeating this now-routinized work.
+"
+"Creating Visual Essays with Juncture
+","The proposed workshop will consist of:
+
+1) A general overview and demo of Juncture (https://beta.juncture-digital.org). Juncture is tool for digital storytelling, consisting of a set of open and free web-based services that enable non-technical users to quickly create engaging visual essays. The new version of Juncture will include web-based authoring tools in addition to the visual essay rendering engine provided in the first version. A Juncture essay includes interactive images, maps, video, and other visualizations connected to a text narrative. A Juncture essay is defined using plain text augmented with simple tags for formatting and declaring visualizations in a rendered web page. Much of the essay authoring can be performed using drag-and-drop interactions.
+
+2) A live-coding segment in which participants are invited to create their own visual essay. The essays created will include IIIF images, interactive maps with overlays, and text-tagging to enable interactions between essay text and images/maps.
+
+3) A walk-through of the process for setting up a personal media repository for managing and sharing IIIF images. In this segment users can follow along to create their own media repository, add some images (from phone or computer) and use images in their visual essay.
+
+4) An overview/demo of how to configure multiple Juncture essays into a website with a custom domain
+
+5) Using Juncture visualizations in a Wordpress site or vanilla web pages
+"
+"""Doing it for the Photogrammetry: 3D modeling in the classroom""
+","This poster will provide an overview of a photogrammetry assignment developed as part of an
+Introduction to Digital Humanities class. This session was a partnership between Special
+Collections and Digital Initiatives librarians and allowed students to experiment with 3D modeling
+artifacts housed in special collections. Students used their phones and 3D Zephyr to photograph
+and process their models which were then uploaded to Sketchfab. Students received hands-on
+experience working with the artifacts and transferable digital skills that are part of
+professional cultural heritage institutions’s digital practices. Students also had the opportunity
+to partner with special collections collaborators such as The Byron Society of America to envision
+ways of making their realia collections more public-facing and accessible. This activity was part
+of the course’s image and archives unit and also helped make explicit themes and theories explored
+within the class related to close looking, the uncanny, and digital preservation.
+"
+"""Thinking outside the box: Distributed architecture to meet new challenges for openly published research data""
+","Princeton University Library is performing software and data migration along with rapid
+technological development with the goal of making sustainable, robust software to support our
+digital repository service and to address the emerging needs of research data today and in the
+future. Traditionally, options for this type of work include “boxed” systems that have
+interdependent components for object storage, description, presentation, and preservation. These
+systems often lack the flexibility to support emerging metadata standards, or to integrate with
+other infrastructures, and tend to have brittle, extremely time-costly upgrade processes that can
+result in data loss. This poster will cover our approach for supporting openly published research
+data with our newly-developed software, as well as our efficient, flexible approach to creating an
+ecosystem of services capable of being extended to connect with campus partners at Princeton and
+beyond. In presenting our institution’s solution and future plans, we hope to generate a rich
+discussion with others sharing these common problems in support of digital repositories. 
+"
+"""Controlled Digital Lending...What's the Fuss?""
+","Controlled Digital Lending, or CDL, is the replication of the physical act of checking out a book brought to the digital space. One book, one lend—no matter if the book is a physical one or a digital one. Using digital rights management to enforce the one-book/one-lend policy, CDL extends the reach of items that the library has purchased to patrons outside of the four walls of the building.  Behind this simple idea is complex web of policy and technical decisions. To say nothing about the risk of being sued. This session explores the policy, technology, and yes a little of the legal space surrounding CDL. Attendees will learn about CDL projects in libraries, Project ReShare's effort to add a CDL app to its platform, and the efforts of the NISO working group on Interoperable System of Controlled Digital Lending.
+"
+"""Programmatically Assisted Approaches to Improving Digital Collections Metadata""
+","Our homegrown digital collections infrastructure and changing practices have made it difficult to keep our metadata up-to-date in a systematic way, especially for older collections. We’ve been piloting workflows for two of our collections from the early 2000s, to use programmatic methods to help identify areas for additional human intervention. The first is for a collection of materials primarily from the Philippines during the era of US occupation, which is heavily used in the Philippines. Improving the metadata to increase usability for this collection has been part of our institution’s work grappling with its legacy of colonial involvement and responsibility to provide access for communities from whom materials were taken. The second is for a bibliographic collection of 19th century US history, where we know some items are pulling metadata from the incorrect catalog record, but we don’t have a complete list of what items should be in the collection. Both collections have thousands of items, and due to their topic and time of publication, contain sensitive content that require additional care and contextualization, which is why we took an approach that uses automation to facilitate rather than replace human intervention.
+"
+"""Automating FAST Subject Heading Maintenance in Digital Repositories""
+","Digital repository metadata requires ongoing maintenance beyond the initial creation phase to ensure its quality in the long run. This is particularly true for subject headings because they change over time due to evolving usage and, more recently, to address diversity, equity, and inclusion (DEI) issues. Since most repositories use non-MARC metadata standards, subject maintenance may necessitate manual checking of change logs published by vocabulary maintenance agencies rather than relying on services from MARC-based authority processing vendors. These periodic checks and subsequent maintenance works are tedious and time-consuming. Recent DEI related changes to subject headings gave Michigan State University Libraires (MSUL) repository team an opportunity to address subject maintenance in a more systematic way and develop an automated FAST subject maintenance workflow. Harnessing URIs stored in MODS records, this workflow utilizes OAI-PMH, OCLC FAST Linked Data API, and XSLT to identify obsolete and changed FAST subject headings used in the repository and update relevant MODS records with the new headings accordingly. This presentation will discuss the mechanics of the process, steps taken to ensure its accuracy, and some unintended benefits.
+"
+"""Breaking into Prison: Bringing Library Resources to Incarcerated Learners""
+","More than one hundred thousand college students in the US are currently incarcerated, and that number could more than double by the end of next year. Some of these students have never visited a library, and some will never be able to. Can technology help get these students access to academic library resources, and if so, how?   Students, teachers, and administrators in carceral settings have unique needs. Those needs can include both resource constraints like dated hardware or lack of internet access and security constraints like potentially dangerous content or access to communication tools. This talk will share the work of the JSTOR Access in Prisons Initiative, which aims to provide free JSTOR access to incarcerated learners. I’ll address the ways we work through and around the restrictions of carceral institutions. While I’ll share some of the tools and technologies we’re using to do that from Kubernetes in the cloud to Elasticsearch on a thumbdrive, I’ll focus more on the ways that no single set of tools can meet the strange conglomeration of needs we’re trying to address. 
+"
+"""OCFL-Index: an API for accessing OCFL repositories ""
+","[OCFL-index](https://github.com/srerickson/ocfl-index) is a project to define and implement a
+lightweight http/gRPC-based API for indexing and accessing the contents of OCFL-based repositories.
+It can serve content from OCFL storage roots on the local file system or in the cloud. The index
+is implemented as a sqlite3 database, however additional database backends are planned. The API is
+implemented in Go and client libraries for a variety of programming languages can be auto-generated
+using protocol buffer service definitions.  This poster provides an overview of the current project
+status, including its goals, design decisions, and recent benchmarks.
+"
+"""How to Rebuild a Jumbo Jet at 30,000 Feet: Strategies for Digital Library Migration""
+","In support of research, teaching and learning, the Stanford Digital Repository (SDR) is a network of systems and services that house the digital collections of Stanford University Libraries (SUL). Collections in SDR include Google-scanned books, student dissertations and theses, University Archives, Allen Ginsberg's papers, Parker Library, and the Fugitive U.S. Agencies Web Archive, to name a handful. As of late 2022, SDR holds over 5 million digital objects composed of more than 530 million content files. SDR is extremely heterogeneous along several facets, including content types (e.g., books, images, web archives, GIS datasets) and file types.  For the past 4 years, SUL has been working towards migrating SDR to a new datastore and data model. We successfully completed the migration this year. In this presentation, we will describe the motivations for this work and the strategies used to accomplish the migration. These strategies may be repurposeable in other production system migrations: adopting a validatable data model, abstracting the datastore behind an API, separating concerns, testing metadata mappings against production, writing reports to understand complex data, templating unit tests, performing a rolling migration, and incorporating migration into ongoing project work. 
+"
+"Dr. Lydia Tang Keynote
+","
+Dr. Lydia Tang is an Outreach and Engagement Coordinator for LYRASIS. Previously, she
+held archivist positions at Michigan State University, the Library of Congress, and numerous
+graduate positions at the University of Illinois, where she received her MLIS and Doctor of Musical
+Arts degree. Passionate about accessibility and disability representation in archives, she served
+on the Task Force to Revise the Best Practices on Accessible Archives for People with Disabilities
+and spearheaded founding the Society of American Archivists’ (SAA) Accessibility & Disability
+Section (ADS). She is the 2020 recipient of SAA’s [Mark A. Greene Emerging Leader
+Award](https://www2.archivists.org/news/2020/mark-a-greene-emerging-leader-award-lydia-tang) and
+was recognized in three SAA Council resolutions as a co-founder of the Archival Workers Emergency
+Fund, for spearheading the Accessibility & Disability Section’s “Archivists at Home” document, and
+for the “Guidelines for Accessible Archives for People with Disabilities.” In addition to her
+professional service with SAA, she has contributed to accessibility initiatives within DLF Digital
+Accessibility Working Group and the ArchivesSpace open source software community by leading the
+Staff Interface Enhancement Working Group, Development Prioritization subteam, founding the
+Usability subteam, and chairing the Users Advisory Council. She has written about accessible
+physical archival spaces, hiring and advancement practices, and is currently co-editing a book
+with Dr. Gracen Brilmeyer, Preserving Disability: Disability and the Archival Profession.
+"
+"""The Oxford Common File Layout - Understanding the specification, institutional use cases and implementations""
+","The Oxford Common File Layout (OCFL) is an emerging data standard that describes an application-independent approach to the storage of digital information in a structured, transparent and predictable manner. With the most recent release, v1.1, OCFL implementations are becoming increasingly popular within institutions looking for long-term preservation solutions that are robust against corruption, offer storage diversity and are easily transportable between storage vendors, thus protecting their content into the foreseeable future.  In this presentation we will discuss the specific design goals and methodologies involved in developing and maintaining the OCFL specification as well as explore different ways institutions are implementing OCFL as part of their digital preservation programs. Implementers will speak about their use case requirements for their individual institutions and reasoning behind selecting OCFL as well as discuss their desired outcomes.
+"
+"""Beyond descriptive metadata: Using OPDS and ODL open standards to develop the Palace App, a e-reader mobile app.""
+","In building library-developed e-reader mobile apps (SimplyE and Palace App) it became clear that old standards for metadata exchange such as MARC and KBART were not enough. We needed to expand and use new standards such as OPDS and ODL to share information about how to acquire an ebook file (link/download actual EPUB and PDF) within secure DRM frameworks where needed, communicate terms of loans or access, include accurate institutional holdings, etc. This presentation will introduce our use of OPDS and ODL for developing the Palace App for New York University and Columbia University as well as hundreds of public and state libraries. We will also touch upon the importance of using open standards in the ebook ecosystem.
+"
+"""Text Analysis & Constellate: the technology and the Lab""
+","Constellate offers a comprehensive and easily accessible program that helps your community develop text analysis and data mining competencies, along with related skills, through multiple modes of learning and hands-on application with tens of millions of texts from JSTOR, Portico, and other open source providers. In this workshop Amy Kirchhoff (Constellate business manager) and Matt Lincoln (Senior Software Engineer) will introduce Constellate and discuss its teaching & learning focus. We will then discuss the technology that drives the service and our implementation choices: including the challenges of ingesting content from multiple sources, our front and backend technologies to support visualizations and searching, and the technology details of the Constellate Lab (a cloud based computing environment.) In the latter half of the session we will try doing some text analysis in the Constellate Lab and discuss how to use your own Jupyter notebooks.
+"
+"""Open Access Ebooks: Proliferation and duplication across too many platforms""
+","As the number of Open Access Ebooks grows, libraries see a proliferation of the same titles in dozens of platforms. This duplication of titles creates challenges including presentation of too many links to users, inability to gather wholistic user statistics for funders and internal analysis (COUNTER and proprietary stats), lack of universal IDs, as well as difficulty in presenting users with links to their desired format - PDF or EPUB. We analyzed over 70,000 OA titles activated in our catalog from OApen, Knowledge Unlatched, JSTOR, Project Muse, Ebook Central, SpringerLink, etc. We reported on these challenges and worked with Directory of Open Access Ebooks and OApen on how to best expand services to help libraries mitigate these issues.  
+"
+"""How to Survive a Disaster [Recovery]""
+","What would happen if the primary storage for your archives crashed and burned today? You’re a good digital preservation practitioner; undoubtedly you have copies safely stored in other locations. You’d be fine, right? But have you ever imagined the actual time and effort it would take to recover your data, get all your systems in sync, and get back to business as usual?  Save your imagination for better things: my colleagues and I experienced exactly this scenario and lived to tell the tale. I’ll share the highlights (and lowlights,) the issues no one expected, and what you can do now to be best prepared if and when disaster strikes. 
+"
+"""Developing an ORCID to Esploro Integration Application at the University of Miami ""
+","The University of Miami Libraries implemented Ex Libris Esploro as our Institutional Repository in
+2021, and as part of this implementation the University of Miami (UM) started an initiative to
+integrate ORCID iDs for researchers across the institution. Because not everyone at UM is a
+researcher in Esploro, we needed a solution that could connect ORCID iDs for everyone independent
+of Esploro, thus we developed the “ORCID Integration Tool”, a middleware application that could
+handle all use cases. The app pulls ORCID data into Ex Libris Alma/Esploro via OAuth and API
+connectors. This poster will outline the development process we took to build this app, including
+the overall workflow: for example, Docker development environment, Azure pipelines, Python
+libraries, Flask framework, and the results of user testing that led to a revision of the interface.
+"
+"Fail4Lib 2023
+","Everyone experiences failure in their professional lives, but no one likes to talk about it. When we see failure approaching, we distance ourselves, avert our eyes, or -- if we're in its path -- brace for the worst. But failure has intrinsic value and is an essential step on the path to professional and organizational success. And since it’s inevitable, we ought to learn how to look back on our failures to derive value from them, and how to look ahead so that our past failures can inform our future successes.  Fail4Lib is the perennial Code4Lib preconference dedicated to discussing and coming to terms with the failures that we all encounter in our work. It is a safe space for us to explore failure, to talk about our own experiences with failure, and to encourage enlightened risk taking. The goal of Fail4Lib is for participants – and their organizations – to get better at failing gracefully, so that when we do fail, we do so in a way that moves us forward.   Both first-timers and Fail4Lib veterans are welcome!
+"
+"""Organizing Algorithms""
+","The application of machine learning algorithms in libraries and information organizations is a
+topic of growing importance to the information science community. The inverse, though, is much
+less discussed. This poster explores current applications of best practices in information
+organization to algorithm environments. As the number of low-technical users of algorithms and
+their associated output continues to grow, adherence to standards of information organization is
+becoming increasingly important. Current standards, such as generous tools and FAIR data
+principles, are discussed to evaluate current algorithm environments. GitHub and Hugging Face
+serve as primary examples to show how current platforms meet and fall short of these standards. I
+find several opportunities for improvement in the organization of information on these platforms,
+including leveraging contributions from existing open-source communities. 
+"
+"""Going Beyond Better Than Nothing: Accessibility and Archives""
+","Several truths exist. Humanity has written down a lot. Libraries archive much of it. Said archives tend not to be accessible.   When you work in library accessibility, how to address disability access in archives is a common source for plenty of questions. What file formats best support screen readers and other assistive technologies? What standards exist and what do they require? How much work is required for making one document accessible? Thousands? How do you prioritize? Can work be automated through artificial intelligence such as optical character recognition? What are the costs? Who should do the work?   This talk will aim to summarize years of conversations and experience on the topic. Key requirements, workflows, policies, and priorities will be presented alongside experience with implementations of various aspects. Most importantly, the needs and perspectives of disabled patrons will be shared and emphasized. Accessible archives must go beyond the basics of conformance and achieve an inclusive and equitable user experience.
+"
+"""Our Path to Development: Creating an Organizational Safety Net to Tackle Imposter Syndrome Among Developers""
+","Many library organizations lack clearly defined paths to enable staff to become developers. Even when already working in library technology departments, this lack of transparent process makes it particularly difficult for new librarians/staff to feel confident in risk-taking during their learning journey, resulting in discomfort when reaching out to more seasoned colleagues for help. Our talk will discuss how our organization has tackled this problem by creating a safety net – including mentors, learning opportunities, and processes – that helps nurture new developers and combat the imposter syndrome that they can often face.   As one concrete example of our learning path, we will discuss the Command Line Curriculum we use to onboard new staff towards Linux/Unix system administration and use. In addition, we will talk about the hands-on documentation to build library applications the “hard way” and a follow-up tutorial on how to automate these more challenging steps. Finally, we will look at some of our pairing and ensemble practices that allow us to feel comfortable amongst the more established developers, creating an open culture of knowledge sharing, collaboration, and confidence!
+"
+"Solr for newbies
+","This is an introductory workshop to Solr, the fast and open source search platform that powers a lot of library products. This workshop is geared to anyone that has never used Solr, or uses it but has not explored some of the features that Solr offers out of the box, or looked under the hood to see how it can be configured.  We’ll start the workshop with a quick review on how Solr stores data and the process that it goes through when a search is submitted.  We’ll then go through a tour of the main features in Solr:
+* Indexing your data: where all of it starts
+* Solr’s document-based data model and what that means to you
+* How to configure fields for different needs (ever wonder what the “_t” means in a Solr field and how it’s different from a “_s” field?)
+* What are Search Request Handlers and Query parsers (ever been puzzled by dismax vs edismax?)
+* What’s the difference between the “q” and “fq” parameters when you search
+* How to debug queries and figure out why the resulting documents are being picked (or not)
+* How to tweak the ranking of results
+* How to use facets, synonyms, and hit highlighting  While practical, this workshop does not require you to be a coder. The idea is for you to learn the concepts, features, and how they work. If you choose, we’ll show you how to install Solr on your machine to experiment with the concepts as we go. But if you prefer not to install Solr (or updating configuration files is not your thing) you can still follow along and learn with us.
+"
+"""Artificial Intelligence for matching MARC records""
+","Can AI be used for matching MARC records? We match bibliographic records from different institutions for deduplication. Most of the records we process have OCLC numbers, but records lacking them can’t be deduplicated. We have no automated process for auditing whether OCLC numbers were correctly assigned when cataloged. After years of relying on OCLC numbers, we began exploring additional methods for matching MARC records. We’ve experimented with fuzzy matching and natural language processing techniques in conjunction with a variety of machine learning models (logistic regression, random forests, decision trees, and neural networks). This talk will discuss our exploration of AI and our current model, share our obstacles, and outline our next steps.
+"
