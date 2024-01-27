@@ -14,6 +14,3 @@ Download all the files in the `_posts/` directory (excluding the `_posts/keynote
 zsh <(jq -r '.tree[] | select(.path | startswith("_posts/")) | select(.path | startswith("_posts/keynotes") | not) | "curl \("https://raw.githubusercontent.com/code4lib/2023.code4lib.org/main/\(.path)" | @sh) -o \(.path|@sh)"' output.json)
 ```
 
-
-```
-```
