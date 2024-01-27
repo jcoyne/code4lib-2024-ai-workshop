@@ -3,7 +3,7 @@ AI workshop for code4lib 2024
 
 ## Starting the database
 * Start docker
-* Open a terminal in this directory and start the database by running: `docker compose up`
+* Open a terminal in this directory and start the database by running: `docker compose up db`
 
 ### What's included
 * Postgres 15: https://postgresapp.com/
@@ -15,10 +15,14 @@ Open another terminal in this directory and run: `docker compose run db /usr/bin
 1. Enable pgvector: `CREATE EXTENSION vector;`
 2. Create a table for your data:
 ```sql
-CREATE TABLE books(id SERIAL PRIMARY KEY,
-  author      varchar(100),
-  title       varchar(100),
+CREATE TABLE courses(id SERIAL PRIMARY KEY,
+  title       varchar(200),
   description text,
   embedding   vector(384));
 ```
 3. `\q` to quit psql.
+
+## Load data
+```
+docker compose up python
+```
