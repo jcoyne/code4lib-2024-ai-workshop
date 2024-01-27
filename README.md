@@ -40,3 +40,9 @@ CREATE TABLE courses(id SERIAL PRIMARY KEY,
 ```
 
 3. `\q` to quit psql.
+
+## Load data
+
+```
+docker compose up python
+```
