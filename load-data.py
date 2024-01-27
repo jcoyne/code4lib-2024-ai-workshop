@@ -17,5 +17,4 @@ def load_data():
                 print(" " + row[0])
         conn.commit()
 
-
 load_data()
