@@ -46,3 +46,17 @@ CREATE TABLE courses(id SERIAL PRIMARY KEY,
 ```
 docker compose up python
 ```
+
+## Explore data
+
+Which talk is the most similar to the first talk?
+
+```
+docker compose run db /usr/bin/psql postgres://root:password@db:5432/ai
+```
+
+https://github.com/pgvector/pgvector#querying
+
+```sql
+SELECT title FROM courses ORDER BY embedding <-> (SELECT embedding FROM courses LIMIT 1) LIMIT 5;
+```
