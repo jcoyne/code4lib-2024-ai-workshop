@@ -12,6 +12,15 @@ AI workshop for code4lib 2024
 - Postgres 15: https://postgresapp.com/
 - pgvector: https://github.com/pgvector/pgvector#installation-notes
 
+## You'll also need a Hugging Face API token:
+
+1. Go to https://huggingface.co/
+2. Sign up
+3. Check your email for confirmation and click the link
+4. Go to https://huggingface.co/settings/tokens and click “New Token”
+5. Name it “code4lib-workshop” (or whatever you want) and give it “read” role
+6. Copy it into .env_sample and re-save that file with the name .env
+
 ## Create the table
 
 Open another terminal in this directory and run: `docker compose run db /usr/bin/psql postgres://root:password@db:5432/ai`
