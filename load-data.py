@@ -16,6 +16,6 @@ def load_data():
                                (row[0], row[1], embedding))
                 print(" " + row[0])
         conn.commit()
-            
+
 
 load_data()
