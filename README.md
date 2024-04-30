@@ -49,6 +49,8 @@ docker compose up python
 
 ## Explore data
 
+### Using the database
+
 Which talk is the most similar to the first talk?
 
 ```
@@ -59,4 +61,25 @@ https://github.com/pgvector/pgvector#querying
 
 ```sql
 SELECT title FROM courses ORDER BY embedding <-> (SELECT embedding FROM courses LIMIT 1) LIMIT 5;
+```
+
+### Using the Python REPL
+
+```python
+import numpy as np
+import HuggingfaceInferenceApi
+from db import db
+from pgvector.psycopg2 import register_vector
+from dotenv import load_dotenv
+load_dotenv()
+
+vector =  HuggingfaceInferenceApi.query({"inputs": "How can I learn about AI in libraries?"})
+embedding = np.array(vector)
+
+with db() as conn:
+  register_vector(conn)
+  cursor = conn.cursor()
+  cursor.execute("SELECT  title FROM courses ORDER BY embedding <-> %s LIMIT 5", (embedding,))
+  cursor.fetchall()
+
 ```
