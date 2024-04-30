@@ -1,2 +1,7 @@
 psycopg2
 python-dotenv
+requests
+
+# For REPL segment
+numpy
+pgvector
