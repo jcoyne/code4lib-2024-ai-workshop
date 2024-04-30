@@ -2,6 +2,10 @@
 
 AI workshop for code4lib 2024
 
+## Slides
+
+http://jcoyne.github.io/code4lib-2024-ai/
+
 ## Starting the database
 
 - Start docker
