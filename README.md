@@ -65,6 +65,10 @@ SELECT title FROM courses ORDER BY embedding <-> (SELECT embedding FROM courses 
 
 ### Using the Python REPL
 
+```
+docker compose run python python
+```
+
 ```python
 import numpy as np
 import HuggingfaceInferenceApi
